@@ -277,6 +277,9 @@
             else if (nesinRange.includes('3등급')) { nesinMin = 3.0; nesinMax = 3.99; }
             else if (nesinRange.includes('4등급')) { nesinMin = 4.0; nesinMax = 4.99; }
 
+            // 중복 제거를 위한 Set
+            const seenIds = new Set();
+
             let filtered = studentsData.filter(s => {
                 const nesin = s.nesin_average || 0;
                 return nesin >= nesinMin && nesin <= nesinMax;
@@ -291,6 +294,12 @@
                 return { ...s, match_score: score };
             }).filter(s => s.match_score > 50)
               .sort((a, b) => b.match_score - a.match_score)
+              .filter(s => {
+                  // 중복 학생 제거
+                  if (seenIds.has(s.id)) return false;
+                  seenIds.add(s.id);
+                  return true;
+              })
               .slice(0, topK);
 
             // 각 학생의 탐구활동과 세특 추가
