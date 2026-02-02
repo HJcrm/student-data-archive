@@ -1,0 +1,595 @@
+{
+  "alias": "학생10_숭실대_신소재공학과",
+  "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "사회",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "과학",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 81.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 3,
+        "percentile": 69.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 4,
+        "percentile": 69.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 3,
+        "percentile": 86.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 4,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 2,
+        "percentile": 76.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 3,
+        "percentile": 86.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 3,
+        "percentile": 50.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 5,
+        "percentile": 73.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 4,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 2,
+      "math": 5,
+      "english": 3,
+      "history": 3,
+      "tamgu1": "탐구1",
+      "tamgu1_grade": 5,
+      "tamgu2": "탐구2",
+      "tamgu2_grade": 4,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "숭실대학교",
+        "department": "신소재공학과",
+        "admission_type": "SSU미래인재",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "광운대학교",
+        "department": "전자재료공학과",
+        "admission_type": "광운참빛인재I(면접형)",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "홍익대학교",
+        "department": "신소재화공시스템공학과",
+        "admission_type": "학교생활우수자",
+        "result": "불합격(최저미충족)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "건국대학교",
+        "department": "재료공학과",
+        "admission_type": "KU지역균형",
+        "result": "불합격(예비X)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "아주대학교",
+        "department": "첨단신소재공학과",
+        "admission_type": "추천형",
+        "result": "불합격(1차합격, 최종예비1)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "세종대학교",
+        "department": "반도체시스템공학과",
+        "admission_type": "세종창의인재(면접형)",
+        "result": "불합격(1차합격, 최종예비1)",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "숭실대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "서울시",
+    "school_type": "사립일반고(여고)",
+    "school_name": "OO고등학교",
+    "atmosphere": "1~2등급대학생들 중심, 수시와 정시로 나뉘는 분위기",
+    "competition_level": "높음",
+    "special_programs": [
+      "독서",
+      "합격생 멘토링 프로그램",
+      "인문학 학당",
+      "MY 사회과학 세미나"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "1-1",
+        "subject": "동아리",
+        "title": "‘팅커캐드’ 프로그램을 활용하여 수학개념이 들어간 3D 우산꽂이 제작",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "2-1",
+        "subject": "수학I",
+        "title": "흑연결정에 대한 인장탄성률을 나타낸 그래프의 기저면의 각도와 탄성률",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "2-2",
+        "subject": "동아리",
+        "title": "생명윤리에 대한 딜레마 체험 및 고찰",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "2-2",
+        "subject": "자율적교육과정",
+        "title": "에어로졸을 활용한 태양복사에너지 차단 실험 설계 및 진행",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "2-2",
+        "subject": "진로",
+        "title": "그래핀과 메타물질을 결합한 빛속도 제어소자의 전자기 유도 투과현상",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "2-2",
+        "subject": "물리학I",
+        "title": "폐플라스틱을 이용하여 필라멘트를 만들 수 있는 기계 설계 및 제작",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "3-1",
+        "subject": "진로",
+        "title": "가시광선 영역에서 유기물을 분해하여 정화형 활동을 하는 TiO2 광촉매를 코팅하는 Sol-gel법과 ALD법",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "3-1",
+        "subject": "사회문제탐구",
+        "title": "자동차 급발진 사고의 원인과 해결방안",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "3-1",
+        "subject": "물리학II",
+        "title": "메타물질로 만든 메타줌렌즈 기술의 원리와 활용",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "3-1",
+        "subject": "동아리",
+        "title": "황폐기물을 이용한 친환경 자가치유 소재의 원리와 효과",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "동아리",
+        "content": "동아리 (수학교구탐구반)(20시간) 활동에적극적인자세를지니고활동하며모든활동에최선을다함. 처음접해보는'팅커캐드' 프로그램을활용해서3D 모형을만들어오라는과제를받고스스로 탐구하여프로그램활용법을깨닫고자노력함. 또한일반적으로디자인된사례들을이용하지않고 '수학은아름다워1(육인선)'이라는책에서알게된쌍곡선을활용하여기존에쓰이던우산꽂이의 단점을줄이고활용도를높인디자인을고민한후새로운형태의우산꽂이를만들어옴. 관찰력이좋아서3D 프린터로출력했을때출력물의옆면이부러지고내부에거미줄과같은형태가깔끔히 제거되지않는문제점을파악하고, 필라멘트소재의장단점을비교해봄으로써학교에서쓰는PLA 필라멘트와같은친환경소재이면서강도가높고출력이수월하며후가공이쉬운PETG 필라멘트에대해알게된후교사에게추천하는열정을보임. 제작가이드없이만들기어려운 오더리삼각형과오더리사각형을만드는활동을하며도형의꼭짓점이다른도형의변의중심과연결된다는원리를스스로파악한후이러한특징을이용하여입체도형을끝까지제작하는끈기를보임. 보여주고싶은역량: 독서를통해얻은지식을실생활에활용할수있는역량과단점을보완하기위해소재와관련된대안책을제시할수있는역량을동시에보여주어소재에대한관심을표현하고자했습니다. 합격선배의생기부분석: 수학적지식을바탕으로3D 프로그램으로우산꽂이를스스로제작하고필라멘트에관한대안책을제시하는자기주도적인역량이돋보인다고생각합니다. → 독서를통해얻은수학개념을적용해3D 프로그램으로출력물을제작하고보완점까지제시하는 자기주도적인역량이가장잘드러난내용입니다.",
+        "highlights": [
+          "팅커캐드",
+          "3D 모형",
+          "우산꽂이",
+          "필라멘트",
+          "자기주도성"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "동아리",
+        "content": "동아리 (자유주제탐구토론) (14시간) 다른학생들과토의를하는과정에서주도적인역할을하면서도 모두가의견을낼수있도록배려하고독려하는모습을보임. 산업분야에서황폐기물이많이 발생해다양한환경문제를유발한다는내용을접하고황이가진특성을친환경적으로재사용할 수있는방법이없을지에대한의문이들어조사한내용을바탕으로스피치활동을진행함. 황폐기물을이용한친환경자가치유소재를주제로폴리우레탄에황화합물인다이설파이드를 투입하여만든자가치유소재가복분해와링플립등의효과를가질수있다는내용에대해 전달하며자가치유소재를이용한피부부착형디스플레이를대학에서개발및연구하고싶다는 확고한목표의식을드러냄. '국경없는과학기술자들(이경선)'을읽고발달된과학기술을모든 사람들이공평하게누릴수있는공정성에대해토론함. 현지의문제점을파악하고사용자들을 분석하며개발도상국에ICT 기술을보급한사례를강조하며고부가가치를지닌과학기술의 혜택을누구나누리며정보의격차를줄일수있도록기술변형의필요성을주장함. 기술적인 부분은물론사회적, 환경적인부분까지종합적으로고려하는모습이돋보임. 보여주고싶은역량: 단순하게관심있는소재에관해탐구해보는것에서끝나지않고대학에진학해서개발하고 싶은것에대해서까지생각하는목표의식과의지가있는학생임을보여주고자하였습니다. 또한2학년때 진로목표로밝힌윤리적인문제를고려할수있는학생이라는것도보여주고자하였습니다. 합격선배의생기부분석: 관심있는친환경소재에대해탐구한후개발하고싶은것까지구체적으로언급하고, 2학년때언급한윤리적인문제에대해서탐구하는자세를보여주어‘나’라는사람이잘드러난생기부내용이라고 생각합니다. → 친환경소재에대한관심과구체적인목표의식을보여주는내용을통해전공적합성을잘드러냈다고 생각합니다.",
+        "highlights": [
+          "친환경 소재",
+          "자가치유소재",
+          "토론",
+          "과학기술",
+          "윤리적 문제"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "진로1",
+        "content": "1학년때진로탐색활동에서개발하고싶다고밝힌소재와관련된연구현황에대해더알아보고자전공탐색프로젝트(2024.03.11.-2024. 7.14)에서'가시광선영역에서유기물을분해하여정화형활동을하는TiO2광촉매'에대해탐구함. 관련학술자료를통해Sol-gel법과ALD법을이용하여TiO2를코팅시키면실내의가시광선으로도촉매반응이일어난다는것을알게된후, 나노기술을환경에어떻게이용할수있을지더알아보고자'한권으로읽는나노기술의모든것(이인식)'을읽고빠르고정확하게오염물질을분해하고살균하기위해나노미터수준에서환경오염을감지하는나노바이오센서를광촉매와같이이용해야한다는의견을펼침. 이후가시광선영역보다더낮은에너지영역에서도촉매반응이일어날수있는지추가적인호기심이생겨빅카인즈를이용해'햇빛이없어도반응이일어나는광촉매'에관한뉴스를찾아보고'빛없이도작동하는광촉매의과학적원리와사회적영향'을주제로발표를진행함. TiO2광촉매에풀러렌을증착시켜만들어진수산화라디칼이오염물을분해하고살균할수있는과학적원리를설명하고, 광촉매작용후발생하는수산화라디칼이인체에무해하고해로운부산물을발생시키지않는장점을가지고있지만수산화라디칼이과도하게존재하면산화적스트레스와같이인체에유해한반응을일으킬수있어이를효과적으로제어하는기술이동반될필요가있다고논리적으로주장한모습이인상적임. 진지한학업태도와배움의성실성그리고강한문제해결의지와태도, 남다른발표력및설득력등의사소통역량등을고루갖춘학생임 보여주고싶은역량: TiO2광촉매에관해탐구한후호기심을갖고꼬리에꼬리를무는탐구를진행한점을보여주고싶었습니다.",
+        "highlights": [
+          "TiO2 광촉매",
+          "환경 정화",
+          "나노기술",
+          "호기심",
+          "발표력"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "물리학II",
+        "content": "뛰어난성실성을보이는학생으로, 이해하지못한개념은교사와의질의응답혹은급우들과의토의를통해이해한후에넘어가기에시간이지날수록개념이확실히정립되는대기만성형인재로보임. '빛속도제어소자'에대한탐구이후메타물질이빛의행동을조작하여이미지를생성하고개선하는이미징기술에도사용될수있음을알고적용된사례가있는지호기심이생겨'메타물질로만든메타줌렌즈기술'이라는주제로발표함. 유전율, 투자율과같은개념을접하고다양한물질의유전율과투자율에대해조사한후, 인위적인물성을지녀음의투자율을가지는메타물질인SRR구조물질의빛은투과시키면서투자율은음의값을가지는원리를물리학Ⅱ시간에배운전자기유도법칙과축전기, 공진주파수개념을이용하여설명하고메타물질로만든메타줌렌즈의특징과임프린팅기술을이용한양산공정에관해서는시각자료를활용하여이해를도움. 질의응답과정에서메타줌렌즈를어떻게활용할수있냐는질문에SRR구조물질로메타물질주변으로빛의경로를왜곡시켜뒤를보이게할수있어시각장애인이앞을볼수있게하는렌즈를개발할수있다는논리적인주장을하는모습이뛰어남. 보여주고싶은역량: 2학년에이어메타물질에대한심화탐구를물리학II교과개념을이용해이어나가는모습과메타물질을이용해개발하고싶은것에대한나의논리적인의견을잘보여주고싶었습니다. 합격선배의생기부분석: 2학년에탐구한소재에대한추가적인탐구로그치지않고개발하고싶은소재에대한나만의의견을드러내어전공적합성이가장잘드러난생기부라고생각합니다. → 물리학II교과개념을이용해2학년때관심을가진소재에대한추가탐구를이어나간점에서전공적합성을잘보여주고, 탐구이후실제로소재를이용해개발하고싶은것에대한나만의의견까지잘드러난생기부라고생각합니다.",
+        "highlights": [
+          "성실성",
+          "메타물질",
+          "빛속도제어소자",
+          "시각장애인용렌즈",
+          "탐구활동"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "자율적교육과정",
+        "content": "자율적교육과정(2023.07.10.-2023.07.14.) 수업량유연화프로그램인'내손으로해결하는기후위기' 활동에참여함. 태양복사에너지관리기술에대해심화탐구하고자에어로졸을활용한태양복사에너지차단실험을직접설계하고진행함. 살충제, 석고, 리무버, 분필, 소독제를실험대상으로선정하고, 육지환경은화단의흙을, 바다환경은증류수에소금을넣어최대한자연환경에가깝게조성함. 실험대상성분을함유한에어로졸을분사하고햇빛에노출했을때모든물질이대조군의온도증가율보다낮은것을확인하고온실효과를낮추는데에효과가있음을알수있었지만, pH 상승효과가나타나는부작용이있음을확인함. 실험설계과정을참고할만한자료가없는가운데서도비슷한사례를찾아재현하고자하는창의적인문제해결력이돋보임. 이후지구공학에대해알리고자학생들을대상으로'지구공학, 인공적으로기후를변화시키다'를주제로수업을진행함. 지구공학의현황및영향과진행한실험에대해소개하고학습지를제작해'인위적기후조절이반드시필요할까?'를주제로토론을진행함. 한국가에서살포한에어로졸이전국가적으로확산될수있어국제기구간의합의가필요하다고제시함. 보여주고싶은역량: 통합과학과수업량유연화프로그램을통해기후위기의심각성을인지한후이를해결할수있는실험을직접설계하고진행할수있는역량을갖추었다는것을보여주고싶었습니다. 합격선배의생기부분석: 문제의식을가지고참고할수있는실험이없는상황에서도비슷한사례를찾아실험을설계하고진행하는창의적인문제해결력과탐구력이잘드러낸생기부라고생각합니다. → 기후위기에대한문제를인지하고이를해결해보고자관련실험을직접설계하고주도적으로진행하는창의적인문제해결력과탐구력이돋보이는생기부라고생각합니다.",
+        "highlights": [
+          "기후위기",
+          "태양복사에너지",
+          "에어로졸",
+          "실험설계",
+          "지구공학",
+          "문제해결력"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "수학 개념을 활용하여 실제 문제를 해결하려는 자기주도적인 모습",
+      "3D 모델링 프로그램을 이용한 디자인 및 출력 경험",
+      "생활 속 불편함을 해결하기 위한 탐구 활동",
+      "다른 필라멘트의 특성을 조사하고 제안하는 과정",
+      "동아리 활동에서 주도적인 역할을 하며 다른 학생들을 배려하는 모습",
+      "친환경 자가치유 소재에 대한 연구 및 개발 의지",
+      "사회적, 환경적 문제를 종합적으로 고려하는 태도"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_001",
+        "saeteuk_id": "saeteuk_001",
+        "match_score": 0.4256410256410257,
+        "match_reason": "같은 과목, 내용 유사 (2%)"
+      },
+      {
+        "research_id": "research_007",
+        "saeteuk_id": "saeteuk_003",
+        "match_score": 0.4131578947368421,
+        "match_reason": "같은 과목, 내용 유사 (1%)"
+      },
+      {
+        "research_id": "research_004",
+        "saeteuk_id": "saeteuk_005",
+        "match_score": 0.41282051282051285,
+        "match_reason": "같은 과목, 내용 유사 (1%)"
+      },
+      {
+        "research_id": "research_003",
+        "saeteuk_id": "saeteuk_002",
+        "match_score": 0.4,
+        "match_reason": "같은 과목"
+      },
+      {
+        "research_id": "research_009",
+        "saeteuk_id": "saeteuk_004",
+        "match_score": 0.4,
+        "match_reason": "같은 과목"
+      }
+    ],
+    "unlinked_researches": [
+      "research_010",
+      "research_006",
+      "research_005",
+      "research_008",
+      "research_002"
+    ],
+    "unlinked_saeteuks": []
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 35814"
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "alias": "학생02_고려대_의예과",
+  "source_file": "의학계열 생기부 데이터.pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "평균",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 99.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 1,
+        "percentile": 100.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 1,
+        "percentile": 98.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 2,
+        "percentile": 1.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 1,
+        "percentile": 1.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 99.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 1,
+        "percentile": 99.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 1,
+        "percentile": 93.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 1,
+        "percentile": 1.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 2,
+        "percentile": 2.0,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 1,
+      "math": 1,
+      "english": 1,
+      "history": 1,
+      "tamgu1": "탐구1",
+      "tamgu1_grade": 3,
+      "tamgu2": "탐구2",
+      "tamgu2_grade": 1,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "서울대학교",
+        "department": "의예과",
+        "admission_type": "지역균형전형",
+        "result": "불합격(1차합격, 2차탈락)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "의예과",
+        "admission_type": "학업우수형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "성균관대학교",
+        "department": "의예과",
+        "admission_type": "탐구형",
+        "result": "불합격(1차합격, 2차탈락)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "의예과",
+        "admission_type": "지역인재교과",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "울산대학교",
+        "department": "의예과",
+        "admission_type": "잠재역량",
+        "result": "불합격(1차합격, 면접불참)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "경희대학교",
+        "department": "의예과",
+        "admission_type": "네오르네상스 전형",
+        "result": "불합격(1차합격, 면접불참)",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "고려대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "대구광역시",
+    "school_type": "일반고",
+    "school_name": "OO고등학교",
+    "atmosphere": "상위권 경쟁 치열, 수시 중심",
+    "competition_level": "높음",
+    "special_programs": [
+      "과학중점학교",
+      "진로진학멘토링",
+      "교수님 초빙 특강",
+      "실험 예산 지원 프로그램"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "3-1",
+        "subject": "생명과학II",
+        "title": "오페론의 음성 피드백 미분 방정식을 파이썬으로 모델링 후 모의 실험",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "3-1",
+        "subject": "물리학II",
+        "title": "선형 연립 방정식 계산이라는 CT의 원리 이해와 이를 파이썬으로 구현 후 환자 모의 진단",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "3-1",
+        "subject": "자율",
+        "title": "지역별 고독사 통계 분석(상관 분석, 회귀 분석)",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "2-1",
+        "subject": "동아리",
+        "title": "생물정보학 툴을 이용한 미생물 동정 과제 한효소 전기영동 실험",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "2-1",
+        "subject": "생명과학I",
+        "title": "선천성 면역 항암제 개발 제안서",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "2-1",
+        "subject": "개세특",
+        "title": "인간 이타적 행동의 진화론, 게임이론적 분석과 이를 협력적 학급 분위기 형성에 적용",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "2-1",
+        "subject": "진로",
+        "title": "후성유전학 교수님과의 면담/ 그 후 히스톤 아세틸화제의 항암제로서의 효과 조사",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "1-1",
+        "subject": "진로",
+        "title": "혈액종양내과 교수님과의 면담/ 그 후 2,3세대 항암제 추가 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "1-1",
+        "subject": "개세특",
+        "title": "지역 내 재활용 섬유 기업과 협력하여 학급 내 PET병 재활용 및 캠페인 진행",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "1-1",
+        "subject": "국어",
+        "title": "춘향전 이본 간 차이 연구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "2학년동아리",
+        "content": "생물정보학에 관심이 많아, 제한효소 전기영동 실험을 직접 설계하여 진행함. 선상도 말법을 통해 분리한 콜로니를 채취하여 그람음성균 gDNA mini prep을 수행하고, NGS 분석을 진행함. 이후 BLAST 검색으로 해당 DNA가 알칼리분변균임을 특정하고, NCBI의 참조 유전체 정보를 기반으로 알칼리분변균 gDNA에 HindIII 절단 부위가 537개임을 알아냄. HindIII 처리한 gDNA의 전기영동 결과 약 5~10kb의 제한효소 절편이 나타날 것이라 예상하고, 전기영동을 진행하여 확인함. mini prep 프로토콜을 완벽히 숙지하고, 관련 기업체를 스스로 찾아가 NGS 분석을 의뢰하는 등 뛰어난 탐구 정신과 자기 주도성을 확인할 수 있었고, 생물정보학 도구를 능숙하게 다루는 탁월한 데이터 해석 능력이 특히 인상적임. 보여주고싶은역량: 생명공학기술이해+ 생물정보학툴사용능력. 합격선배의생기부분석: 제한효소처리, 전기영동실험, DNA추출등생명공학실험기술을많이사용한 실험을진행하였음. 그뿐만아니라, 미생물동정을위해생물정보학툴을능동적으로사용하는건설적인활동 수행능력도돋보임. → 의사과학자포지셔닝을잡기위해, 다양한연구방법론을적용시킨연구를할준비가되어있다는학생임을 어필!! 1학년진로화상특강에서생물정보학특강을들을기회가있었고, 그강의에서BLAST/유전자은행에관한내용을 알게되었습니다. 그러한도구와정보를누구나이용할수있다는점에서 나도직접실험을통해이런도구를 사용해보고싶다는생각을하게되었고, 교내에있는장비로어떤실험을할수있을지고안했습니다. 생물실곳곳에서채취한샘플을이용해미생물을분리하고선상도말법을통해순수배양을진행하였다. 이후개별 콜로니를선택하여그람염색을통해세포벽특성을확인한뒤, 그람음성균으로확인된시료의gDNA를mini prep 기법으로추출했습니다. 이후 NGS분석과제한효소전기영동두갈래로나누어실험을진행했고, 나는주로NGS분석을의뢰하는역할을 도맡아했습니다. 분석결과를토대로, 실험보고서를작성하고전기영동결과와비교했습니다. 실험설계부터분석까지전과정에주도적으로참여하며탐구정신과자기주도성을기를수있었습니다. 특히, mini prep 프로토콜을완벽히숙지하고, 직접관련기업을찾아가NGS 분석을의뢰하는과정에서실험의실용적인 측면을경험할수있었습니다. 이실험을설계하고, 진행하면서실험이망하는경험도더많이쌓였던것같습니다. 그과정에서문제해결능력과 능숙한트러블슈팅능력이발달되었다고생각합니다. 만족스러운점 생물정보학도구를능숙하게활용하여데이터를분석하고해석하는능력을키울수있었습니다. 생물정보학과분자생물학실험에대한실질적인이해를얻을수있었고, 향후연구방향에대한 동기부여가되었습니다. 또한내가고등학교에서탐구의완성도를높이기위해 이정도까지 노력을 보여줄수있는탐구가되어주었습니다. 아쉬운점 제한효소처리후전기영동결과에서예상과다른크기의밴드가일부나타났는데, 이는DNA 절단이완벽하지않았거나예기치않은절단이발생했을가능성이있습니다. 이처럼고등학교학교환경상부족한부분이많이존재할수밖에없는데, 이러한문제들에대한 트러블슈팅과정이한문장정도더있어줬으면좋았을것같습니다. 탐구활동요약 1. 동기: 생물정보학특강-> 생물정보툴을이용하는실험 2. 자료조사: 화상특강및생명공학실험인터넷조사/ 생명공학서비스위탁기업탐색 3. 탐구활동진행: 2트랙실험진행-> 결과분석및비교 4. 후행탐구: 3학년때생명공학기술이해드러내는탐구다수진행",
+        "highlights": [
+          "생물정보학",
+          "제한효소 전기영동",
+          "gDNA mini prep",
+          "NGS 분석",
+          "탐구 정신",
+          "자기 주도성",
+          "데이터 해석 능력",
+          "문제 해결 능력"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "3학년자율",
+        "content": "학생회 봉사부장(2024.03.01.~08.31.)로 선발되어 학생들의 복지 개선뿐만 아니라 사회 복지에도 관심이 많아, 증가하는 고독사 문제를 도시화 및 인간소외 현상으로 인식하고, 복지 사각지대 해소를 위한 방법을 모색하여 학급특색 활동 '나의 작은 강의'에서 발표함. 전공도서를 통해 통계분석 기법을 학습한 후 정부 통계 사이트에서 조사한 지역별 고독사와 주거 형태, 미충족의료율, 고위험음주율 및 의지할 사람 수 자료 간 통계적 유의미성을 고찰함. 상관 분석을 통해 단독주택 비율, 의지할 사람과 고독사 통계 사이의 양의 상관관계를 발견했을 뿐만 아니라, p-value를 이용해 유의성을 판단함. 인과관계를 확인한 변수에 대해 단순 회귀분석을 진행했으며, F값과 T값에 대한 이해를 바탕으로 단독주택 거주 비율이 1%p 오를 때마다 고독사 비율이 0.017%p 내리는 경향성을 회귀모델을 통해 도출함. 보여주고싶은역량: 통계분석능력+ 사회문제관심 합격선배의생기부분석: 2학년확률과통계시간부터통계분석능력을많이배워왔음. 3학년자율시간에, 평소관심있던사회문제의해결방안을고안하기위한양적연구를위해이러한능력을사용할수있음을보여줌. → 사회문제에대한관심을보이며인문학적인소양을드러내는동시에, 통계적사고력도함께돋보이게해줄 수있는좋은탐구!! 1. 활동을하게된동기 지역에서진행한입시상담프로그램에서만난자사고진학부장선생님께서, 3학년세특에통계분석능력에대한 언급이있으면좋겠다고하셨습니다. 그래서 주제를고민하던중평소관심있던사회문제에대한현황을분석하는 데에통계분석도구가사용될수있을것같다는생각을했고, 해당주제로탐구하게되었습니다. 2. 세세한활동진행과정 먼저 전공도서(사이트)를통해통계분석기법을학습한후, 정부통계사이트에서지역별고독사율, 주거형태, 미충족의료율, 고위험음주율, 의지할사람수등의데이터를수집하였습니다. 이후상관분석을수행하여단독주택 거주비율과의지할사람수가고독사율과양의상관관계를갖는다는점을발견하였다. 추가로유의미한변수에 대해서단순회귀분석까지진행한뒤, 통계분석의신뢰성을평가한내용도탐구내용에담았습니다. 데이터로사용했던변수는지역별고독사율, 주거형태, 미충족의료율, 고위험음주율, 의지할사람수5가지로만 진행했습니다. 기사를통해접한정보와, 통계사이트에등록되어있는정보에기반하여선택했습니다. 3. 활동을통해얻은결과와느낀점 복지정책수립시고려해야할요소들에대해깊이이해할수있었으며, 사회문제연구에서양적연구와질적연구가 동시에사용되는이유를깨달았습니다. 통계분석이자연현상/사회현상분석에있어가리지않고정말효과적인도구가될수있다는점을절감했고, 대학에서도이러한능력(통계적사고력)을왜주의깊게보는지를이해하게된것같습니다. 5. 탐구활동개인총평 만족스러운점 학생회봉사부장을꾸준히해왔다는사실과겹쳐서보게되는활동인지라, 사회적책임에대한 관심이더욱두드러져보였다고생각합니다. 1,2,3학년까지쭉이어서통계와관련된활동을한가지씩은넣었는데, 그러한점에서연구 방법론에있어학년간연계성을어필하여진실성이돋보이게할수있었다고생각합니다. 아쉬운점 2학년확률과통계에서사용했던통계분석방법에서크게수학적으로발전이많아보이지는 않는다는점이아쉽습니다. AI를활용해빅데이터를다루는다양한기술들이있는데, 그러한기술까지나아갔다면더완성도있게느껴졌을것같습니다. 4. 탐구활동요약 1. 동기: 통계분석툴사용탐구하고싶음. + 평소관심있던사회문제탐구 2. 자료조사: 기사및국가공공데이터자료사용(‘공공데이터포털’) 3. 탐구활동진행: 통계분석(Orange 사용)을통한양적연구 4. 후행탐구: 연구기반고독사문제해결방안고안",
+        "highlights": [
+          "학생회 봉사부장",
+          "고독사 문제",
+          "통계분석 기법",
+          "상관 분석",
+          "단순 회귀분석",
+          "사회문제 연구",
+          "양적 연구"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "생명과학1",
+        "content": "선천성 면역과 후천성 면역을 학습하고, 암세포가 PH-L1 단백질을 이용하여 T세포의 면역 체계를 무력화시키는 기전을 알아냄. 기존의 면역 항암제가 T세포의 면역 관문을 억제하는 데에만 초점을 맞췄음을 분석하고 선천성 면역 체계를 이용한 면역 항암제를 떠올려 '선천성 면역 체계를 이용한 면역 항암제와 비스테로이드성 항염증제의 활용'을 주제로 탐구보고서를 작성함. 선천성 면역 경로에 관한 심화 탐구를 기반으로 Toll-유사 수용체와 인터페론 경로를 이용하는 면역 항암제를 제안함. NK세포 주입이나 T세포의 인위적인 활성화 등의 치료법이 초래하는 과면역을 고려하여, 면역원 공급을 통해 TLR을 자극함으로써 우리 몸의 면역 체계를 이용하는 방식을 선택함. 그뿐만 아니라, 선천성 면역 체계를 활성화하면 과도한 염증 반응이 일어날 것이라 예상하 그 해결책으로 비스테로이드성 항염증제를 제안함. PGE2의 경우 종양 발생 단계에 이바지하므로 제한할 필요가 있지만 PGI2의 경우 아폽토시스 증가를 통해 항증식성을 가지고, VEGF를 감소시키므로 암 억제에 도움이 된다고 판단하여 COX 효소 저해가 아니라 EP 수용체에 결합하여 PGE2의 작용을 막는 방식의 비스테로이드성 항염증제를 고안함. 보여주고싶은역량: 암치료/면역항암제에대한이해+ 자기주도적탐구력 합격선배의생기부분석: 선천성면역치료제개발제안과엔세이드(비스테로이드성항염증제)병용제안 내용을담은보고서입니다. 여러기전들을동시에생각하며, 문제에대한해결방법을제안한다는점에서 탐구력을고평가받을수있었다고생각합니다. → 기존의치료법에서한계점을파악한뒤, 새로운면역치료제와병용약물을제안한보고서! 항암제개발 의사과학자진로에대한관심+ 자기주도적탐구력을십분드러내는탐구!!",
+        "highlights": [
+          "선천성 면역",
+          "후천성 면역",
+          "면역 항암제",
+          "비스테로이드성 항염증제",
+          "T세포",
+          "NK세포",
+          "과면역",
+          "PGE2",
+          "PGI2",
+          "VEGF",
+          "자기주도적 탐구력"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "생명과학2",
+        "content": "원핵생물의 유전자 발현에 관해 학습하면서, 트립토판 오페론 체계에 음성 피드백 기전이 존재함을 인지하고 탐구함. goodwin의 오페론 발현 조절 모델로부터 음성피드백 기전을 표현한 미분방정식을 접하고, 수학1 교과 시간 점화식을 통해 설명했던 호르몬의 피드백 루프를 미분방정식을 이용하여 연속적인 시간축에 대해 다룰 수 있음을 파악함. 이후 트립토판 오페론의 피드백 체계를 이해함에 있어 goodwin의 모델이 전사/번역 간의 시간차와 feedback inhibition을 설명하지 못한다는 한계를 느끼고, R. D. Bliss의 모델에 관해 추가로 탐구하여 mRNA, 안트리닐산 합성 효소, 트립토판 농도의 세 변수로 이루어진 비선형 연립미분방정식에서 계수들의 의미를 이해하고 수학적으로 분석함. 나아가 변수들의 초기농도와 파라미터 값에 따른 농도의 주기적 변화의 행태를 분석하고자 파이썬으로 Bliss 모델을 구현하여 모의실험을 진행함. 그 결과 지연시간이 농도의 주기적 변화를 야기하며, 분해속도 계수가 마치 감쇠조화진동자의 댐핑처럼 작용한다는 등 시뮬레이션 결과를 해석함. 특정 현상에 대한 수학적 모델링을 이해하고, 이를 여러 초기조건에 적용하여 능동적으로 현상을 해석하는 깊이 있는 탐구역량과 수학적 사고력이 돋보임. 보여주고싶은역량: 미분방정식(현상설명) 이해도+ 파이썬이용모의실험",
+        "highlights": [
+          "트립토판 오페론",
+          "음성 피드백 기전",
+          "미분방정식",
+          "파이썬",
+          "모의실험",
+          "비선형 연립미분방정식",
+          "농도의 주기적 변화"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "물리학 2",
+        "content": "전자기파의 발생과 수신에 관해 학습한 후 X선의 적정한 투과성이 CT의 원리에 핵심적인 요소임을 파악하고, CT가 방출된 X선의 흡수율 정보를 이용해 3D입체영상을 얻는 과정에 주목하여 탐구함. 6개 방향의 X선의 흡수율 정보를 이용해 2x2 화소의 영상을 얻는 과정을 직접 계산하면서, X선의 흡수율 정보를 6개의 선형연립방정식으로 표현하고 가우스소거법으로 해를 구해 각 복셀의 밀도를 추론함. 그뿐만 아니라, 더 높은 해상도의 3D영상을 얻기 위해 파이썬 for문을 이용하여 X선 투사 및 행렬곱 계산기를 구현하고, 3D 단면영상으로 시각화시키는 코드를 작성함. 여러 기하학적 도형의 위치와 밀도를 설정하고 계산을 수행시켜 단면영상을 확인했으며, 일련의 과정을 통해 CT가 각 부위의 조영제 농도를 재구성하는 역투사 방식에 관한 깊이 있는 이해를 쌓음. 나아가 CT의 원리를 전자기파 광학 현미경에 적용하여 물체의 입체 상 및 구성물질을 파악할 수 있는 입체영상 광학현미경 및 소프트웨어를 제안함. 가시광선 투사 방향의 제한 문제를 해결하기 위해 여러 장의 사진을 찍듯 투사 후 이미지 색 비례 분석을 진행하는 방식을 도입함. 전자현미경의 낮은 접근성과 보급의 측면에서 탐구의 의의와 아이디어의 유용성을 강조함.",
+        "highlights": [
+          "X선",
+          "CT",
+          "3D영상",
+          "가우스소거법",
+          "파이썬",
+          "입체광학현미경"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "생물정보학 도구를 능숙하게 활용하여 데이터 분석 및 해석 능력을 키움",
+      "생물정보학과 분자생물학 실험에 대한 실질적인 이해를 얻음",
+      "탐구의 완성도를 높이기 위해 노력한 점을 보여줄 수 있는 탐구",
+      "문제 해결 능력과 능숙한 트러블슈팅 능력 발달",
+      "통계 분석 능력과 사회 문제에 대한 관심을 드러냄"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_001",
+        "saeteuk_id": "saeteuk_004",
+        "match_score": 0.265625,
+        "match_reason": "유사 과목, 내용 유사 (1%)"
+      },
+      {
+        "research_id": "research_005",
+        "saeteuk_id": "saeteuk_003",
+        "match_score": 0.2578740157480315,
+        "match_reason": "유사 과목, 내용 유사 (0%)"
+      },
+      {
+        "research_id": "research_002",
+        "saeteuk_id": "saeteuk_005",
+        "match_score": 0.25,
+        "match_reason": "유사 과목"
+      },
+      {
+        "research_id": "research_003",
+        "saeteuk_id": "saeteuk_002",
+        "match_score": 0.012195121951219513,
+        "match_reason": "내용 유사 (1%)"
+      },
+      {
+        "research_id": "research_004",
+        "saeteuk_id": "saeteuk_001",
+        "match_score": 0.006666666666666667,
+        "match_reason": "내용 유사 (0%)"
+      }
+    ],
+    "unlinked_researches": [
+      "research_009",
+      "research_006",
+      "research_007",
+      "research_010",
+      "research_008"
+    ],
+    "unlinked_saeteuks": []
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 33351"
+  ]
+}

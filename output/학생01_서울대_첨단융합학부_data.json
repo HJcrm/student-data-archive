@@ -1,0 +1,569 @@
+{
+  "alias": "학생01_서울대_첨단융합학부",
+  "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 3,
+        "percentile": 84.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 3,
+        "percentile": 88.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 2,
+        "percentile": 78.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 3,
+        "percentile": 73.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 98.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 1,
+        "percentile": 98.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 1,
+        "percentile": 54.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 4,
+        "percentile": 63.0,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 1,
+      "math": 1,
+      "english": 3,
+      "history": 1,
+      "tamgu1": "언어와매체",
+      "tamgu1_grade": 1,
+      "tamgu2": "미적분",
+      "tamgu2_grade": 3,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "서울대학교",
+        "department": "첨단융합학부",
+        "admission_type": "일반전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "성균관대학교",
+        "department": "지능형소프트웨어학과",
+        "admission_type": "탐구형",
+        "result": "5차추가합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "연세대학교",
+        "department": "첨단컴퓨팅학부",
+        "admission_type": "추천형",
+        "result": "불합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "데이터과학과",
+        "admission_type": "학교추천형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "한양대학교",
+        "department": "한양인터칼리지학부",
+        "admission_type": "교과추천형",
+        "result": "추가합격(예비17번)",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "고려대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "부천시",
+    "school_type": "일반고",
+    "school_name": "부천고등학교",
+    "atmosphere": "학생의 수준이 양극화되어 있으며, 상위권 대학 진학 가능성 존재",
+    "competition_level": "높음",
+    "special_programs": [
+      "교과 프로젝트 연구",
+      "공학 캠프",
+      "리더십 워크숍",
+      "사이언스 퓰리처 프로그램",
+      "피지컬 컴퓨팅 캠프"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "1-1",
+        "subject": "국어",
+        "title": "매체활용표현하기활동‘로봇세도입‘ 발표",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "1-1",
+        "subject": "수학",
+        "title": "함수의종류및특성에따른활성화함수의분석",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "1-1",
+        "subject": "영어",
+        "title": "자유주제글쓰기‘영상특수효과와인공지능의접목‘",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "2-1",
+        "subject": "진로",
+        "title": "이미지생성알고리즘차이분석",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "2-1",
+        "subject": "진로",
+        "title": "윤리적, 사회적이슈및정책적보완을중심으로한 인공지능기반비디오생성의원리와구조및적용을통한차세대매체시장분석",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "2-1",
+        "subject": "자율",
+        "title": "4차산업혁명시대의비인간화현상에대한고찰",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "2-2",
+        "subject": "수학II",
+        "title": "인공신경망의오차역전파에대한수학적분석",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "3-1",
+        "subject": "진로",
+        "title": "알파폴드를활용한우울증치료전망에대한고찰",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "3-1",
+        "subject": "교과융합",
+        "title": "AI가글로벌거버넌스와정책결정에미치는영향력및미래전망",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "3-1",
+        "subject": "물리학II",
+        "title": "케플러법칙을활용한실시간태양계시뮬레이션제작",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "진로",
+        "content": "교과프로젝트연구발표회(2023.05.30.-2023.11.10.) 활동에'이미지생성알고리즘차이분석'을 주제로참가하여이미지생성알고리즘인생성적대립신경망, 레이턴트디퓨전, 스테이블 디퓨전에대해조사하고분석한후각알고리즘별학습안정성, 샘플품질, 정밀제어가능유무, 샘플다양성, 연속생성가능여부에대한탐구보고서를작성하고발표함. 개인맞춤형미디어 산업에관심이많아이미지생성알고리즘에관심을가지게되었고상황에맞는알고리즘을 선택하여이미지생성의효율성과정확성을높이기위한목적으로연구를진행함. 각알고리즘 별로프로그래밍언어로직접예시코드를만들어이번연구에서비교분석한내용을확인하기 위한후속연구설계도진행함. 급속하게변화하고있는생성형인공지능에대한이론적탐구와 이를실제로구현하는과정에서다양한문제에부딪혔음에도불구하고끈기있게탐구하고그 결과를조리있게발표한점이인상적임. 보여주고싶은역량: 최신기술에대한수학적분석능력, 실패극복정신. 합격선배의생기부분석: 최신기술은특히알고리즘이복잡하여분석이어려움에도불구하고고등학생이도전할 수있는수준으로접근하여추후연구를설계하였습니다. 다양한문제에부딪혔음에도극복하고성공적으로 발표한점을통해극복정신을강조하였습니다. → 다양한인공지능기술에대한이해도가높다는점과일반적으로실패한것이잘적히지않는생기부에 실패와그극복과정이나타났다는점에서선정하였습니다. 해당탐구활동은신미디어산업으로주목받고있는개인맞춤형미디어산업의서막에앞서, 개발된여러이미지생성 알고리즘들을비교하여각각의장단점을분석하고활용가능한분야를제공하고자함입니다. 따라서, 이를통해 상황에맞는적합한알고리즘을선택해프로그램의시간대비효울성과정확성을높일수있고, 인공지능산업을 확장시키는것에이바지할수있습니다. 해당탐구활동은이미지생성알고리즘중Text-to-Image를수행할수있는대표적인알고리즘인 GAN(Generative Adversarial Networks), Latent Diffusion, Stable Diffusion을비교하여학습방식에따른 차이를분석하고자합니다. 1. 각알고리즘에대한이론적배경을분석합니다. 2. 각알고리즘에대한이론적비교를실시하여표로요약합니다. 3. 알고리즘별예시프로그램을제시하는데, GAN은손글씨인식프로그램, Stable Diffusion의경우에는 CompVis/stable-diffusion의모델을활용하여제작하였습니다. 4. 이를기반으로후속연구를설계합니다. 생성알고리즘관련연구는추후개인맞춤형미디어산업발전에있어매우핵심적인기능을수행할것으로 예상되었습니다. 마치정보의시대에서, ‘유튜브알고리즘＇이대중의영상컨텐츠소비의판도를‘매스미디어’에서 ‘추천컨텐츠’로변화시켰듯이, 제작사나감독에의해제작되는영화및게임컨텐츠가생성형알고리즘을통해개인 소비자중심의‘개인맞춤형작품’으로거듭나게될미래의청사진이현재의GAN, Latent Diffusion, Stable Diffusion에 담겨있다고생각하였습니다. 또한, 생성형알고리즘의정확도와그퀄리티는천문학적인시장의 원친이며, 이는대중의창의성과독창성이담겨있는인류의가장큰데이터베이스로서자리잡게 될것이며, 이러한 사회적흐름속에서의해당탐구활동은‘Mass Media’에서‘Custom Media’로전환되는변곡점을알리는신호탄의 역할을할것으로판단하였습니다. GAN 알고리즘, Latent Diffusion 알고리즘, Stable Diffusion 알고리즘의차이점을이론적으로분석하기위해, 각 알고리즘의이론적배경을바탕으로각알고리즘간의차이를확인하였습니다. 또한, 그차이를검증하는실험을 어떻게진행해야할지설계하였고각알고리즘별로예시코드를작성해보며알고리즘을어떻게만들어야할지를 구상하는과정을거쳤습니다. 또한, 이를기반으로추후에비교실험을통해이론적분석에의한가설을입증하고 결과의요인을주도면밀하게분석하는후속연구를진행하고자합니다. 최근각광받고있는이미지생성알고리즘에대해탐구를해보며, 각각알고리즘의이론적배경 및차이를분석할수있었다는점에서시의적절한탐구활동이었습니다. 실제실험으로나아가지못하고, 이론적인측면에머물렀다는점이아쉬움으로남습니다. 또한, 후속연구설계에대해구체성을조금더첨가하였으면좋았을것이라생각이남습니다.",
+        "highlights": [
+          "이미지 생성 알고리즘",
+          "개인 맞춤형 미디어 산업",
+          "생성형 인공지능",
+          "탐구 보고서 작성",
+          "후속 연구 설계"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "수학I",
+        "content": "수업에대한집중력이뛰어나고수학적능력이탁월하여문제해결과정발표활동에적극참여함. 다양한풀이과정을제시하고논리적으로설명하며필요한경우증명하여결과를이용하기도함. 직관과논리를모두활용하는문제해결역량이돋보임. 주제탐구보고서활동에서'시그마와로그를통해정의한크로스엔트로피손실함수'를주제로발표함. 엔트로피의정의를제시하고공식에서음의기호인이유를로그함수그래프로설명함. 크로스엔트로피손실함수를정의하고예시를직접만들어로그와시그마계산을통해크로스엔트로피손실함수의우수성을수학적으로밝힘. 추후에오차역전파를탐구하여인공신경망의수학적체계를이해하고싶다는포부를밝힘. 문제만들기활동에서닮음과합동, 회전, 함수관계를이용하여삼각형의넓이를구하는문제를발표함. 지수·로그함수의그래프로부터선분과각을조건으로제시하고삼각형들사이의관계를파악하도록설계함. 조건과발문을분석하여닮음, 함수관계, 회전을각각사용하여해결하는방법을모범답안으로작성함. 문제를다각적으로분석하고조건과발문의필연적관계를찾고이를문제해결에적극활용하는수학적역량이탁월함. 보여주고싶은역량: 알고리즘의수학적분석능력. 합격선배의생기부분석: 단순히기술을나열하고영향력을분석하는것에서더나아가해당알고리즘을수학에기반을두고분석함으로써, 다양한통찰을얻었고추후연구방향도설계하여진행하였다는점에서인상깊은점이있다고할수있습니다. → 대학과정에서학습할내용을미리탐구하여진로전문성및전공적합성을강조하면서도알고리즘의수학적분석능력을강조하여수학적사고력을입증하고자하였습니다.",
+        "highlights": [
+          "문제해결역량",
+          "크로스엔트로피손실함수",
+          "오차역전파",
+          "알고리즘의수학적분석능력"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "진로",
+        "content": "교과프로젝트연구발표회'세상을바꾸는강연활동'(2023.03.21.-2023.11.07./10회)에윤리적, 사회적이슈및정책적보완을중심으로한인공지능기반비디오생성의원리와구조및적용을통한차세대매체시장분석을주제로하여참여함. 영화산업에서인공지능이활용되는사례및이점들을설명하고이를살려개인화된영화제작서비스체제의성공적인구축을위해필요한보완책을제언함. 해외온라인강좌및전문적인학술자료들을바탕으로하여탐구한내용을정확한영어표현으로일목요연하게정리함.\n보여주고싶은역량: 사회분석능력, 인문/자연연계분석능력\n합격선배의생기부분석: 관심있는인공지능분야를사회현상과연계하여분석하였다는점에서융합적인재의모습을보였습니다. 또한, 전문적인학술자료를통해작성하였고영어로표현하였다는점에서언어능력을강조하였습니다.\n→ 단순히기술만을추구하고연구하는것이아닌그에대한사회적책임을다하고자정책적분석을한것이융합적인재로서돋보였기에선정하였습니다.\n1. 활동을하게된동기\nAI 기술, 특히멀티모달비디오생성AI는영상, 음성, 텍스트등을통합하여고품질콘텐츠를생성하며, 제작시간과비용을절감하고몰입형경험을제공합니다. 이를통해창의성과스토리텔링, 비즈니스모델의변화및개인화된콘텐츠제공가능성을연구하는것이중요하다고판단하였습니다. 동시에윤리적문제, 저작권, 편향성등의도전과제를해결하며직업변화와기술요구사항을대비해야하기에, 해당연구는책임감있는AI 통합과차세대개인화된미디어환경구축에기여하고자하였습니다.\n2. 세세한활동진행과정\nVideo Generation AI, 특히멀티모달비디오생성기술의발전과이를활용한커스텀영화제작OTT 서비스의가능성과문제를탐구하는것을목적으로한이탐구활동은다음과같은과정을거쳤습니다.\n1. 이론적배경조사를통해AI와Generative AI의정의및작동원리를분석하고, 텍스트기반이미지및비디오생성기술의응용사례를탐구하였습니다. 특히GAN(Generative Adversarial Networks)과VAE(Variational Autoencoders) 기술이콘텐츠생성과정에서어떤역할을수행하는지구체적으로살펴보았습니다.\n2. 비디오생성AI가엔터테인먼트, 게임, 마케팅, 교육, 관광등다양한산업에서어떻게활용될수있는지를분석했습니다. 이를통해영화제작과정에서비용절감과개인화된경험제공의가능성, VR/AR 기술과결합한몰입형콘텐츠제작등의기회를확인했습니다.\n3. 비디오생성AI가초래할수있는문제점과이에대한해결방안을연구하였습니다. 윤리적문제, 개인정보보호, 지적재산권, 편향성과같은문제를다루기위해다양한사례를조사하고, 기술적, 법적, 정책적해결책을제시했습니다. 특히딥페이크기술의악용가능성을줄이기위한검출알고리즘개발, 블록체인기반인증시스템도입, 사용자교육및윤리적가이드라인구축의필요성을강조하였습니다.\n4. 커스텀영화제작OTT 서비스개발방안을구체화하며, 이를통해사용자맞춤형콘텐츠를제공하고영화산업의혁신을도모하는동시에윤리적문제해결을위한정책적대안을제시하였습니다. 이모든과정을통해연구는기술적진보와사회적책임간의균형을이루는방향성을모색하고자하였습니다.\n3. 활동을통해얻은결과와느낀점\n본탐구활동을통해Video Generation AI가다양한산업에걸쳐미칠수있는영향력을명확히파악할수있었습니다. 특히영화제작과정에서의비용절감과효율성증대, 사용자맞춤형콘텐츠제공등기술의잠재적가능성을확인하였습니다. 또한, 딥페이크기술이초래할수있는윤리적문제와개인정보침해등의부작용을인식하고, 이를해결하기위한기술적·정책적방안을구체적으로모색했습니다.\n활동을통해기술의발전이단순히혁신적기능을제공하는것을넘어, 사회적책임과윤리적고려가필수적임을깨달았습니다. 이러한통찰은AI 기술의발전이반드시인간중심적이고책임감있는방향으로이루어져야한다는점을강조하며, 기술과사회간의조화로운관계구축의중요성을배우는계기가되었습니다.\n4. 탐구활동요약\n본탐구활동은멀티모달비디오생성AI의발전과이를활용한커스텀영화제작OTT 서비스의가능성과도전과제를연구하는것을중심으로진행되었습니다. 따라서, AI와Generative AI의기술적기반을이해하고, 이를실제산업에적용했을때의효과를분석하였으며, 동시에윤리적문제와법적도전과제를해결하기위한방안을탐구하는데초점을맞췄습니다.\n이를통해AI가제공하는창의적가능성과기술적혁신을극대화하면서도, 부작용을최소화하기위한방향성을제안하였습니다. 또한, 새로운AI 기술이단순히효율성증대에그치지않고, 사회적책임을동반해야함을보여주었습니다.\n5. 탐구활동개인총평\n만족스러운점\n해당탐구활동을통해Video Generation AI와딥페이크기술의이론적기초뿐아니라, 이를실제응용할수있는구체적인방법을이해할수있었습니다. 특히, AI가영화제작과정과다양한산업에서창의적이고혁신적인기회를제공할수있다는점을확인하며기술의잠재력을깊이탐구할수있었습니다. 또한, 기술적분석뿐만아니라윤리적문제를다룬점에서, 기술과사회적책임의균형을고려한연구를수행했다는점에큰보람을느꼈습니다.\n아쉬운점\n연구과정에서데이터와사례수집에한계가있었고, 실제기술적용과관련된실험적인접근을시도하지못한점이아쉬웠습니다. 특히, 딥페이크기술검출알고리즘개발이나블록체인기반인증시스템과같은구체적인기술구현에대한실질적실험을진행하지못한점은연구의깊이를더할수있는기회를놓친부분으로느껴졌습니다.",
+        "highlights": [
+          "인공지능",
+          "비디오 생성",
+          "윤리적 문제",
+          "사회적 책임",
+          "기술적 혁신"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "자율",
+        "content": "고전과함께하는주제탐구프로젝트(2023.04.03.-2023.07.10./5회)에'4차산업혁명시대의 비인간화현상에대한고찰'이라는주제로참여하여과거인류의비인간화를이끌었던산업혁명이 인간의인간화를촉진할수있는시발점이될수있도록하는윤리적가치와정책적해법에대해 탐구함. 'Player Piano(Kurt Vonnegut)' 와'Dune(Frank Herbert)'의내용을비교분석하여인간의 가치, 기술의의존문제에대한서평을작성함. 기술에대한저항으로성공적인전쟁을치렀음에도 새로운형태의기계를부활시키는인간의편리함에대한적응을지적하고, 인공지능시대에는 인간과기계가맞서는이분법적삶의구조가아닌인간다움을추구할수있는정책적제도의 마련이필요함을역설함. 생산성을잃은계층에게창의적사고의시간을지원하는기본소득의 보장이중요함을영어로능숙하게발표함. 보여주고싶은역량: 인공지능, 윤리학, 사회학, 경제학등을연계하는융합적사고및미래지향적사고 합격선배의생기부분석: 융합적사고를통해고전소설을기반으로현재및미래를분석하는능력을 증명하였습니다. 단순히, 윤리학적으로만접근하는것이아니라해소하기위한경제적정책또한마련하였다는 점에서융합적인재라고할수있습니다. → 단순히기술만을추구하고연구하는것이아닌경제적정책을제시함으로써사회문제에대한해결책을 구체화하고자하였기에선정하였습니다.",
+        "highlights": [
+          "4차산업혁명",
+          "비인간화",
+          "윤리적 가치",
+          "정책적 해법",
+          "융합적 사고",
+          "기본소득"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "진로",
+        "content": "교과프로젝트활동에서'알파폴드를활용한우울증치료전망에대한고찰’을주제로 신경전달물질과항우울제의작용기전을이해하고코돈정보를통해우울증에관여하는세로토닌 수용체와각각플루옥세틴, 세로토닌이결합한입체구조를알파폴드를통해3차원모델로구현함. 결합구조에서양쪽끝단은리간드와의전기적상호작용으로다른구조이나중심부사슬구조는 구조가유사하므로이부위에리간드가결합하여세르토닌분비가조절되며특정구조의아미노산 서열을찾는단백질디자인기술로제작된환각억제단백질이결합하면개선된항우울제설계가 가능함을확인함. 복잡한현상에대해수식적이해를넘어데이터기반방식이혁신임을깨달음. 보여주고싶은역량: 문제해결능력, 혁신적사고능력 합격선배의생기부분석: 알파폴드와같은첨단기술을활용하여기존의방법론에의존하지않고, 인공지능과 데이터기반의접근을통해새로운가능성을모색하고자하였고, 복잡한과학적문제를해결하기위한체계적접근 방식을활용하였다는점이인상깊은점입니다. → 전통적방법에얽매이지않고, 혁신적이고창의적인방식으로문제를해결해나가는능력과태도를 바탕으로, 미래사회의복잡한문제들을해결하는데중요한역할을할인재로서의가능성을보여주는 지점이라고할수있습니다.",
+        "highlights": [
+          "알파폴드",
+          "우울증 치료",
+          "신경전달물질",
+          "문제해결능력",
+          "혁신적 사고능력"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "신미디어산업에 대한 탐구활동을 통해 개인 맞춤형 미디어 산업의 발전에 기여하고자 함",
+      "이미지 생성 알고리즘(GAN, Latent Diffusion, Stable Diffusion)의 이론적 배경과 차이를 분석함",
+      "각 알고리즘에 대한 이론적 비교를 실시하고 표로 요약함",
+      "알고리즘별 예시 프로그램을 제시하여 실질적인 이해를 도모함",
+      "후속 연구를 설계하여 이론적 분석에 기반한 가설을 검증하고 결과를 분석할 계획",
+      "탐구활동을 통해 이미지 생성 알고리즘의 중요성을 인식하고 개인 맞춤형 콘텐츠의 미래를 예측함",
+      "수학적 능력을 활용하여 문제 해결 과정에서 논리적 설명과 증명을 통해 결과를 도출함"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_008",
+        "saeteuk_id": "saeteuk_005",
+        "match_score": 0.4166666666666667,
+        "match_reason": "같은 과목, 내용 유사 (1%)"
+      },
+      {
+        "research_id": "research_004",
+        "saeteuk_id": "saeteuk_001",
+        "match_score": 0.4054945054945055,
+        "match_reason": "같은 과목, 내용 유사 (0%)"
+      },
+      {
+        "research_id": "research_005",
+        "saeteuk_id": "saeteuk_003",
+        "match_score": 0.4,
+        "match_reason": "같은 과목"
+      },
+      {
+        "research_id": "research_006",
+        "saeteuk_id": "saeteuk_004",
+        "match_score": 0.4,
+        "match_reason": "같은 과목"
+      },
+      {
+        "research_id": "research_002",
+        "saeteuk_id": "saeteuk_002",
+        "match_score": 0.25,
+        "match_reason": "유사 과목"
+      }
+    ],
+    "unlinked_researches": [
+      "research_010",
+      "research_009",
+      "research_007",
+      "research_003",
+      "research_001"
+    ],
+    "unlinked_saeteuks": []
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 36875"
+  ]
+}

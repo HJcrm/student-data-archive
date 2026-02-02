@@ -1,0 +1,654 @@
+{
+  "alias": "학생10_세명대_한의예과",
+  "source_file": "의학계열 생기부 데이터.pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "사회",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "과학",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "평균",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 98.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 1,
+        "percentile": 94.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 3,
+        "percentile": 86.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 1,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 2,
+        "percentile": 86.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 2,
+        "percentile": 95.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 1,
+        "percentile": 72.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 1,
+        "percentile": 86.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 4,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 4,
+        "percentile": 69.0,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 1,
+      "math": 2,
+      "english": 1,
+      "history": null,
+      "tamgu1": "언어와매체",
+      "tamgu1_grade": 1,
+      "tamgu2": "미적분",
+      "tamgu2_grade": 1,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "세명대학교",
+        "department": "한의예과",
+        "admission_type": "학생부교과",
+        "result": "합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "UNIST",
+        "department": "이공계열",
+        "admission_type": "학생부교과지역인재",
+        "result": "추가합격(예비28번)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "공과대학",
+        "admission_type": "학업우수",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "세명대학교",
+        "department": "한의예과",
+        "admission_type": "SMU의료인재",
+        "result": "추가합격(예비 1번)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "서울대학교",
+        "department": "첨단융합학부",
+        "admission_type": "일반전형",
+        "result": "불합격(1차불합격)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "덕성여자대학교",
+        "department": "약학과",
+        "admission_type": "덕성인재2",
+        "result": "불합격(1차불합격)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "KAIST",
+        "department": "단일계열(무학과)",
+        "admission_type": "일반전형",
+        "result": "불합격(1단계불합격)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "가천대학교",
+        "department": "약학과",
+        "admission_type": "가천의약학",
+        "result": "불합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "대구한의대학교",
+        "department": "한의예과",
+        "admission_type": "일반전형(자연)",
+        "result": "불합격(최초예비73번)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "KAIST",
+        "department": "단일계열(무학과)",
+        "admission_type": "창의도전전형",
+        "result": "불합격(1단계불합격)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "DGIST",
+        "department": "기초학부",
+        "admission_type": "학생부위주일반전형",
+        "result": "불합격(예비안빠짐)",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "고려대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "서울시",
+    "school_type": "일반고/과학중점고",
+    "school_name": "OO고등학교",
+    "atmosphere": "내신 따기 어려운 학교, 수시 중심",
+    "competition_level": "높음",
+    "special_programs": [
+      "토요과학교실",
+      "공학동아리",
+      "화학생명동아리",
+      "분자생물학동아리",
+      "생명과학동아리"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "3-1",
+        "subject": "고급 생명과학",
+        "title": "AlphaFold3로 단백질 구조 예측하기",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "3-1",
+        "subject": "고급 생명과학",
+        "title": "MSA를 통한 TF2D와 시그마인자의 서열 분석",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "2-2",
+        "subject": "자율 교육과정",
+        "title": "물질의 항생 효과를 증진하는 방법: 마늘과 생강의 추출법에 따른 항생 효과와 상승 효과",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "2-1",
+        "subject": "생명과학 II",
+        "title": "정량적 관점에서의 디곡신의 약리적 효능과 독성 효과",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "2-1",
+        "subject": "영어 II",
+        "title": "학교 환경 개선 제안물 작성 – 실험 후 폐수 배출의 어려움을 톱밥으로 개선",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "1-2",
+        "subject": "과학교양",
+        "title": "천연 항생제 프로폴리스의 항생 효과",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "1-1",
+        "subject": "국어",
+        "title": "‘종탑 아래에서’를 읽고 - 정신적 외상으로 실명이 가능한가",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "1-1",
+        "subject": "수학",
+        "title": "타원의 방정식과 원의 방정식",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "1-1",
+        "subject": "통합과학",
+        "title": "인체에서의 물리",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "1-1",
+        "subject": "과학탐구실험",
+        "title": "염산과 탄산칼슘의 중화반응 실험",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "동아리활동(1학년)",
+        "content": "동아리 활동 (1학년) （수학독서반) (26시간） 매시간 책을 읽고 매시간 자신의 생각이 담긴 독서 일지를 작성함. 친구들이 발표를 할 때 항상 집중해서 듣고 모르는 부분은 질문하는 등 적극적으로 참여함. 친구들의 발표 평가도 어떤 점이 좋았고 아쉬웠는지에 대한 자신의 생각을 꼼꼼하게 작성해 제출함. '수학이 필요한 순간（김민형）’을 읽고 데카르트의 정리로 확장되는 수학사가 인상 깊었으며 오일러 다면체 정리와 데카르트의 외각 정리와 관계가 깊은 바이러스가 존재한다는 것이 흥미롭다는 독후 활동지를 작성함. 또한 벡터를 이용한 유전자 치료제 등 다른 과학 분야에서 수학이 어떻게 이용되는지 알아보고 싶다는 감상을 제출함. 오일러 수에 관한 부분을 읽고 정다면체와 연관된 '아데노바이러스의 구조와 이용'에 대해 발표함. 구조의 개념과 활용 부분 등을 영상 자료를 첨부해 직관적으로 이해하도록 설명함. 또한 비슷한 구조를 다룬 다른 분야도 공부하고 싶다는 희망과 다른 친구들의 발표를 듣고 생물은 수학적으로 진화하는 것 같다는 감상을 제출함. 보여주고싶은역량: 생명과학적감수성으로수학을바라봄. 합격선배의생기부분석: 단순히‘그렇구나~’하고넘어갈수있는아데노바이러스의구조를한번더 파고들어‘이러한구조가자연에서흔하지않을텐데, 이렇게진화한데에는이유가있지않을까’라고 생각했습니다. 연구자의역량을드러낸대목입니다. → 누구나읽을수있는책에서시작해서당연한것을당연하지않게생각했고, 2,3학년때의활동의기틀이 되는활동이었습니다. 상설동아리가아닌일반동아리에서적힌세특인데, 일반동아리에서도괜찮은세특 나올수있어요! 1. 활동을하게된동기 ‘수학이필요한순간’을읽으며‘사면체, 20면체, 토끼모형모두구와위상이같다’는대목이흥미로웠고‘위상적으로 구형’이라는것을어디에서확인할수있는지궁금하여조사하던중로봇처럼짜맞춘듯한정이십면체의구조를가진 ‘아데노바이러스’를알게되었습니다. 자연계에서어떻게이런형태를갖추게되었는지궁금해서이활동을진행하게 되었습니다. 2. 세세한활동진행과정 이활동은3년간제생기부의내용중‘분자생물학’이라는키워드의시작이되는활동입니다. 이활동에서시작해서 저는2학년때동아리를분자생물학동아리로옮기게되었습니다. 사실대부분학종을챙기는친구들이라면 학교에서빵빵하게지원해주는상설동아리에가입할것입니다. 저또한1학년으로돌아간다면그렇게할것같고요. 그렇지만원하는동아리에들어가지못하는상황도발생할수있습니다. 그런상황이발생하더라도크게 절망하시지는않으셨으면합니다. 저의1학년동아리세특처럼일반동아리에서도자신만의세특을적을수 있으니까요! 오히려일반동아리에서주도적으로활동을진행하고, 학년이올라가며동아리를옮기는것이나만의 포인트가될수도있습니다. 우선아데노바이러스와캡시드에관한기초지식은위키피디아에서얻었습니다. 물론! 위키피디아의글은검증없이보고서나ppt에활용해서는절대안됩니다. 그러나이공계지식은우리에게많이낯선경우가많습니다. 이러한 학문의장벽을허무는데는위키피디아가도움이됩니다. 쉬운말로적혀있기때문이죠. 이후구글학술지에서확인할수있는해외논문들을읽으며캡시드에대해공부했고, 칸아카데미등의온라인 강의를들으며수학적인지식을얻었습니다. 3. 활동을통해얻은결과와느낀점 1학년때의모든활동중가장의미있다고생각하는활동입니다. 분자생물학에관련된독특한저만의생각이세특에담겨서좀더특색있는생기부가되었다고생각합니다. 개인적으로는이활동으로분자생물학의재미를알게되었습니다. 4. 탐구활동요약 1. 동기: 아데노바이러스는어떻게이렇게로봇처럼짜맞춘듯한구조를가졌을까? 2. 자료조사: 위키피디아로기초지식을공부하고구글학술지의논문으로자료조사. 3. 활동진행: PPT 발표&활동지작성 4. 후행탐구: 3학년고급생명과학-단백질구조분석프로그램활용 5. 탐구활동개인총평 만족스러운점 -처음으로나의생기부에대한감이생기게되었습니다. 이활동을한이후후속탐구를하고싶다는로드맵을그렸고, 비슷한원리를다른세특들에도활용했습니다. -생약학뿐만아니라생명공학분야의관심을드러냈습니다. 사실이것은당시메디컬만노리고 생기부를쓰는것이위험할수있겠다는생각이들어공학과결합한것이기도합니다. 아쉬운점 -세특활동에미숙했던시기여서노력을한것만큼보고서나ppt에담아내지못했다는아쉬움이 있습니다. -너무자료조사만한활동인것같다는아쉬움이있습니다. 다른연구와결합한다는 아이디어처럼저만의배운점을더넣었다면좋았을것같습니다.",
+        "highlights": [
+          "수학독서반",
+          "아데노바이러스",
+          "분자생물학",
+          "PPT 발표",
+          "자료조사"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "과학교양",
+        "content": "교양\n과학교양 : ' 암치료에 대한 새로운 관점 : 면역항암제' 라는 주제로 발표를 하여 암세포의 생성과 제거, 항암제의 발전과 3세대 항암제인 면역 항암제에 대하여 자세하게 소개함. 4세대 항암제인 대사항암제에 대하여 설명함. '천연 항생제 프로폴리스의 항생 효과’라는 주제로 실험을 수행하고 팀프로젝트 보고서를 작성하여 제출함. 그람 염색법을 이용하여 황색포도상구균과 대장균을 각각 푸른색과 붉은색으로 검출함. 프로폴리스의 항균 효과를 디스크 확산법으로 비교함. 농도 별로 프로폴리스의 항균 효과가 달라지는지 비교 실험함. 선행 지식이 많이 없어 어려움을 겪으면서도 실험 방법을 배우면서 실험을 수행해나가는 저력을 보여줌. 실험 결과에 대한 해석이 논리적이고 합리적이어서 앞으로 더 정교한 실험을 수행할 수 있을 것으로 기대됨. 실험실에서 많은 시간을 들이며 포기하지 않고 실험을 완성하여 근기와 탐구력을 보여주었음. 보여주고싶은역량: 약학에관련된실험을단순히수행하는것뿐만아니라과학적의문을실험을설계하고 탐구하여해소할수있다는역량을보여주고싶었습니다. 합격선배의생기부분석: 실험자체는흔하지만2학년때의후속연구에큰도움이된활동이었고, 연구에대한끈기와역량을드러냈다고생각합니다. →희망진로로언제나‘약학연구원’을적었는데, 그희망진로에아주잘어울리는활동이었습니다. 결과적으로는다른학과에오게되었지만, 진로를향해노력하는모습은충분히담겼다고생각합니다.",
+        "highlights": [
+          "면역항암제",
+          "프로폴리스",
+          "항균 효과",
+          "실험 방법",
+          "약학 연구원"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "자율교육과정",
+        "content": "학교 자율교육과정인 융합주제 팀 프로젝트（2023.03. 29.-2023.12. 22.）에 1학년 때 탐구한 특정 물질의 항생효과를 확인하는 방법을 확장시켜 물질들 간의 항생적 상승 효과를 알아보고자 하는 프로젝트의 조장을 맡아 참여함. 개방형 실험실 사용 신청 방법과 첨단 기자재 활용법에 대한 교육을 받음. 많은 회의를 통해 추출 용매의 종류와 후보 물질들 간 비율을 핵심 조작 변인으로 설정하고, 회전증발농축기를 이용해 용매에 따른 마늘과 생강 추출물을 획득함. 다양한 혼합 비율에서의 항생효과를 디스크 확산법과 최소농도억제법을 이용해 비교하여, 마늘과 생강의 수용성 추출물의 비율이 1:4일때 가장 대장균에 대한 항생효과가 크게 나타남을 발견해 생강 유래 의약품 처치시 마늘 추출물을 적정량 첨가해 효율을 높일 것을 제안하는 보고서를 작성함. 프로젝트 기간 중 꾸준히 실험실을 방문하고 팀내 역할을 나누어 연구 계획을 치밀화했으며，지도교사와의 꾸준한 의사소통으로 학교에서 실제로 진행할 수 있는 실험적 방안을 끝내 찾아낸 모습이 매우 인상적임. 문헌 탐구시 항생 효과를 내는 물질 대다수가 소수성 성분인 것을 보고, 수용성 환경의 우리 몸에서 어떻게 작용하는지 추가로 궁금해 하는 모습을 보임. 보여주고싶은역량: 직전에적은1학년때의연구와달리, 이활동은‘나만의연구’라는특징이있습니다.",
+        "highlights": [
+          "항생효과",
+          "팀 프로젝트",
+          "실험 설계",
+          "보고서 작성",
+          "연구 계획",
+          "소수성 성분"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "진로활동(2학년)",
+        "content": "'mRNA 혁명，세계를 구한 백신’，'공학의 눈으로 미래를 설계하라’를 읽고 독후프로젝트 보고서를 제출함. 약물 전달 기술을 탐구하며 진로를 확실히 선택하게 되었다고 말하면서, 과학과 기술의 결합으로 사회에 기여하고 싶다고 표현함. 'mRNA 혁명，세계를 구한 백신'에서는 mRNA 백신 기술에서 지질 나노 입자의 유용성을 배웠다고 서술함. '공학의 눈으로 미래를 설계하라’에서는 환자의 편의성과 약물의 효과 향상을 모두 고려한 마이크로니들패치에 대해 배웠다고 서술함. 미래에 약물 전달 기술을 연구하여 지속 가능한 약물 전달 기술을 개발하고 싶다고 밝힘. 1학기 토요휴업일 (2023. 05.13.-2023.06. 03.)에 실시된 '과학심화실험교실_ 활동을 이수함. 네른스트 식에 따라 농도 차이에 의한 기전력 차이를 이해하고 다니엘 전지를 성공적으로 구성함. 학습한 내용을 응용하여 공기-알루미늄 전지를 완성함. 크로마토그래피의 원리를 배우고 시금치의 광합성 색소를 분리하는 실험을 수행, 색소별로 전개을 값이 차이를 보이는 이유를 분자적 특징에 기반하여 추론함. 2학기 토요휴업일 (2023. 09.09.-2023.11.04.)에 실시된 '과학심화실험교실’ 활동을 이수함. 물속의 총인 측정을 통한 수질 분석 활동에서 총인 농도에 따른 검정 곡선을 작성하기 위해 발색 시약으로 생성한 몰리브덴산의 흡광도를 분광광도계를 이용해 측정하고，미지시료의 흡광도를 측정하여 총인 농도를 정량함. 천문수과학캠프(2023.10.13.-2023.10.20.)에 참가하여 금，은 나노 콜로이드를 합성하고 투석，틴들현상 등을 관찰，입자 크기와 관련하여 설명함. 제한효소와 연결효소를 이용하여 PCR로 증폭한 GFP 유전자를 pUC19에 재조합하여 형질 전환한 뒤 형질 전환된 세균을 선별하는 실험을 수행하고 결과를 분석함. 보여주고싶은역량: 약학이라는포괄적인영역에서약물전달기술과환자의편의를고려한맞춤형의료에 특히관심을가진다는점을드러내고싶었습니다. 합격선배의생기부분석: 약물전달 기술, 미래 →환자의편의를위해수술을최소화하자는저의생각이드러났습니다.",
+        "highlights": [
+          "mRNA 백신",
+          "약물 전달 기술",
+          "마이크로니들패치",
+          "수질 분석",
+          "형질 전환"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "고급생명과학심화 자율탐구",
+        "content": "심화 자율탐구 발표에서 단백질 구조 예측을 주제로 헤모글로빈과 GPR1 단백질의 예측된 구조와 PAE 데이터를 발표함. 최신 단백질 구조 예측 딥러닝 모델을 사용하는 방법을 인공지능과의 대화를 통해 알아본 과정을 소개하였으며, 데이터베이스에서 가져온 FASTA 정보를 이용해 누구라도 시도할 수 있음을 강조한 점이 인상적임. 탐구 과정에서 생성형 인공지능의 영향력을 몸소 체험하여 약물 연구에서도 큰 도움을 받을 수 있을 것으로 생각하여 코딩과 같이 컴퓨터를 다루는 역량의 필요성은 물론, 학문 간 융합적인 이해의 필요성도 깨달았음을 표현함. DCPIP와 분광광도계를 이용해 광합성의 빛반응 속도를 성공적으로 측정해 기록했으며，엽록체 포함 여부와 가열 여부에 따른 빛반응의 전자 전달 속도를 잘 비교함. 분광광도계에서 항상 빛이 나와 빛의 유무에 따른 명반응 여부를 확인하는 실험이 어렵다는 교사의 말에 혹여나 산화환원 시약 중 가시광선이 아닌 다른 파장대에서 흡광도가 달라지는 것을 이용하면 문제를 해결할 수 있을 것이라는 아이디어를 제시한 점을 통해 뛰어난 탐구 능력과 문제 해결력을 지닌 학생이라 평가됨. 광합성에 대해 남들보다 두 배 이상 많은 개념을 포함해 마인드맵으로 표현함. 보여주고싶은역량: 연구진행후결과를분석하는역량을보여주고싶었습니다.",
+        "highlights": [
+          "단백질 구조 예측",
+          "생성형 인공지능",
+          "광합성",
+          "탐구 능력",
+          "문제 해결력"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "수학이 필요한 순간을 읽으며 흥미를 느끼고 아데노바이러스에 대한 조사를 시작함",
+      "일반 동아리에서도 자신만의 세특을 적을 수 있다는 점을 강조함",
+      "위키피디아를 통해 기초 지식을 얻고, 구글 학술지의 논문으로 자료 조사함",
+      "PPT 발표 및 활동지 작성을 통해 탐구 활동을 진행함",
+      "생명공학 분야에 대한 관심을 드러내며 다양한 세특에 활용함",
+      "실험 결과에 대한 해석이 논리적이고 합리적임",
+      "실험을 통해 과학적 의문을 탐구하고 해소할 수 있는 역량을 보여줌"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_006",
+        "saeteuk_id": "saeteuk_002",
+        "match_score": 0.42380952380952386,
+        "match_reason": "같은 과목, 내용 유사 (2%)"
+      },
+      {
+        "research_id": "research_003",
+        "saeteuk_id": "saeteuk_003",
+        "match_score": 0.024475524475524476,
+        "match_reason": "내용 유사 (2%)"
+      },
+      {
+        "research_id": "research_001",
+        "saeteuk_id": "saeteuk_005",
+        "match_score": 0.007575757575757576,
+        "match_reason": "내용 유사 (0%)"
+      },
+      {
+        "research_id": "research_002",
+        "saeteuk_id": "saeteuk_004",
+        "match_score": 0.00625,
+        "match_reason": "내용 유사 (0%)"
+      },
+      {
+        "research_id": "research_007",
+        "saeteuk_id": "saeteuk_001",
+        "match_score": 0.0024752475247524753,
+        "match_reason": "내용 유사 (0%)"
+      }
+    ],
+    "unlinked_researches": [
+      "research_005",
+      "research_004",
+      "research_010",
+      "research_009",
+      "research_008"
+    ],
+    "unlinked_saeteuks": []
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 34556"
+  ]
+}

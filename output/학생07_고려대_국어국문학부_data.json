@@ -1,0 +1,602 @@
+{
+  "alias": "학생07_고려대_국어국문학부",
+  "source_file": "유니브클래스_2025_인문사회상경_생기부대백과 (1).pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 4,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 2,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 1,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 2,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 4,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 2,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 2,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 2,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 2,
+      "math": 3,
+      "english": 2,
+      "history": null,
+      "tamgu1": "정치와법",
+      "tamgu1_grade": 3,
+      "tamgu2": "사회문화",
+      "tamgu2_grade": 3,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "서울대학교",
+        "department": "역사학부",
+        "admission_type": "지역균형전형",
+        "result": "불합격(1차합격, 2차탈락)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "자유전공학부",
+        "admission_type": "학교장추천",
+        "result": "합격(예비8번)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "연세대학교",
+        "department": "정치외교학과",
+        "admission_type": "교과",
+        "result": "불합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "성균관대학교",
+        "department": "글로벌리더학부",
+        "admission_type": "학교장추천",
+        "result": "합격(3차추합)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "서강대학교",
+        "department": "정치외교학과",
+        "admission_type": "학생부종합",
+        "result": "합격(7차추합)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "중앙대학교",
+        "department": "공공인재학부",
+        "admission_type": "교과",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "고려대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "고양시",
+    "school_type": "일반고",
+    "school_name": "OO고등학교",
+    "atmosphere": "평범한 지방 일반고, 수시 중심",
+    "competition_level": "중간",
+    "special_programs": [
+      "진로융합프로젝트",
+      "수리과학아카데미",
+      "인문학아카데미",
+      "프로젝트형 봉사활동"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "3-1",
+        "subject": "진로",
+        "title": "‘신안염전노예사건’ 중심의로대한민국사법실태에대한논의및대책마련하기",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "3-1",
+        "subject": "진로",
+        "title": "연구방법을통한‘청소년의사법신뢰도’ 파악및이에대한대책연구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "3-1",
+        "subject": "동아리",
+        "title": "사실적시명예훼손에대한고찰: 밀의자유론을중심으로",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "3-1",
+        "subject": "생활과윤리",
+        "title": "롤스의재산소유민주주의를중심으로한대한민국의공정담론에대해탐구하기",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "3-1",
+        "subject": "융합프로젝트",
+        "title": "제2차한국전쟁시나리오작성및일탈이론을통한북핵문제탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "2-1",
+        "subject": "독서",
+        "title": "‘평화당연하지않은이야기’ 읽고공정무역캠페인진행",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "2-1",
+        "subject": "정치와법",
+        "title": "‘ 우리는왜서로를미워하는가’를통해보는미국과대한민국의정치양극화",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "1-2",
+        "subject": "중국어",
+        "title": "중국의민족주의양상과우리나라의미치는영향및올바른대응방향",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "1-2",
+        "subject": "진로",
+        "title": "군주론과목민심서를비교분석하고지도자의덕목에대해탐구하기",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "1-1",
+        "subject": "동아리",
+        "title": "‘베니스의상인’을읽고샤일록의정체성으로인한법적차별이존재하는지분석하기",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "3학년동아리",
+        "content": "동아리(고전심포지움) (생략) 밀의’ 자유론’ 을함께읽고‘사실적시명예훼손처벌법을유지해야하는가?＇ 를토론주제로정하고폐지되어야한다는입장에서의견을개진함. 토론후밀의' 자유' 를바탕으로' 표현의자유의범위는어디까지인가?’ 에대해숙고하며미국의 수정헌법과대한민국의헌법을비교하고, 밀이말하는모든자유는다른사람에게미치는해악을 기준으로판단해야한다는결론에이름. 여기서진실을말하는것도사회적해악을초래하는지에대해 의문을가지고, 인격권보호도간과할순없으나, 밀이공리주의자였음을근거로공직자에대한 비판에형사처벌을하는것은오히려자유로운비판을위축시켜민주주의의위기라는공공의이익의 감소를가져올수있기에이부분에대한재고를주장함. 보여주고싶은역량: 고전에나타나는이론을현대사회의문제에적용시켜의견을개진해나갈수있는논리력과적용력. 합격선배의생기부분석: 자유론, 존스튜어트밀, 사실적시명예훼손, 헌법, 표현의자유, 공리주의 → 단순히토론에서끝나는것이아니라토론에서생긴궁금증을탐구로이어나가해결한것이의미있다고 생각했습니다. 1. 활동을하게된동기 동아리활동에서밀의‘자유론’이라는책을읽고“사실적시명예훼손죄를현행유지하여야한다”라는주제로토론을 진행하였습니다. 이주제에서가장논점이되는부분의표현의자유와인격권의보호였고따라서토론이끝난뒤 표현의자유를어디까지보장해야하는지, 밀이라면타인에게영향혹은피해를끼친다는이유로사실적시명예훼손 죄의유지에대해찬성했을지궁금증이들었습니다. 2. 세세한활동진행과정 먼저사실적시명예훼손죄에대한특수성을이해하였습니다. 사실적시명예훼손죄를광범위하게적용하는국가는 대한민국이유일하다는것을알게되었고이를구체화하기위해표현의자유를가장강력히보장한다고알려진 미국의수정헌법을가져와대한민국형법307조와비교하였습니다. 이를통해밀이주장한표현의자유와자유의 원리에대해재고하였습니다. 그후사실적시명예훼손죄처벌이가장크게비판받는부분인공인에대한비판위축 부분과연관지어밀이말하는해악의범위는명시되어있지않지만밀이공리주의자라는것을근거로공직자를 비판하는것이사실적시명예훼손죄로처벌되어자유로운비판을위축시킨다면이는민주주의의위기라는공익의 저해의결과를가져올수있기에공직자(공인) 비판에있어서는이를적용해서는안된다고결론내릴수있었습니다. 3. 활동을통해얻은결과와느낀점 고전이중요하게여겨지는이유는고전이과거의이론과지식을담고있음에도현대에도적용될수있는보편성을 가지기때문입니다. 이탐구활동을통해고전의의미를다시되새길수있었고단순히책을읽고끝나기보다는 책에서배운것을자신의것으로만들고이를다른탐구로연관지어생기부에드러내는것이중요하다고생각이 들었습니다. 4. 탐구활동요약 자유론읽기→ 토론활동→ 궁금증발생→ 사실적시명예훼손죄의특성파악하기→ 미국수정헌법과대한민국 형법제337조비교하기→ 밀의해악금지의원칙파악하기→밀의이론을적용하여바라보기→ 결론내리기 5. 탐구활동개인총평 만족스러운점 논란이되는법률의핵심쟁점을파악한뒤, 밀의자유론에서제시하는자유의원리와표현의 자유개념을적용해논리를전개한점이의미있는탐구활동으로느껴졌습니다. 이처럼철학자의 사상이담긴책을단순히정보습득에서끝내지않고, 사회문제에적용해자신의의견을 개진하는과정이생기부에드러난다면, 해당사상을깊이이해하고체화했다는인상을줄수있어 긍정적인평가를받을수있을것이라생각합니다. 아쉬운점 탐구과정은많았는데그것을효율적으로탐구결과로이끌어내지못한것이아쉽습니다. 또한 처음질문한내용과탐구결과가너무동떨어진느낌을줘서다시탐구를하게된다면이러한 부분을질문과결과사이에넘어가는부분을좀더보충하여보완하고싶습니다.",
+        "highlights": [
+          "밀의 자유론",
+          "사실적시명예훼손",
+          "표현의 자유",
+          "공리주의",
+          "고전의 현대적 적용"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "3학년진로",
+        "content": "학생주도성하자프로젝트'정의로가는법' 활동을통해‘법은만인에게평등할수있는가' 라는 질문의해답을탐구함. ‘신안염전노예사건’ 의판결문을함께읽고가해자의공탁금, 강요된 처벌불원서, 숙식제공등이감형의근거로사용된판결의부당함을발견하여판결문을 재구성해보는시도를함. 이를위해판결문에대한타당성을묻는설문조사를실시하고근거를마련하여집행유예로 판결났던사건에대해징역1년6개월형으로양형을구형하는새로운대안을제시해봄. 결과적으로사건과관련하여법률제정및개정이필요함을절실히깨닫고판결이후의복지까지 지원하는사회구조의개선을지향하는내용으로‘국민제안및국민청원’ 까지실천하는등사회참여적태도로확장하여성장하는모습이인상적임. 특히구체적인사건과연결지어직접판결문을분석한후다른팀과협업을통해대안을제시하는 등대안적사고를통한문제해결능력이탁월함. (생략) 보여주고싶은역량: 이미결론이났지만사회적으로문제가된다고생각한사건의판결을직접재구성 해봄으로써나타나는비판적사고",
+        "highlights": [
+          "법은만인에게평등한가",
+          "신안염전노예사건",
+          "판결문 재구성",
+          "사회참여적 태도",
+          "비판적 사고"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "3학년진로",
+        "content": "진로독서활동에서‘이상한재판의나라에서'를읽고소송당사자들의입장에서생각하는 상상력을발휘할때국민을위한재판이가능하다는것을배움. 법에대한청소년인식에대한궁금증이생겨질문지법과면접법을이용해‘청소년의사법 신뢰도'를주제로6차시의연구활동을진행함. 뉴스와부모님의견해에영향을받기때문에 청소년의사법신뢰도가낮은편이라는연구결과를발표함. 이에대한해결책으로국민의법감정을고러히교사법에더한감시도를높일수있는 국민참여재판제도의확대를제안하였으며, 정치적인힘의논리에의한사법개혁이아닌국민에 공감하는태도가적용되어야진정한개혁이이루어질것이라고주장하여우수한문제해결역량을 보임. 보여주고싶은역량: 교과시간에배운연구방법을활용하여탐구를직접진행해본것. 1. 활동을하게된동기 2학년정보시간에사적제재에대한설문조사및데이터처리활동을진행했었고이때현재청소년들사이에서 사적제재에대한찬성이높다는것을알게되었습니다. 이후사적제재에대한찬성도와사법신뢰도의하락이 상관관계에있다는것을파악하였고활동을기획하게되었습니다. 2. 세세한활동진행과정 먼저‘청소년의사법신뢰도’로연구주제를설정하고질문지를만들었습니다. 질문지에개념의조작적정의를 사용하여사법신뢰도를파악할수있는질문들을만들었습니다. 질문지로는정말현재청소년의사법신뢰도가어느 정도의수준인지를파악하는것을목표로하였습니다. 다음으로총4명을대상으로면접을시행하였습니다. 면접법에서는질문지법으로는알수없는사법신뢰도가형성되는과정등을알아보려고하였고이를위해사법적 차별등을직접겪은경험이있는지, 사법불신을일으킬수있는사건을직,간접적으로접한경험이있는지 해당 사건을접한경로등을물어보았습니다. 또한유연한면접을진행하였기에상황에맞게추가질문을하거나구체적 설명을요청하기도하였습니다. 이두연구결과를바탕으로결론을내렸고이후해결책을제시하였습니다. 3. 활동을통해얻은결과와느낀점 실제로교과서에서배운이론을직접사용해보는것은흔치않기에굉장히즐거운과정이었고연구경과를떠나서 연구과정에서직접질문지법과면접법을활용해보며교과서에서배운내용들을경험적으로이해하고체화시킬수 있는활동이었기에의미있었습니다. 4. 탐구활동요약 2학년진로시간사적제재관련활동→ 청소년의사적제재찬성률이높다는데이터를도출→ 사적제재와사법 신뢰도가관련되어있다는것을파악→ 청소년의사법신뢰도를주제로탐구활동진행→ 질문지법시행→ 면접법 시행→ 결론도출. 5. 탐구활동개인총평 만족스러운점 보통탐구활동을진행하면질문지법에서마무리짓기마련인데거기서멈추지안고면접법까지 활용하여더깊은탐구활동을진행한것같아만족스러웠습니다. 면접을진행하는것이확실히 쉽지는않았지만설문지를분석하는데서멈추는것보다훨씬구체적인탐구결과를도출할수 있었습니다. 아쉬운점 해당탐구결과를도출하고청소년의사법신뢰도가어른들의것과무관하지않다는결과에따라 해당상황을포괄적으로바라볼수있는책을읽고해결책을도출하려고했던것인데다른 활동으로표시되어해당의도가생기부에는잘반영되지않아살짝아쉬웠던것같습니다. 또한 표본의대표성문제를해결하지못한것은어쩔수없지만그래도아쉬웠던것같습니다.",
+        "highlights": [
+          "진로독서활동",
+          "청소년의사법신뢰도",
+          "질문지법",
+          "면접법",
+          "사법개혁"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "생활과윤리(생략)",
+        "content": "심화주제탐구활동에서롤스의재산소유민주주의를중심으로한우리나라의공정담론에대해탐구함. 롤스의관점을토대로보편적복지와선별적복지에대해다룬책을읽고이를비판적관점에서분석함. 롤스가주장한도덕적자존감및호혜성의원리를중심으로재산소유민주주의의특징에대해설명하였으며롤스의정의론이선별적복지의근거가된다는책의주장은지나친일반화의오류라고지적함. 롤스의관점에서의복지정책은정의로운체제를지향하며기존의복지병과같은문제와취약계층의자존감훼손등의문제를해결할수있는방안을모색했다는점에서그의의를찾을수있다고강조함. 이론에대해새로운관점에서생각해보는비판적사고력과융합적사고력이돋보임.\n보여주고싶은역량: 책의내용에서오류를발견하고이를교과내용을바탕으로심화하여비판할수있음\n합격선배의생기부분석:롤스, 재산소유민주주의, 정의론, 선별적복지정책\n→ 비판적사고로시작하여교과내용을가지고이를더심화하여탐구했다는것이확실히드러나는생기부라고생각합니다.",
+        "highlights": [
+          "롤스",
+          "재산소유민주주의",
+          "정의론",
+          "선별적복지정책",
+          "비판적 사고",
+          "융합적 사고"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "3학년융합프로젝트활동",
+        "content": "학교자율과정미래융합프로젝트활동(2024.07.08.- 2024.07.12.)에서 북한의 핵위협을 다차원적으로 분석하고 제2차 한국전쟁의 가상시나리오를 작성하여 우리나라를 둘러싼 국제관계 양상을 예측해봄. 르완다 대학살이나 우크라이나 전쟁을 분석하면서 \"그렇다면 우리나라는?\"이라는 궁금증이 들어 이러한 주제로 탐구하게 되었다고 함. 핵탄두 소형화 기술, 고체연료 기술, 재진입 기술에 대한 성공 여부를 알 수 있는 자료를 바탕으로 북한의 핵현황을 분석함. 이를 바탕으로 남북 간 무력충돌 형태의 전쟁 시나리오를 작성함. 전쟁이 발생하게 되는 원인, 무력 충돌 이후 이해관계가 얽혀있는 주변국들의 반응, 국제기구와 국제법에 따른 제재, 전쟁이 종결되는 과정에서의 주변국과 국제기구의 노력 등 구체적인 내용을 시나리오에 짜임새 있게 담아 발표함. 북한의 핵무기 제조 이유를 사회문화 시간에 배운 뒤 르캠과 머튼의 아노미 이론, 낙인이론, 차별적 교제 이론을 국제사회로 확대, 적용하여 분석하고 각각의 이론을 바탕으로 하여 북한의 다양한 비핵화 방안을 끌어냄. 이러한 탐구 과정을 통해 한반도의 무력충돌로 인한 한국 제정세의 변화와 국가안보를 위한 다양한 방안을 성찰해보는 기회를 얻었다고 이야기함. 보여주고 싶은 역량: 특색 있는 생각 주제, 교과 내용 확장",
+        "highlights": [
+          "북한의 핵위협",
+          "가상시나리오",
+          "국제관계",
+          "비핵화 방안",
+          "탐구 활동"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "동아리활동에서 밀의 ‘자유론’이라는 책을 읽고 토론을 진행함.",
+      "사실적시명예훼손죄의 특수성을 이해하고, 미국 수정헌법과 대한민국 형법을 비교함.",
+      "고전의 의미를 되새기고, 책에서 배운 것을 자신의 것으로 만들어 다른 탐구로 연관지음.",
+      "논란이 되는 법률의 핵심 쟁점을 파악하고, 밀의 자유론을 적용하여 논리를 전개함.",
+      "사회문제에 적용해 자신의 의견을 개진하는 과정이 긍정적인 평가를 받을 수 있음.",
+      "구체적인 사건과 연결지어 판결문을 분석하고 대안을 제시함.",
+      "비판적 사고를 통해 사회 참여적 태도로 성장하는 모습이 인상적임."
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_001",
+        "saeteuk_id": "saeteuk_002",
+        "match_score": 0.016666666666666666,
+        "match_reason": "내용 유사 (1%)"
+      },
+      {
+        "research_id": "research_002",
+        "saeteuk_id": "saeteuk_003",
+        "match_score": 0.006756756756756757,
+        "match_reason": "내용 유사 (0%)"
+      }
+    ],
+    "unlinked_researches": [
+      "research_008",
+      "research_006",
+      "research_010",
+      "research_003",
+      "research_009",
+      "research_005",
+      "research_007",
+      "research_004"
+    ],
+    "unlinked_saeteuks": [
+      "saeteuk_001",
+      "saeteuk_005",
+      "saeteuk_004"
+    ]
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 34148"
+  ]
+}

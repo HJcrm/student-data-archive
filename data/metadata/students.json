@@ -1,6 +1,6 @@
 [
   {
-    "id": "1e660251adb9",
+    "id": "dbf8c8976449",
     "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.45,
@@ -8,7 +8,7 @@
     "final_university": "고려대학교",
     "final_department": "데이터과학과",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "공학",
     "school_name": "부천고등학교",
     "school_type": "일반고",
     "school_region": "부천시",
@@ -16,7 +16,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "d210ee962a5d",
+    "id": "858c7e94efaa",
     "source_file": "유니브클래스_2025_인문사회상경_생기부대백과 (1).pdf",
     "grade_type": "내신형",
     "nesin_average": 1.6,
@@ -32,7 +32,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "f249549f6081",
+    "id": "5e53a6f969db",
     "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.45,
@@ -40,7 +40,7 @@
     "final_university": "고려대학교",
     "final_department": "데이터과학과",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "공학",
     "school_name": "부천고등학교",
     "school_type": "일반고",
     "school_region": "부천시",
@@ -48,7 +48,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "a9f2ae818bec",
+    "id": "352a779a8c9b",
     "source_file": "의학계열 생기부 데이터.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.17,
@@ -56,7 +56,7 @@
     "final_university": "인하대학교",
     "final_department": "의예과",
     "university_tier": "기타",
-    "major_field": "경영/경제",
+    "major_field": "의약",
     "school_name": "제주 IB 고등학교",
     "school_type": "일반고",
     "school_region": "제주도",
@@ -64,7 +64,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "2f2df1e3199c",
+    "id": "11f66a63ef41",
     "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.8,
@@ -72,7 +72,7 @@
     "final_university": "고려대학교",
     "final_department": "반도체공학과",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "공학",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "서울특별시 서초구",
@@ -80,7 +80,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "f4e8d9268a81",
+    "id": "f0b8246af6ec",
     "source_file": "의학계열 생기부 데이터.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.12,
@@ -88,7 +88,7 @@
     "final_university": "고려대학교",
     "final_department": "의예과",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "의약",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "대구광역시",
@@ -96,7 +96,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "22d533a791b1",
+    "id": "e2e9db2cff7a",
     "source_file": "유니브클래스_2025_인문사회상경_생기부대백과 (1).pdf",
     "grade_type": "내신형",
     "nesin_average": 4.0,
@@ -112,7 +112,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "27955c205b64",
+    "id": "c99571e127c4",
     "source_file": "의학계열 생기부 데이터.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.2,
@@ -120,7 +120,7 @@
     "final_university": "경희대학교",
     "final_department": "한의예과",
     "university_tier": "인서울상위",
-    "major_field": "경영/경제",
+    "major_field": "의약",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "충남논산시",
@@ -128,7 +128,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "db815b1b5080",
+    "id": "327cc4bd880e",
     "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.6,
@@ -144,7 +144,7 @@
     "overall_theme": "물리학 및 수학 분야 심화 탐구"
   },
   {
-    "id": "25f37ba836aa",
+    "id": "64a21cb306d5",
     "source_file": "유니브클래스_2025_인문사회상경_생기부대백과 (1).pdf",
     "grade_type": "내신형",
     "nesin_average": 1.31,
@@ -152,7 +152,7 @@
     "final_university": "고려대학교",
     "final_department": "정치외교학과",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "사회",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "고양시",
@@ -160,7 +160,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "a37d8112d64b",
+    "id": "84becd879cdf",
     "source_file": "유니브클래스_2025_인문사회상경_생기부대백과 (1).pdf",
     "grade_type": "내신형",
     "nesin_average": 3.0,
@@ -168,7 +168,7 @@
     "final_university": "고려대학교",
     "final_department": "사회학과",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "사회",
     "school_name": "갓반고",
     "school_type": "일반고",
     "school_region": "파주시",
@@ -176,7 +176,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "4278860980ab",
+    "id": "b73963c7f845",
     "source_file": "의학계열 생기부 데이터.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.5,
@@ -184,7 +184,7 @@
     "final_university": "서울대학교",
     "final_department": "치의예과",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "의약",
     "school_name": "OO고등학교",
     "school_type": "자사고",
     "school_region": "대구광역시",
@@ -192,7 +192,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "36e9cb349283",
+    "id": "744c7b56cb6b",
     "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.75,
@@ -200,7 +200,7 @@
     "final_university": "연세대학교",
     "final_department": "대기과학과",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "자연",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "서울시",
@@ -208,7 +208,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "5f2ba82cf3ab",
+    "id": "ffe23bc70837",
     "source_file": "의학계열 생기부 데이터.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.62,
@@ -216,7 +216,7 @@
     "final_university": "고려대학교",
     "final_department": "화학과",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "자연",
     "school_name": "여자고등학교",
     "school_type": "자사고",
     "school_region": "서울시",
@@ -224,7 +224,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "ae45a1c0c510",
+    "id": "276eac8e2969",
     "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.36,
@@ -232,7 +232,7 @@
     "final_university": "고려대학교",
     "final_department": "수학교육과",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "자연",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "충청남도",
@@ -240,7 +240,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "0e205924dadb",
+    "id": "1b3c3a16dbe1",
     "source_file": "유니브클래스_2025_인문사회상경_생기부대백과 (1).pdf",
     "grade_type": "내신형",
     "nesin_average": 2.33,
@@ -256,7 +256,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "8b6bfccf2456",
+    "id": "a995a19fcd60",
     "source_file": "유니브클래스_2025_인문사회상경_생기부대백과 (1).pdf",
     "grade_type": "내신형",
     "nesin_average": 1.68,
@@ -264,7 +264,7 @@
     "final_university": "고려대학교",
     "final_department": "교육학과",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "교육",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "김포시",
@@ -272,7 +272,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "96186bc3e182",
+    "id": "1de8f2994c39",
     "source_file": "의학계열 생기부 데이터.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.22,
@@ -280,7 +280,7 @@
     "final_university": "조선대학교",
     "final_department": "약학과",
     "university_tier": "기타",
-    "major_field": "경영/경제",
+    "major_field": "의약",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "광주광역시",
@@ -288,7 +288,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "b76e4d9c7f14",
+    "id": "8af999e0b2be",
     "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.58,
@@ -296,7 +296,7 @@
     "final_university": "건국대학교",
     "final_department": "건축학부",
     "university_tier": "인서울",
-    "major_field": "경영/경제",
+    "major_field": "공학",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "강원도",
@@ -304,7 +304,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "7b0a663cc369",
+    "id": "b6ba52f28017",
     "source_file": "유니브클래스_2025_인문사회상경_생기부대백과 (1).pdf",
     "grade_type": "내신형",
     "nesin_average": 1.5,
@@ -320,7 +320,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "b555f4504bb8",
+    "id": "09418d428c88",
     "source_file": "의학계열 생기부 데이터.pdf",
     "grade_type": "내신형",
     "nesin_average": 2.25,
@@ -328,7 +328,7 @@
     "final_university": "고려대학교",
     "final_department": "언어학과",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "인문",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "서울시",
@@ -336,7 +336,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "2572a7a82ca4",
+    "id": "5ba5cf6e3e19",
     "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.82,
@@ -344,7 +344,7 @@
     "final_university": "이화여자대학교",
     "final_department": "컴퓨터공학과",
     "university_tier": "인서울상위",
-    "major_field": "경영/경제",
+    "major_field": "공학",
     "school_name": "OO여고",
     "school_type": "일반고",
     "school_region": "서울특별시영등포구",
@@ -352,7 +352,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "afa60de28438",
+    "id": "8449a11ec598",
     "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.94,
@@ -360,7 +360,7 @@
     "final_university": "고려대학교",
     "final_department": "신소재공학부",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "공학",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "고양시",
@@ -368,7 +368,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "080746ec0c3e",
+    "id": "7ed517140299",
     "source_file": "유니브클래스_2025_인문사회상경_생기부대백과 (1).pdf",
     "grade_type": "내신형",
     "nesin_average": 1.53,
@@ -376,7 +376,7 @@
     "final_university": "고려대학교",
     "final_department": "중어중문학과",
     "university_tier": "SKY",
-    "major_field": "경영/경제",
+    "major_field": "인문",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "경기도",
@@ -384,7 +384,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "7aa573ae5726",
+    "id": "31c0c8ed64f5",
     "source_file": "의학계열 생기부 데이터.pdf",
     "grade_type": "내신형",
     "nesin_average": 2.15,
@@ -400,7 +400,7 @@
     "overall_theme": "간호/의료 분야 심화 탐구"
   },
   {
-    "id": "2e6498cc752c",
+    "id": "ec25ec435fbf",
     "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
     "grade_type": "내신형",
     "nesin_average": 2.4,
@@ -416,7 +416,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "48f74de18feb",
+    "id": "dda38e5dfe94",
     "source_file": "의학계열 생기부 데이터.pdf",
     "grade_type": "내신형",
     "nesin_average": 1.55,
@@ -424,7 +424,7 @@
     "final_university": "동국대학교",
     "final_department": "한의예과",
     "university_tier": "인서울",
-    "major_field": "경영/경제",
+    "major_field": "의약",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "제주도서귀포시",
@@ -432,7 +432,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "557b5c3e79b6",
+    "id": "27b843d19cef",
     "source_file": "의학계열 생기부 데이터.pdf",
     "grade_type": "내신형",
     "nesin_average": 2.0,
@@ -448,7 +448,7 @@
     "overall_theme": "경영/경제 분야 심화 탐구"
   },
   {
-    "id": "4a159c7ceab3",
+    "id": "50e1168db9d6",
     "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
     "grade_type": "내신형",
     "nesin_average": 2.95,
@@ -456,7 +456,7 @@
     "final_university": "숭실대학교",
     "final_department": "신소재공학과",
     "university_tier": "인서울",
-    "major_field": "경영/경제",
+    "major_field": "공학",
     "school_name": "OO고등학교",
     "school_type": "일반고",
     "school_region": "서울시",

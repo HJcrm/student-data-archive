@@ -1,0 +1,632 @@
+{
+  "alias": "학생06_고려대_경영학과",
+  "source_file": "유니브클래스_2025_인문사회상경_생기부대백과 (1).pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 94.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 2,
+        "percentile": 70.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 3,
+        "percentile": 93.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 2,
+        "percentile": 90.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 2,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 94.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 3,
+        "percentile": 90.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 1,
+        "percentile": 76.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 4,
+        "percentile": 87.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 2,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 1,
+      "math": 3,
+      "english": 2,
+      "history": 2,
+      "tamgu1": "탐구1",
+      "tamgu1_grade": 2,
+      "tamgu2": "탐구2",
+      "tamgu2_grade": 1,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "서울대학교",
+        "department": "교육학과",
+        "admission_type": "일반전형",
+        "result": "불합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "교육학과",
+        "admission_type": "학업우수전형",
+        "result": "추가합격(1차합격)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "서울교육대학교",
+        "department": "초등교육과",
+        "admission_type": "학업우수전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "경인교육대학교",
+        "department": "초등교육과",
+        "admission_type": "학업우수전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "중앙대학교",
+        "department": "영어교육과",
+        "admission_type": "지역균형전형",
+        "result": "추가합격(3차합격)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "한국외국어대학교",
+        "department": "영어교육과",
+        "admission_type": "지역균형전형",
+        "result": "추가합격(4차합격)",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "고려대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "김포시",
+    "school_type": "일반고",
+    "school_name": "OO고등학교",
+    "atmosphere": "상위권과 하위권에 많은 학생들이 몰려있는 모래시계형 분포, 내신이 어려운 정도로는 두 번째",
+    "competition_level": "높음",
+    "special_programs": [
+      "진로 프로그램",
+      "학생 중심 강연",
+      "동아리 활동"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "3-1",
+        "subject": "확률과통계",
+        "title": "경우의수를활용한리듬교육콘텐츠",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "2-2",
+        "subject": "생활과과학",
+        "title": "감염성질병의발달에따른대응방식",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "2-1",
+        "subject": "독서",
+        "title": "미래사회에도인간의번역이필요할까?",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "1-1",
+        "subject": "자율",
+        "title": "지루한경제교육, 그럼에도해야하는이유는?",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "3-1",
+        "subject": "동아리",
+        "title": "청소년우울과학업스트레스의상관관계",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "1-1",
+        "subject": "통합사회",
+        "title": "전태일이불꽃이되어야만했던이유",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "2-1",
+        "subject": "자율",
+        "title": "학생맞춤형꿈을찾는교육방안",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "3-1",
+        "subject": "자율",
+        "title": "학교내에서이타심을기반으로한협력이필요한가?",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "2-2",
+        "subject": "자율",
+        "title": "기술의발전으로마약의긍정적인성분만을뽑아사회에좋은영향을줄순없는가?",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "2-2",
+        "subject": "동아리",
+        "title": "미래사회에수학문제를푸는능력이필요할까?",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "화학1확률과통계:",
+        "content": "확률과통계: 융합주제탐구활동에서확률과통계관련개념이활용된다양한실생활사례를소개함. 특히, 음악에서리듬이만들어지는과정즉, 한마디에들어갈음표와쉼표의조합을경우의수로 도출해음악과수학의융합교육방식을제안함. 이를구체화하기위해'경우의수를활용한리듬교육 콘텐츠'를주제로탐구활동을진행함. 경우의수를활용하여패턴을구성하고이패턴을활용한교육 방안고안의방향성을제시함. 더나아가마디당4박자로구성되는악보에서한마디에사용할수있는음표와쉼표의종류를 제한하고이를활용하여한마디를구성하는경우의수를구하는문제를만듦. 서로다른음표가 사용되는경우에따라분류하고중복순열과같은것이있는순열등을활용해문제해결과정이 참산함. 또한, 딘즈의수학학습6단계에리듬학습을접목하였을때의기대효과에대한궁금증을바탕으로 경우의수로알아보는리듬교육콘텐츠- 딘즈의수학학습6단계로알아보기'를주제로추가탐구후 발표함. 각단계에따라학습단계에맞는적절한예시를기반으로각단계에서형성할수있는 개념의결과와개념이정립되어가는과정을설명함. 발표중퀴즈를제시해청자의참여를유도한 점이인상적임.",
+        "highlights": [
+          "확률과통계",
+          "음악과수학의융합교육",
+          "리듬교육 콘텐츠",
+          "딘즈의수학학습6단계",
+          "문제해결과정"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "화학1",
+        "content": "'청소년우울과학업스트레스의상관관계'를쟁점으로탐구함. 먼저정확한통계자료를토대로 청소년우울과학업스트레스가정적인상관관계는있지만. 학업스트레스자체가청소년우울로 직결되는것은아니라고분석함. 또한학교내사회복지사제도의정착, 정기적인멘토-멘티활동과또래상담실시등의방안을 제시하여청소년의학업스트레스를긍정적인방향으로해결함으로써우울증으로발전하는것을 막아야한다고주장하고. 나아가실제로교내에서또래상담봉사활동을실시하는등문제해결을 위한실천적인모습을보임. 보여주고싶은역량: 교육에만매몰되어있는것이아니라청소년, 교육사회, 청소년심리에전반적으로관심이 있음을드러내고싶었습니다. 합격선배의생기부분석: 사회에대한전반적인관심을보여주었을뿐만아니라이를실제로교내에서학생들을 대상으로하는상담봉사활동을한것을나타냄으로써실행력이있다는점또한부각시켰습니다.",
+        "highlights": [
+          "청소년 우울",
+          "학업 스트레스",
+          "사회복지사 제도",
+          "또래 상담",
+          "멘토-멘티 활동",
+          "실천적인 모습",
+          "실행력"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "화학1",
+        "content": "진로융합프로젝트학생전문가강연에서미래교육을위한맞춤형학즙도구(알고리즘과챗봇의 활용을중심으로)'를주제로한학기에걸쳐연구및강연을진행함. 인공지능기초수업시간에알고리즘을배우며, '교육현장에알고리즘을어떻게적용할것인가'를 고민하면서'머신러닝알고리즘'의활용가능성에착안하여'교육용인공지능챗봇' 개발을제안함. 그중'목적형챗봇'은학습적인측면을담당하여대화시뮬레이션을진행하거나학습자가어려워하는 문제유형을분석하고즉각적인피드백을제공하는방식으로활용하며, '비목적형챗봇'은감정적인 측면을담당하여학습계획을설계하고학습동기를부여하는방향으로활용이가능함을분석하여 설명함. 또한교육용챗봇은맞춤형학습시스템구현과자율적인자기주도학습실현이가능하지만. 학습자의일부사고과정을인공지능이담당하여학습무기력증을야기할수있음을지적하면서 챗봇이학생들에게'역질문'을하거나'추가탐구활동'을제시하는방안을고안하여현실적인해결책을 제시함. 특히수강생모두가참여할수있도록뛰어난발표능력과강연진행능력을보여주었고, 문제점을날카롭게분석하여실천적인대안을제시하는등문제해결과탐구능력이돋보였음. 일반고내신1.71등급고려대학교교육학과합격선배 보여주고싶은역량: 최근대두되고있는인공지능에관한주제를선택함으로써교육이슈에민감하게반응함을 보여주고싶었습니다. 합격선배의생기부분석: 인공지능에대한깊은이해와탐구능력을피력하였고현실적인해결책을 제시함으로써단순한분석에만그치지않고능동적으로문제에대한해결에대해고안했음을드러내었습니다.",
+        "highlights": [
+          "인공지능",
+          "교육용챗봇",
+          "맞춤형학습",
+          "문제해결능력",
+          "발표능력"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "생활과과학",
+        "content": "의학이발달한현재에도코로나19와같은감염성질병이발생하는데과거에는감염성질병에어떻게대처했을지에대한궁금증으로'건강과과학' 단원과연계하여'감염성질병의발달에따른대응방식’이라는주제를선정하게되었다고밝힘. 감염성질병의역사적흐름，질병예방법과예방접종원리，감염성질병이만든문화를조사하고, '세상을바꾼전염병'이라는책을읽고정보기술을이용한전염병대처방법을심화탐구한후보고서를작성했으며, 시각자료를풍부하게추가하여PPT를제작함. 탐구내용을숙지한후명료한발음으로감염병의진화와과거와현재의질병예방법을적절한시각자료를사용하여조리있게잘설명했으며, 발표시내용전개가매끄럽고비언어적표현을잘활용하여유창하게설명해전달력이우수함. 또한，바이러스는살아남기위해숙주인사람에게덜치명적인형질로진화했을가능성이있으며，손소독은질병의감염률을감소시키고질병예방의가장기본원리로자리잡게되었다는결론을내리고궁금증을해결함. 보여주고싶은역량: 전염병에대한이해와과학에대한관심을드러내었습니다.",
+        "highlights": [
+          "감염성질병",
+          "전염병대처방법",
+          "정보기술",
+          "발표능력",
+          "과학적탐구"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "윤리와사상'윤리주제탐구하기’",
+        "content": "'윤리주제탐구하기’ 활동에서는에피쿠로스를선택하여핵심개념으로쾌락주의를서술하였고, 지나친교육열을현대사회문제로제시하고에피쿠로스의소극적쾌락개념을바탕으로해결방안을 제시함. '윤리주제탐구활동'에서순자를선택하여순자의성악설을바탕으로자신의초등교사 진로와연계하여교육의필요성을제시함. '윤리적쟁점파악하기'에서는토마스모어를선택하여토마스모어의유토피아를중심으로자신의 초등교사진로와연계하여공교육주입식교육과평가방식의문제점을제시함. '나의최애를 소개합니다’에서세계시민주의적관점에서본지구환경위기를주제로세계시민주의교육이지구 환경위기에중요한이유와세계시민교육이나가야할방향에대해서자신의초등교사진로와 연계하여발표함. 보여주고싶은역량: 세계시민주의적관점에서본지구환경위기와교육의융합을보여주고자했습니다. 합격선배의생기부분석: 윤리와사상과목에서도교육과연관되는키워드를찾아세계시민주의적관점과지구 환경위기를융합하여세계시민주의교육이라는주제를이끌어냈습니다. → 지구환경위기라는시의적인주제와그와맞는세계시민주의교육에대해언급하고주제를선정하여 탐구한것이의미있는탐구였다고생각합니다. 1. 활동을하게된동기 지구환경위기와그해결책에대해깊이고민하면서, 교육이이문제를해결하는데어떤역할을할수있을지 탐구하고싶었습니다. 특히, 세계시민주의교육이환경문제해결에어떻게기여할수있는지에대한궁금증이 생겼고, 이를초점으로삼아탐구를시작하게되었습니다. 환경문제는단순히한국가나지역의문제가아니라전세계적인문제이므로, 세계시민주의교육을통해학생들이 글로벌문제에대해가져야할책임에대해알리는활동을하고싶었습니다. 2. 세세한활동진행과정 세계시민주의교육이지구환경문제해결에어떤영향을미칠수있는지에대해연구했습니다. 다양한환경문제를 다루면서, 세계시민주의교육을통해학생들이환경문제에대해생각하고, 지속가능한미래를위한책임감을 가지게되는방안을고민했습니다. 또한, 이를교육현장에서어떻게적용할수있을지구체적인방법을생각하며 발표자료를준비했습니다. 교사로서학생들에게환경문제에대한경각심을심어주고, 글로벌시민으로서의역할을할수있도록교육하는 방법을모색했습니다. 3. 활동을통해얻은결과와느낀점 세계시민주의교육이학생들에게환경문제에대한책임감을심어주고, 지속가능한사회를위한행동을이끌어낼수 있다는점을확신할수있었습니다. 또한, 환경문제해결을위해학생들이적극적으로참여하는방법에대해 구체적으로생각하게되었고, 교육현장에서이를어떻게실천할수있을지에대해고민하게되었습니다. 지구환경 위기와관련하여교육이중요한역할을한다는점을깊이이해하게되었습니다. 4. 탐구활동요약 세계시민주의적관점에서지구환경위기를다루었습니다. 지구환경문제에대해깊이고민하면서, 세계시민주의 교육이왜중요한지에대해탐구하게되었습니다. 세계시민주의교육은학생들에게지구환경위기의심각성을 인식시키고, 이를해결하기위한책임감을심어줄수있습니다. 이를바탕으로, 교사로서어떻게학생들에게환경 문제에대해교육하고, 그들이적극적으로참여할수있도록유도할수있을지에대해고민했습니다. 교육현장에서 학생들에게환경위기에대한경각심을일깨우고, 지속가능한사회를위해행동하도록돕는방법에대해생각하며 발표를준비했습니다. 5. 탐구활동개인총평 만족스러운점 세계시민주의교육이지구환경위기해결에중요한역할을한다는점을확실히알게되었습니다. 교육을통해학생들에게환경문제에대한책임감을심어주고, 적극적인참여를유도할수있다는 점에대해깊이생각할수있었습니다. 또한, 세계시민주의교육이어떻게학생들의시각을 넓히고글로벌문제에대해고민하도록도울수있는지에대한구체적인방법을찾을수 있었습니다. 지구환경교육이미래세대에게얼마나중요한지다시한번깨닫게되었습니다. 아쉬운점 지구환경위기해결을위한세계시민주의교육의구체적인실행방법을더다양하게제시하지 못한점이아쉬웠습니다. 또한, 다른국가들의환경교육사례를더비교하여세계시민주의 교육의효과를입증할수있었으면좋았을것같습니다.",
+        "highlights": [
+          "에피쿠로스",
+          "쾌락주의",
+          "세계시민주의교육",
+          "지구환경위기",
+          "교육의역할",
+          "책임감",
+          "지속가능한미래"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "음악과 수학의 융합에 대한 탐구",
+      "확률과 통계 개념을 활용한 실생활 사례 분석",
+      "경우의 수를 활용한 리듬 교육 콘텐츠 설계",
+      "딘즈의 수학 학습 6단계를 리듬 학습에 접목",
+      "문제 해결 능력과 사고력 향상",
+      "교육적 가능성을 강조한 발표 및 청중 참여 유도",
+      "청소년 우울과 학업 스트레스의 상관관계 탐구",
+      "실천적인 문제 해결을 위한 또래 상담 봉사활동"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_002",
+        "saeteuk_id": "saeteuk_004",
+        "match_score": 0.42000000000000004,
+        "match_reason": "같은 과목, 내용 유사 (2%)"
+      },
+      {
+        "research_id": "research_005",
+        "saeteuk_id": "saeteuk_002",
+        "match_score": 0.017857142857142856,
+        "match_reason": "내용 유사 (1%)"
+      }
+    ],
+    "unlinked_researches": [
+      "research_001",
+      "research_008",
+      "research_006",
+      "research_010",
+      "research_003",
+      "research_009",
+      "research_007",
+      "research_004"
+    ],
+    "unlinked_saeteuks": [
+      "saeteuk_001",
+      "saeteuk_005",
+      "saeteuk_003"
+    ]
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 33671"
+  ]
+}

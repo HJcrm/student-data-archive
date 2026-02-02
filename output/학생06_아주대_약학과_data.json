@@ -1,0 +1,627 @@
+{
+  "alias": "학생06_아주대_약학과",
+  "source_file": "의학계열 생기부 데이터.pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "평균",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "평균",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 2,
+        "percentile": 88.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 3,
+        "percentile": 96.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 1,
+        "percentile": 98.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 2,
+        "percentile": 78.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 1,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 96.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 1,
+        "percentile": 86.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 3,
+        "percentile": 60.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 1,
+        "percentile": 46.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 4,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 1,
+      "math": 2,
+      "english": 2,
+      "history": 4,
+      "tamgu1": "언어와매체",
+      "tamgu1_grade": 1,
+      "tamgu2": "미적분",
+      "tamgu2_grade": 2,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "서울대학교",
+        "department": "약학과",
+        "admission_type": "지역균형전형",
+        "result": "불합격(1차불합격)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "중앙대학교",
+        "department": "약학과",
+        "admission_type": "CAU 융합인재전형",
+        "result": "불합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "조선대학교",
+        "department": "약학과",
+        "admission_type": "지연인재전형",
+        "result": "합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "아주대학교",
+        "department": "약학과",
+        "admission_type": "ACE전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "경희대학교",
+        "department": "약학과",
+        "admission_type": "지역균형전형",
+        "result": "불합격(최저미충족)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "전남대학교",
+        "department": "의예과",
+        "admission_type": "지역인재전형",
+        "result": "불합격(예비94번)",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "조선대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "광주광역시",
+    "school_type": "일반고(과학중점고)",
+    "school_name": "OO고등학교",
+    "atmosphere": "상위권 학생들이 주축을 이루며 수업에 참여, 수시로 대학에 진학하는 것을 선호",
+    "competition_level": "높음",
+    "special_programs": [
+      "독서마라톤",
+      "진로체험",
+      "합격생 멘토링"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "3-1",
+        "subject": "진로",
+        "title": "mRNA 백신의 면역원성과 반응성을 조절하기 위한 방법",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "3-1",
+        "subject": "화학II",
+        "title": "화학전지에서 시트르산의 분해와 pH 변화 실험",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "3-1",
+        "subject": "자율",
+        "title": "다니엘 전지에서 수용액과 염다리의 농도에 따른 전압 실험",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "3-1",
+        "subject": "화학II",
+        "title": "르 샤틀리에 법칙을 이용한 아스피린 합성 실험 시 수득률을 높이기 위한 방법",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "3-1",
+        "subject": "사회문제탐구",
+        "title": "부의 대물림 문제와 소득 수준과 부의 양극화 사이 관계 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "2-1",
+        "subject": "진로",
+        "title": "항암제의 종류와 역사",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "2-1",
+        "subject": "영어",
+        "title": "'공정하다는 착각(마이클 샌델)' 독후감",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "2-1",
+        "subject": "동아리",
+        "title": "약물 전달 시스템(알지네이트 비드)과 관련된 탐구 및 실험",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "1-1",
+        "subject": "동아리",
+        "title": "아스피린 합성 실험 및 수득률 계산",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "1-1",
+        "subject": "통합과학",
+        "title": "약물 전달 시스템(풀러렌, 마이크로니들)과 관련된 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "진로작년의 기존",
+        "content": "작년의 기존 탐구에서 mRNA 백신이 체내에서 분해되거나 면역 반응을 일으키는 경우가 많다는 사실을 알고 이를 해결하기 위해 탐구를 주도적으로 수행함. ’합성 mRNA 소개 및 백신으로서의 활용’을 읽고 mRNA 백신의 mRNA 부분을 만드는 방법을 파악하고，mRNA 효과 감소인자를 파악함. mRNA는 TLR과 반응하면 면역 반응을 일으키는데，이때 ORF의 유리딘을 1-메틸슈도유리딘으로 바꾸면 면역 반응을 줄일 수 있다는 전략을 정리하고 병원체가 세포에 안정적으로 접근하는 방법을 이용하여 백신을 만드는 전략을 제안함. 제언에서 백신 접종으로 후유증을 겪는 상황을 언급하며, 반응성을 조절하는 것도 백신 개발에서 고려할 사항임을 지적함. 백신을 탐구하였던 내용을 바탕으로, 암 백신에 관해서도 심화 탐구를 진행하고자 함. 학습 내용을 넘어 더 깊이 있는 지식을 탐구하려는 열정을 가지고 있음. 다양한 논문과 학술 자료를 스스로 찾아 읽고, 이를 바탕으로 심화된 지식을 습득하는 능력을 보여줌. 보여주고싶은역량: mRNA 백신분야에대한관심, 이전탐구를끌고갈수있는호기심 → 이전에mRNA 백신이체내에서면역반응을일으키는문제를가지고있어연구가필요하다는것을 알게되었고면역반응을줄이기위한방법을탐구함.",
+        "highlights": [
+          "mRNA 백신",
+          "면역 반응",
+          "탐구",
+          "백신 개발",
+          "심화 탐구"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "자율자유주제",
+        "content": "자유주제 탐구활동에서 화학 II의 다니엘 전지에서 염다리의 정확한 역할을 직접 확인해보고자 염다리의 전해질 농도가 높을수록 전압이 커지고，전해질 이온의 농도가 높을수록 전압이 커진다는 두 가설을 설정하고，두 가지 실험을 설계 및 수행함. 각 실험 별로 전해질과 수용액의 농도에 따른 전압 관계를 각각 측정하였으며，이를 가설에 따른 이론값과 비교하여 결론을 도출함. 실험 과정을 사진과 표로 자료를 정리하고，고찰단계에서 설계과정의 오차 유발점을 확인및 데이터값 분석을 통해 한계 전압을 유추하는 등 과학자적 자질이 몸에 배어 있음. 화학 전지 단원을 학습한 뒤 과일 전지 실험을 진행함. 전해질인 시트르산이 수소 이온과 시트르산 이온으로 존재하므로 수소 이온이 (-)극인 아연판으로 이동할 것이라 예측하며 전류가 흐르면 (+)극인 구리판 쪽의 pH 값이 높아질 것이고 (-)극인 아연판의 pH값은 낮아질 거라는 가설을 세움. 실험을 통해 가설이 맞다는 것을 증명하고 결과를 정리하여 실험 보고서를 체계적으로 작성함. 주체적으로 교과 내용을 확장시켜 실험을 설계한 점이 훌륭함. 보여주고싶은역량: 교과내용을성실히학습하고, 생각한가설을실험으로이어가는실행력 합격선배의생기부분석: 화학전지, 다니엘전지 → 다니엘전지에서염다리와수용액의농도가높아지면전압이높아질거라고생각한후가설을세워 실험을한과정과, 화학전지에서시트르산이분해되며아연판과구리판쪽의pH 농도가달라질것이라고 가설을세워실험을한과정이모두스스로해낸것이라는점을강조함.",
+        "highlights": [
+          "다니엘 전지",
+          "염다리",
+          "전해질 농도",
+          "가설 설정",
+          "실험 설계",
+          "pH 값 변화",
+          "실험 보고서 작성",
+          "과학자적 자질"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "동아리",
+        "content": "진통제로 사용되고 있는 아스피린 합성 실험을 수행하고 실험에 적용 되는 과학적 원리인 에스터화 반응을 이해함. 아스피린 합성 실험의 결과물을 정제하는 실험을 함께 진행하여 순수한 아스피린을 정제함. 실험에 적극적으로 참여하며 모둠에서 맡은 일을 수행하는 성실한 태도를 지니며 인산이 하는 역할을 알아내기 위해 책과 인산이 사용된 실험을 찾아보는 진취적인 태도를 보임. 실험화학반응식을 만들고 성립시키며 아스피린의 이론적 수득량을 구함. 수득률이 71.6%로 도출되자 이유를 분석하여 그 점을 개선해 다시 실험을 진행함으로써 수득률을 증가시키는 방법을 탐구한 모습이 인상적임. 과거에 했던 아스피린 합성 실험에서 아세트산 대신 무수 아세트산을 사용한 이유와 수득률을 높이기 위한 다양한 방법에 대해 심도 있는 탐구를 진행함. 촉매로 작용하는 인산의 양을 대폭 늘려도 실제 수득률에는 차이가 없는 이유에 대해서 조사하며 촉매의 역할, 반응 매커니즘에 대해 분석함. 추가로 제약 산업에서의 르 샤틀리에 원리를 탐구하며 수득률을 높여 생성물의 양을 늘리는 법과 이를 통한 효과적인 제약 원리를 설명함. 화학적 원리가 실생활에 쓰이는 제약 산업에 어떻게 적용되는지 파악하고 이를 탐구한 점에서 화학 분야에서의 지속적인 발전 가능성을 보여주었고 앞으로의 더 큰 성장이 기대됨. 보여주고싶은역량: 계산력, 더나은실험결과를위해노력하는태도, 교과에서배운내용과실험을연관지을 수있는능력. 합격선배의생기부분석: 아스피린, 에스터화반응, 수득률, 르샤틀리에 → 약학계열을지망하는학생이라면아스피린합성실험은흔하다고여길수있으나, 실험에서그친게 아니라수득률을구하고수득률을높이기위해한노력, 이후화학II 교과와연관지었다는점에서 주목할만함.",
+        "highlights": [
+          "아스피린 합성 실험",
+          "에스터화 반응",
+          "수득률",
+          "르 샤틀리에 원리",
+          "촉매"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "통합과학",
+        "content": "약물 전달 시스템에 사용되는 풀러렌과 마이크로 니들의 원리를 추가로 조사함으로써 관련 지식을 확장시킴. 동아리 ’알지네이트 비드 만들기'에서 비드 형태 만들기와 실험 관찰 후 기록하는 역할을 담당해 알지네이트 비드가 인공 위액(pH2)에서는 불투명하고 딱딱한 반면 인공 장액(PH8)에서는 커지고 말랑해진 결과를 기록함. 1학년 때 약물 전달 시스템과 관련해 풀러렌을 조사한 경험과 비교하며 실험을 진행하였고, 1차 실험의 실패 원인을 인공 장액의 pH농도 설정 오류로 생각해 설계한 2차 실험에서 정확한 실험 결과를 얻어 결론을 도출함. 보여주고싶은역량: 약물전달시스템에대한이해, 관심, 최신연구동향을파악하는능력 합격선배의생기부분석: 약물전달시스템, 풀러렌, 마이크로니들, 알지네이트비드 → 약물전달시스템에대한이해와관심을표현한부분임. 진로가mRNA 백신연구분야라고언급했어서 단순히‘약’이아니라‘약물전달시스템’에관심이있음을표현하기에좋은부분이라고생각함. 알지네이트비드실험에서는오류를파악하고2차실험까지이어간점이좋은평가를받은부분이라고 생각함.",
+        "highlights": [
+          "약물 전달 시스템",
+          "풀러렌",
+          "마이크로 니들",
+          "알지네이트 비드",
+          "실험 관찰",
+          "pH 농도",
+          "최신 연구 동향"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "영어I",
+        "content": "‘공정하다는 착각 (마이클 샌델)’을 읽고 에세이를 작성함 사회문제 탐구 사회문제 탐구 절차를 적용하여 부의 대물림을 주제로 양적 연구 탐구 계획을 수립하고, 부모의 경제적 지위가 자녀의 사회적 지위에 미치는 영향력을 검증함. 문헌 연구를 통해 우리나라 한 대학에 재학하는 학생의 부모 중 고소득군인 경우가 그렇지 않은 경우의 20배이며，의과대학의 재학생 84. 5퍼센트의 가정 소득 분위가 9분위 이상이라는 자료를 제시하여 가설이 수용될 것이라는 결론을 도출함. 이후 주제를 확장하여 관심 분야인 사회적 불평등 현상에 관해 심화 탐구하고 그 결과를 발표함. 높이가 다른 책장을 사용하는 데 똑같은 사다리를 쓰는 것은 공평한가를 화두로 친구들의 관심을 끌어냄. 소득 수준이 높은 국가일수록 부의 양극화가 심각할 것이라는 가설을 설정하고 국가별 GDP와 지니계수로 개념을 조작적 정의 함. 데이터 분석 프로그램으로 두 변인의 상관관계를 파악한 결과 가설과는 다른 내용이 도출되었고 그 이유를 분석해 냄. 또 한 자신이 가지고 있던 정의의 개념을 정교화하고자 '정의란 무엇인가(마이클 샌델)'를 읽고 공정한 사회를 만들기 위한 사회적 정책을 제안함. 보여주고싶은역량: 사회문제에대한관심 합격선배의생기부분석: ‘공정하다는착각’, ‘정의란무엇인가’, 사회적불평등, 지니계수 → 과학중점반이라서사회과목에서보일수있는가치관가사회문제를드러낸다는점에서중요함. 2학년때사회적불평등문제를언급하는책을읽고3학년때이어서활동하며사회적불평등문제에대한지속적인관심을드러냄.",
+        "highlights": [
+          "사회문제 탐구",
+          "부의 대물림",
+          "양적 연구",
+          "사회적 불평등",
+          "정의란 무엇인가",
+          "데이터 분석 프로그램",
+          "지니계수"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "일반고 내신 1.34 등급으로 아주대학교 약학과 합격",
+      "코로나19 백신에 대한 탐구 활동을 통해 mRNA 백신의 한계점과 개선 방안에 대한 연구 진행",
+      "mRNA 백신의 면역원성 문제 해결을 위한 다양한 연구 주제 탐구",
+      "생명공학 관련 대학원에서 연구 중인 멘토와의 멘토링을 통해 궁금한 부분 질문",
+      "mRNA 백신의 안정성을 위한 연구 및 해결 방안 제시",
+      "자율 탐구 활동에서 화학 II의 다니엘 전지 실험을 통해 과학적 방법론 적용",
+      "화학 전지 실험을 통해 가설 검증 및 결과 도출"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_010",
+        "saeteuk_id": "saeteuk_004",
+        "match_score": 0.42298850574712643,
+        "match_reason": "같은 과목, 내용 유사 (2%)"
+      },
+      {
+        "research_id": "research_009",
+        "saeteuk_id": "saeteuk_003",
+        "match_score": 0.4099337748344371,
+        "match_reason": "같은 과목, 내용 유사 (0%)"
+      },
+      {
+        "research_id": "research_007",
+        "saeteuk_id": "saeteuk_005",
+        "match_score": 0.26481481481481484,
+        "match_reason": "유사 과목, 내용 유사 (1%)"
+      },
+      {
+        "research_id": "research_003",
+        "saeteuk_id": "saeteuk_002",
+        "match_score": 0.027777777777777776,
+        "match_reason": "내용 유사 (2%)"
+      },
+      {
+        "research_id": "research_001",
+        "saeteuk_id": "saeteuk_001",
+        "match_score": 0.009615384615384616,
+        "match_reason": "내용 유사 (0%)"
+      }
+    ],
+    "unlinked_researches": [
+      "research_002",
+      "research_006",
+      "research_005",
+      "research_008",
+      "research_004"
+    ],
+    "unlinked_saeteuks": []
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 32600"
+  ]
+}

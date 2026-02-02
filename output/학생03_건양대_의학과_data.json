@@ -1,0 +1,652 @@
+{
+  "alias": "학생03_건양대_의학과",
+  "source_file": "의학계열 생기부 데이터.pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "평균",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "평균",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 2,
+        "percentile": 88.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 2,
+        "percentile": 90.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 2,
+        "percentile": 90.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 2,
+        "percentile": 92.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 2,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 2,
+        "percentile": 90.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 2,
+        "percentile": 93.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 2,
+        "percentile": 94.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 2,
+        "percentile": 96.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 1,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 3,
+      "math": 2,
+      "english": 2,
+      "history": 3,
+      "tamgu1": "화법과작문",
+      "tamgu1_grade": 2,
+      "tamgu2": "미적분",
+      "tamgu2_grade": 2,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "건양대학교",
+        "department": "의학과",
+        "admission_type": "교과면접전형",
+        "result": "충원합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "경희대학교",
+        "department": "한의예과",
+        "admission_type": "네오르네상스전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "충북대학교",
+        "department": "수의예과",
+        "admission_type": "학생부교과",
+        "result": "충원합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "UNIST",
+        "department": "이공계열",
+        "admission_type": "일반전형",
+        "result": "충원합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "숙명여자대학교",
+        "department": "약학과",
+        "admission_type": "숙명인재전형",
+        "result": "불합격(예비20번)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "충북대학교",
+        "department": "수의예과",
+        "admission_type": "학생부종합1",
+        "result": "불합격(예비7번)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "건국대학교",
+        "department": "공과대학자유전공학부",
+        "admission_type": "학생부교과(KU지역균형)",
+        "result": "불합격",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "경희대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "충남논산시",
+    "school_type": "사립일반고(남녀공학)",
+    "school_name": "OO고등학교",
+    "atmosphere": "학생 수가 적고, 공부하려는 학생과 안 하는 학생이 명확하여 좋은 내신을 따기 쉬운 학교",
+    "competition_level": "중간",
+    "special_programs": [
+      "오픈사이언스",
+      "메디컬캠프",
+      "진로스터디"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "3학년",
+        "subject": "화학II",
+        "title": "타이레놀합성실험과 TLC 분석",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "3학년",
+        "subject": "진로",
+        "title": "유당분해기술과 대체유제품의 혁신적 발전",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "3학년",
+        "subject": "생명과학II",
+        "title": "항암리포솜치료제 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "3학년",
+        "subject": "화학II",
+        "title": "약물의 산해리상수에 따른 흡수방법의 차이 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "2학년",
+        "subject": "진로",
+        "title": "세균배양과 항생제 감수성 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "2학년",
+        "subject": "문학",
+        "title": "이상소설 ‘날개’ 속 주인공의 정신세계 분석",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "1학년",
+        "subject": "국어",
+        "title": "낙태법 폐지를 주제로 한 반대신문식 토론",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "1학년",
+        "subject": "수학",
+        "title": "DNA의 전사 과정에서 찾아보는 함수",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "1학년",
+        "subject": "영어",
+        "title": "미세먼지와 암과의 상관관계에 대한 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "1학년",
+        "subject": "한국사",
+        "title": "을미개혁에서 실시된 종두법에 대한 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "3학년창체동아리",
+        "content": "약학 관련 동아리를 주도적으로 구성한 후 부장으로서 동아리의 활동 방향과 연간 활동을 기획함. 조별 탐구 활동에서 아세트아미노펜 합성 실험 설계를 주도함. 시판 제품과 비교하기 위해 얇은 막 크로마토그래피를 이용할 것을 제안하였으며, 합성 과정에서 P-아미노페놀의 수소원자가 아세틸기로 치환되는 아세틸화 반응이 일어남을 단계별 구조식을 그려 이해함. 실험 결과 생성된 아세트아미노펜은 수득률 81%로 의론값과 오차가 발생하였을 때 오차의 원인을 화합물이 전부 생성물로 합성되지 않았기 때문이라고 예측하며 고민하는 모습에서 과학적 사고력을 엿볼 수 있었음. 이후 얇은 막 크로마토그래피로 시판 약과 성분 차이를 분석하고 전개액에서 이동거리가 비슷함을 근거로 같은 물질이라는 결과를 도출하여 우수한 분석 능력을 보임. Mn 산화수에 따른 용액의 색변화 관찰 실험에서 용액의 색변화는 전자 이동에 의한 Mn 환원반응임을 이해하였으며, 과정 중 NaOH의 역할을 추가로 조사하고 용액의 색변화에 산성도가 중요한 조건임을 동아리원에게 논리적으로 설명함. 이후 수산화나트륨 대신 황산 수용액을 사용하여 양상의 차이를 확인하기 위한 실험을 설계하며 왕성한 탐구력을 보여줌. 보여주고싶은역량: 타이레놀합성실험과Mn산화수변화실험을통한화학적역량강조. 합격선배의생기부분석: 단순히아세트아미노펜을합성하는데서그치는것이아니라아세틸화반응이 무엇인지관련개념을학습하며심화탐구를진행함. 이후얇은막크로마토그래피(TLC)로 시판타이레놀과 전개상을비교하며마무리까지잘매듭지은활동이었다고생각함. 동아리두번째실험인Mn산화수변화실험에서도Mn의환원반응뿐만아니라NaOH의역할을추가로 탐구하여차별점을두었던것이핵심! → ‘학생답게’ 화학적역량을보여줄수있었던활동. 단순히실험에서그치지않고문제분석및후속실험까지진행하며탐구력과교과역량을보여줌.",
+        "highlights": [
+          "아세트아미노펜 합성",
+          "얇은 막 크로마토그래피",
+          "과학적 사고력",
+          "Mn 산화수 변화 실험",
+          "탐구력"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "3학년진로활동",
+        "content": "또한 진로 심화 연구 스터디 탐구 활동에서는 한국인의 유당불내증 문제와 관련된 주제를 선택하여 '유당 분해 기술과 대체 유제품의 혁신적 발전' 에 대해 깊이 있는 탐구를 진행함. 유당이 글루코오스와 D-갈락토오스로 구성된 이당류로, 유당 분해 효소에 의해 가수분해되면서 단당류로 분해되는 과정을 설명하고, 이러한 과정을 통해 유당불내증 환자에게 적합한 유제품의 필요성을 강조함. 또한, 유당 분해 과정에서 생성되는 단당류가 단맛을 가지는 이유와, 미세여과 및 역삼투여과 등을 통해 일부 유당을 제거하는 기술의 중요성을 이해하도록 설명함. 후속 탐구로는 유당분해우유의 역과정을 활용한 효소 치료제와 미생물 우유에 대해 조사하며, 생명공학적 기술의 발전 가능성과 이를 통한 사회적 기여에 대해 생각해볼 수 있는 기회를 제공함. 이러한 활동을 통해 과학적 사고력과 문제 해결 능력을 기를 수 있었으며, 진로에 대한 새로운 시각을 가질 수 있었음. 또한 조장으로서 유당 분해 기술의 발전과 대체 유제품의 혁신이 앞으로 어떻게 진화해 나갈지에 대해 친구들이 지속적인 관심을 가지고 탐구할 수 있도록 격려함.",
+        "highlights": [
+          "유당불내증",
+          "유당 분해 기술",
+          "대체 유제품",
+          "생명공학적 기술",
+          "문제 해결 능력"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "생명과학2",
+        "content": "세포 소기관의 구조와 특성을 그림으로 표현한 후 각 기관의 손상으로 발생할 수 있는 질병을 조사함. 특히, 리포솜의 의학적 활용 사례를 찾아 '리포솜을 활용한 항암제'를 탐구함. 리보솜 활용 항암제의 장점과 한계점을 제시하였으며, 항암제를 리포솜 안에 싸서 체내에 주입하여 부작용을 최소화하는 하이브리드 리포솜 요법을 소개함 Vesicle과 Micelle을 초음파 처리하여 약제의 수송성과 함유성을 높여 하이브리드 리포솜을 만들고 여기에 시스플라틴을 결합하여 체내에 투여하면 정상 조직의 손상 없이 암세포에만 항암제를 전달해 암을 치료할 수 있음을 설명하였음. 이처럼 교과 내용을 단순 이해하는 것에 그치지 않고 관련 내용을 심화 탐구하는 학습 능력을 갖춘 학생임. 보여주고싶은역량: 교과개념에서확장한심화개념탐구 합격선배의생기부분석: 세포소기관인리포솜의활용방안에대한좋은탐구였다고생각합니다. 리포솜이 가지는특징(인지질로둘러싸였으며물질수송의역할을수행)을살리는항암치료제를소개하며타항암 치료법과비교하는활동을하였습니다. → 교과세특에쓰이는탐구주제는교과서개념에서확장시키기 합격포인트 [p111] 111 2025 생기부대백과 일반고내신1.38등급건양대학교의학과합격선배 1. 활동을하게된동기 생명과학2 수업에서세포소기관에관한내용이인상깊었습니다. 그중리포솜이물질수송의역할을하는 소낭이라는점과선생님께서짧게언급해주신의약품에서의활용에호기심이생겨탐구하게되었습니다. 또한 이전에읽었던‘신약개발전쟁’이라는책속의여러항암치료제들이생각나리포솜항암치료제에대하여탐구하게 되었습니다. 2. 세세한활동진행과정 리포솜의특성을자세히알아보는것으로시작하였습니다. 인지질의특성과수송과정에서의이점, 취약점들을 조사한후항암치료에리포솜이활용된다는한제품을선택하였습니다. 해당기업에서게시한치료원리소개를 기반으로하이브리드리포솜에대한이해를할수있었고기존의항암체료제와의차별점과또다른체료제에서의 활용전망등에대한저의생각을추가하였습니다. 리포솜을변형시켰다는것이가져오는이점은무엇인지, 그리고좁은부위에치료제가닿을수있다는점에서착안해 요즘의학계에서활발한표적치료제로서의역할을할수있을지도탐구하였습니다. 이런내용들로보고서를 작성하였습니다. 3. 활동을통해얻은결과와느낀점 동기에서언급한‘신약개발전쟁’을통해느낀점은→ 신약개발의아이디어는세균이나바이러스의생존방식의 역과정을이용하거나생명체의시스템에서영감을받아출발한다는것이었습니다. (DNA 오페론작동방식등) 이 점을염두에두고리포솜항암치료제에대한탐구를하였고신약개발연구원이된다면가져야하는시각은 무엇인지를알수있던유의미한활동이었습니다. [p112] 112 2025 생기부대백과 일반고내신1.38등급건양대학교의학과합격선배 4. 탐구활동요약 1. 동기: 리포솜의의약품활용방안에대한궁금증+ 신약개발관련도서를통해얻은느낀점 → 리포솜항암치료제라는주제선정 2. 탐구내용: 리포솜의특성을자세히조사하고이특징을살린치료제를탐구하면서개인맞춤형치료에대한장래 탐구. 5. 탐구활동개인총평 만족스러운점 생2 교과서에서큰비중을차지하지않는리포솜이라는소기관에초점을맞추고심화탐구를 진행하였다는점이만족스럽습니다. 또한당시희망하던약학분야에대한관심과탐구력을잘 보여준점과적당이심화된수준의활동을나타냈다고생각합니다. 아쉬운점 화제키워드인개인맞춤형치료에대한언급이생기부에도드러났다면훨씬퀄리티높은 탐구활동이되었을거라고생각합니다. 이런교과탐구활동에요즘이슈가되는소재들을 녹여내면좀더좋지않았을까하는아쉬움이남습니다. [p113] 113 2025 생기부대백과 일반고내신1.38등급건양대학교의학과합격선배",
+        "highlights": [
+          "리포솜",
+          "항암제",
+          "하이브리드 리포솜",
+          "신약개발",
+          "개인맞춤형 치료"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "개인별세특",
+        "content": "학교 자율적 교육과정 교과 융합 프로젝트 수업에서 '글로벌 제약회사의 신약 개발 과정과 대표 약 탐구하고 마케팅하기 ' 주제로 화학, 영어 교과 융합 수업에 참여함. 인간의 평균 수명이 증가하고 의학 기술과 신약의 개발이 많아지면서 약을 개발 하는 과정에 관심을 가지고 참여함. 마취제 계통인 프로포폴에 관하여 탐구함. 프로포폴에 관하여 이 약물이 생체 내에서 어떻게 작용하여 약리 효과를 나타내는가를 찾아보고 프로포폴의 화학구조와 생리작용 간에는 어떤 상관관계가 있는지를 찾아내 봄. 신약 개발 과정에서 유기화학적 지식이 필요하다는 사실로 유기합성 시 전자의 이동에 관하여 관심을 가지고 탐구함. 우리가 접하는 약이 여러 성분이 섞여 이루어지는 것이 아닌 리드화합물이 생체 내에서 효능을 발휘한다는 사실을 깨달음. 더불어, 프로포폴의 개발과정을 탐구한 후, 자신이 미래 글로벌 제약 회사의 구성원으로서 프로포폴을 소개하는 발표를 영어로 진행함. 발표를 위한 자료를 조사하는 과정에서. 다양한 매체를 통해서 자료를 수집하는 과정에서 뛰어난 정보수집능력과 자기관리능력을 보임. 내용을 완벽하게 숙지함으로써 자신감 있게 발표를 수행한 점이 매우 돋보임. 보여주고싶은역량: 약학관련전반적계열적합성강조 합격선배의생기부분석: 특정의약품을선정하여그와관련한다양한내용을담을수있던활동입니다. 개발 에피소드, 화학적구조, 체내작용메커니즘, 효과및부작용/악용사례등정말많은내용을담을수있었습니다. → 의약학분야를희망하는학생들이라면한번쯤은무조건하게될탐구라고생각합니다.",
+        "highlights": [
+          "글로벌 제약회사",
+          "신약 개발",
+          "프로포폴",
+          "화학구조",
+          "발표 능력",
+          "정보수집능력",
+          "자기관리능력"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "문학",
+        "content": "개념을 바탕으로 한 깊이 있는 탐구 자세가 좋음. 한국 문학의 갈래와 흐름과 관련하여 작품을 분석하고 보고서를 작성하는 활동에서 '만세전(염상섭)'과 '날개(이상)'를 읽고 일제강점기 식민지 사회에서 살아가는 지식인의 고뇌 및 정신세계에 대한 관심을 갖고 이를 주제로 보고서를 작성함. '정신분석 강의(지그문트 프로이트)'를 통해 '날개' 속 주인공의 무의식 속 아내의 표상은 아내의 화장품을 갖고 노는 평소의 행동에 나타났으며 또한 그 방에 드나드는 남자들이 무의식 속에서는 선망의 대상이 되어 아내에게 은화를 주는 행동으로 나타났음을 알게 되었음. 또한 본능적 욕구를 담당하는 이드를 현실과 타협하여 행동하게 하는 자아와 초자아가 아내에게 접근할 수 없도록 했는데 이는 결핍된 소통과 애정이 야기하였을 것이라고 추측함. 또한 이와 관련하여 '무의식적 언어에 대한 정신분석학적 일고찰(박선경)'을 읽고 소설의 의식의 흐름이 표층적 언어 이면의 무의식의 내면세계와 관련 있다는 점을 알게 됨. 이러한 과정에서 일련의 현상에 대한 단순한 이해보다는 깊이 있는 고찰을 할 수 있는 학생임을 알 수 있었고, 탐구 과제에 대한 통찰력과 융합적인 사고가 매우 뛰어난 학생임을 알 수 있었음. 보여주고싶은역량: 문학작품의주인공을통해알아보는주인공정신세계에관한고찰",
+        "highlights": [
+          "탐구 자세",
+          "한국 문학",
+          "정신분석",
+          "무의식",
+          "통찰력",
+          "융합적인 사고"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "진로를 약학과로 변경하면서 생기부에 남길 임팩트 있는 활동 필요성 인식",
+      "화학, 약학 동아리에 들어가 부장을 맡고 프로젝트 기획 경험",
+      "아스피린 합성 실험에서 영감을 받아 타이레놀 합성 실험 기획",
+      "탐구 활동에서 실험 기획 및 실행, 문제 고찰 및 해결 방안 구상",
+      "TLC 분석 실험에서의 실수도 탐구 보고서에 작성하여 문제 해결 사례로 활용",
+      "질문을 통해 좋은 탐구 활동 시작, 실험 설계 및 결과 비교 활동 연결",
+      "후속 활동들을 통해 유의미한 결과 도출",
+      "유당불내증 문제와 관련된 심화 연구 스터디 탐구 활동 진행",
+      "유당 분해 기술과 대체 유제품의 혁신적 발전에 대한 깊이 있는 탐구",
+      "조장으로서 친구들의 지속적인 관심을 유도하며 과학적 사고력 및 문제 해결 능력 기름"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_006",
+        "saeteuk_id": "saeteuk_005",
+        "match_score": 0.40793650793650793,
+        "match_reason": "같은 과목, 내용 유사 (0%)"
+      },
+      {
+        "research_id": "research_003",
+        "saeteuk_id": "saeteuk_003",
+        "match_score": 0.2535211267605634,
+        "match_reason": "유사 과목, 내용 유사 (0%)"
+      },
+      {
+        "research_id": "research_002",
+        "saeteuk_id": "saeteuk_002",
+        "match_score": 0.008928571428571428,
+        "match_reason": "내용 유사 (0%)"
+      },
+      {
+        "research_id": "research_001",
+        "saeteuk_id": "saeteuk_001",
+        "match_score": 0.007194244604316547,
+        "match_reason": "내용 유사 (0%)"
+      },
+      {
+        "research_id": "research_008",
+        "saeteuk_id": "saeteuk_004",
+        "match_score": 0.003816793893129771,
+        "match_reason": "내용 유사 (0%)"
+      }
+    ],
+    "unlinked_researches": [
+      "research_009",
+      "research_007",
+      "research_005",
+      "research_010",
+      "research_004"
+    ],
+    "unlinked_saeteuks": []
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 33793"
+  ]
+}

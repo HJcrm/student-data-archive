@@ -1,0 +1,608 @@
+{
+  "alias": "학생09_건국대_환경보건산림조경학부",
+  "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "과학",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 3,
+        "percentile": 82.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 4,
+        "percentile": 66.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 4,
+        "percentile": 66.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 4,
+        "percentile": 13.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 7,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 3,
+        "percentile": 76.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 5,
+        "percentile": 59.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 2,
+        "percentile": 87.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 2,
+        "percentile": 13.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 7,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 4,
+      "math": 5,
+      "english": 2,
+      "history": 5,
+      "tamgu1": "화법과작문",
+      "tamgu1_grade": 2,
+      "tamgu2": "미적분",
+      "tamgu2_grade": 5,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "건국대학교",
+        "department": "재료공학과",
+        "admission_type": "일반전형",
+        "result": "합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "건국대학교",
+        "department": "환경보건산림조경학부",
+        "admission_type": "KU자기추천전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "동국대학교",
+        "department": "바이오환경과학과",
+        "admission_type": "Do Dream",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "인하대학교",
+        "department": "자유전공학부",
+        "admission_type": "교과전형",
+        "result": "불합격(예비50번)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "서울시립대학교",
+        "department": "환경공학과",
+        "admission_type": "학생부종합전형",
+        "result": "불합격(1차탈락)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "인하대학교",
+        "department": "환경공학과",
+        "admission_type": "학생부종합(인하미래인재)",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "GIST",
+        "department": "기초교육학부",
+        "admission_type": "특기자전형",
+        "result": "불합격(1차탈락)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "DGIST",
+        "department": "기초학부",
+        "admission_type": "과학인재전형",
+        "result": "불합격(1차탈락)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "환경생태공학부",
+        "admission_type": "계열적합전형",
+        "result": "불합격(1차탈락)",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "인하대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "인천광역시",
+    "school_type": "사립일반고(남녀공학)",
+    "school_name": "OO고등학교",
+    "atmosphere": "학생 수가 많고 다양한 학생들이 있으며, 학업을 중시하는 학생들이 많음. 내신 난이도는 적당하고 상위권과 하위권의 등급 간격이 좁음.",
+    "competition_level": "중간",
+    "special_programs": [
+      "에코뉴딜 동아리",
+      "우리동네 기후 생태 연구소",
+      "프로그래밍"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "3-1",
+        "subject": "동아리",
+        "title": "하천범람에 따른 침수 문제의 해결 방안 - 친환경 수문 아이디어 터빈 수문 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "3-1",
+        "subject": "동아리",
+        "title": "교내 매점 분리수거 문제 해결에 대한 밸런스 분리수거 박스 캠페인 주도적 기획 및 진행",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "3-1",
+        "subject": "자율",
+        "title": "기름 오염 사고 해결 아이디어 생분해성 유흡응공 제시 및 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "3-1",
+        "subject": "화학실험",
+        "title": "두 하천수의 수질 오염 정도를 비교하는 실험",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "2-2",
+        "subject": "지구과학1",
+        "title": "아멘토플라본을 이용한 녹조 제거 친환경 흡착포 개발 연구 실험",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "2-2",
+        "subject": "진로",
+        "title": "아멘토플라본을 이용한 녹조 제거 친환경 흡착포 개발 연구의 문제 고찰 및 대체물질 제시 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "2-2",
+        "subject": "진로",
+        "title": "조류의 대량 생산을 위한 빠른 증식 조건 탐색 실험",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "2-2",
+        "subject": "동아리",
+        "title": "친환경 소재 셀룰로오스를 이용한 생태 모방 망과 와이퍼를 활용한 신개념 하수구 아이디어 발표",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "2-2",
+        "subject": "자율",
+        "title": "수질 정화 미생물 최적화를 통한 수질 개선 방안 탐구 실험",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "1-1",
+        "subject": "수학",
+        "title": "‘풍력 발전기의 날개는 왜 3개일까?’ 수학 탐구 보고서 작성 및 발표",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "2학년자율활동",
+        "content": "2학년 자율활동 시교육청주관학술동아리에참가하여'수질정화미생물최적화를통한수질개선방안탐구'를 주제로연구를시행함. 유수소통량에대한오염부하량의수치를바탕으로지역하천수질오염의 심각성을깨닫고이를개선하고자함. 지역하천의수질현황을조사하고, COD 제거에특화된미생물을선정하여다양한온도에서 배양해보며각종의최적생장온도를검증함. 한지점을설정하여유속이느리고COD 농도가 높은곳에미생물처리장을설치할것을제안함. 해양쓰레기처리방법및해양쓰레기구별 인공지능제작탐구라는주제로1인1탐구활동을진행함. 기존해양쓰레기처리방법의단점에 대해탐구하고이를보완하기위해머신러닝을이용한인공지능을프로그래밍해봄으로써 효과적인해양쓰레기처리시스템에대해제안함. 융합교육아카데미(2023.12.01./7시간)에참여하여MBL을활용한물리학실험을진행함. 환경공학적으로전자기유도현상은신재생에너지개발에반드시필요한원리이며뉴턴의운동 제2법칙은친환경전기자동차의생산에반드시필요한법칙임을이해함. 진로분야에대해더 심층적으로이해하는계기가됨. 주제중심교과융합온라인강좌'연구방법의기초(6시간)'를 이수함. 보여주고싶은역량: 기본적인환경적지식의학습역량과심화탐구 합격선배의생기부분석: 환경연구원진로에있어서전체적인생기부에서중심으로끌어내고자하였던수질정화 문제에대해얼마나구체적으로알고있는지와해결방안에대해더주요한키워드인‘COD, 미생물, 인공지능, 머신러닝)을넣고자하였습니다. 또한물리과목을선택하지않아과학에서미흡한부분을물리학실험활동을 통해보충하고자하였습니다. → 환경분야중특히수질정화를주요진로로선택한저에게해결책으로의두가지떠오르고있는유형 (미생물과인공지능)을다양하게제시하는것과, 미흡한과목에있어서자율활동을통해채우려는의지를 보여준것에서드러난본인의적극성과관심이가장중요합니다! 리얼생기부, 합격포인트분석1 1. 활동을하게된동기 여러유형의문제를지니고해결방안의접근방법이다양한수질분야에흥미를느끼고환경연구원이라는진로를 구체화시켰습니다. 이를생기부에녹여내고자수질문제와해결방안을잘알고있다는것을나타내고자활동을하게 되었습니다. 2. 세세한활동진행과정 COD 과다와해양쓰레기에대한기초지식과문제의식을배우고해결할여러방안을나열하였습니다. 수질정화 미생물최적화탐구의경우직접실험을통해최적생장온도에서COD 제거에특화된미생물을찾고실제환경에서 적용할수있는방법으로미생물처리장을제안하고설치지점을유속등을고려하였습니다. 이때미생물학회나 논문을주로이용하였습니다. 다음으로해양쓰레기구별인공지능을단순한형태이지만이미지분류기능을지닌 머신러닝을활용하도록프로그래밍을직접제작하였습니다. 마지막으로MBL 물리학실험에참여하여전자기유도 현상등을배우고신재생에너지와친환경전기자동차의생산에필요한물리법칙을연결하여보고서및소감을 제출하였습니다. 3. 활동을통해얻은결과와느낀점 COD 과다와해양쓰레기문제에있어해결방안으로미생물과인공지능을각각선택하여, 특히COD에경우지역 하천에관심을가졌다는점에서주변환경에대한관심과현실성을, 인공지능에경우인공지능수학과목에서배운 머신러닝을활용했다는점에서교과적소양을나타낼수있었습니다. 수질정화미생물최적화탐구에서 미생물처리장의정확한설치지점을제시하여현실적이고실용적인면모를보여줄수있었습니다. 마지막으로MBL 물리학실험에서미흡한물리과목을학습하고진로와연결하면서진로특성과연결된유의미한적극성을 표출하였습니다. 이를통해수질문제에있어서기존에있던것이아닌저만의해결책들을발상하고적용시킬수 있다면더특색이있을것이라고생각하였으며부족한과목에있어서의보충학습과연계된보고서는교과적소양을 향상시킬수있을것이라고느껴생기부에더작성하고싶었습니다. 동기부터요약까지, 핵심탐구활동파헤치기1 4. 탐구활동요약 1. 동기: 구체화된수질정화진로에대해서지식적소양과해결방안을제시하고자함. 2. 자료조사: 관련학회사이트와논문등을이용하여조사함. 3. 탐구활동진행: 논문과실험등을통한학습과해결방안탐구(실험혹은제시) 4. 후행탐구: 물리중전자기유도현상과관하여3학년진로활동에서유사한탐구진행 5. 탐구활동개인총평 만족스러운점 수질문제에있어서직접적인실험및제작을진행할수있다는것에서현실적이고실용적임을 보일수있었습니다. 부족한과목이었던과학과목, 특히물리과목을학습해보충할수있어 만족스러웠습니다. 또한환경중특히수질분야에대한직접적인관심을드러낼수있어 좋았습니다. 아쉬운점 활동내의인공지능프로그래밍에있어서실제기기를제작하거나적용실험을진행할수없고 하지못하였습니다. 물리학습또한환경과연관된부분을탐색에만그쳤다는점이있었습니다. 이런점들에서아쉬움을느꼈습니다.",
+        "highlights": [
+          "수질정화",
+          "미생물",
+          "인공지능",
+          "머신러닝",
+          "환경연구원",
+          "COD",
+          "해양쓰레기"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "고2 동아리",
+        "content": "고2 동아리 (우리동네기후생태연구소)(20시간) 2023학년도연구소장(동아리부장)으로활동함(2023.03.01.-2024.02.29.). 기후, 환경, 생태분야에관심이많고, 지식, 이해수준이뛰어남. 기후변화에대응하기위한지구생태시민으로서의노력과자기성찰을끊임없이하는학생으로동아리운영에큰도움이됨. 식물원답사, 소각장답사를제안하고준비했으며, 축제부스의흡착포실험을기획, 운영함. 흡착포실험으로하천이나자연상태의오염원을제거할수있는탁월한방법이될수있다는점을알리기위해물에물감을뿌리고이를이면지로흡착하여깔끔하게물감(오염원)을제거하는실습을고안함. 흡착포의유용성을알리는동시에예술적이고즐거운생태문화활동이되어많은관심을받음. 학교환경교육한마당(2023.11.04.)에참가하여'친환경소재셀룰로오스를이용한생태모방망과와이퍼를활용한신개념하수구아이디어'를발표함. 매년집중호우로인해발생하는도시배수불량, 침수문제를실생활에서발견하고, 탐구로발전시켜발표한점이매우훌륭함. 지구와자연을사랑하는마음, 기획력, 주제를잡고연구에옮기는추진력등역량이풍부하고타의모범이됨. 보여주고싶은역량: 리더로서의주도적운영능력과신개념하수구아이디어에대한창의력, 문제해결능력",
+        "highlights": [
+          "동아리부장",
+          "기후변화",
+          "흡착포실험",
+          "친환경소재",
+          "신개념하수구아이디어",
+          "문제해결능력"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "2학년진로활동",
+        "content": "교내과학심화탐구아카데미(9시간)에참여하여식물미세조류의미래가치와유용성에대해 알아보고, 조류의대량생산을위한빠른증식조건을찾아보는실험을진행함. 7일간흡광도값을 매일측정하고, 측정한데이터를직접분석하며보고서를작성하는활동을수행함. 특히미세조류를 활용하는분야중바이오연료에높은관심을가지고, 지속가능발전을위한대체에너지개발 측면에서실험의의의를생각해보는시간을가짐. 또한분광광도계를이용하여직접수집한흡광도 값을미세조류농도로변환하는방식에대해이해하고계산한후, 이를분석하여연역적인 방법으로논리적인결론을작성하여보고서를완료함. 실제녹조를포섭하여바이오에너지생산 실험등을추가로제안하며자신의생각을확장하는모습을보여줌.",
+        "highlights": [
+          "미세조류",
+          "바이오연료",
+          "대체에너지",
+          "흡광도 측정",
+          "실험 보고서 작성"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "지구과학1/2학년진로활동",
+        "content": "기후변화를막기위해내가할수있는일을생각해보는활동에서평소환경문제에관심을갖고\n이를해결할방안을생각하기, 꼭필요한것외의지출을줄여제품의생산과정에서발생하는\n온실가스감축하기, 기업과국가가환경공학기술에투자할수있도록관심갖고응원하기등의\n참신하고구체적인실천과제를다수제안하였고, 특히관심의중요성에대해강조한점이\n인상깊었음. 기후변화로악화된녹조문제를해결하기위해바위손에서아멘토플라본을추출한후\n실제활용가능한흡착포를실험을통해제작하는심화탐구를진행함. 제작한흡착포를과학적\n과정에따라녹조에실험해보고그결과를발표함. 실험과정에서흡착포가굳어지지않는문제를\n보고수용성심지를활용하여성공적인실험결과를얻어내는등과학탐구자세와아이디어가\n매우탁월함. 나아가더욱심화된연구가필요할것같다고스스로판단하여연말에추가보고서를\n제출함. 낙동강주변해류모식도를바탕으로녹조제거흡착포를설치하기에적합한위치4곳을\n제시함. 녹조제거흡착포와함께현재수질개선용으로개발된ㅇㅇ로봇을이지역에배치하면\n효과적일것같다고응답함.\n과거진행한‘아멘토플라본을이용한녹조제거친환경흡착포개발연구’에서의전분사용이녹조\n문제를악화시키는것을파악하고해결하고자전분대체물질로알긴산나트륨을제안함.\n알긴산나트륨의화학적성질과캡슐로제작되는과정을활용하여, 과학적과정기반의발전된녹조\n제거친환경흡착포를제작하는실험계획을세움. 추후실험을통해그효과를검증해보고자하며\n탐구자세와아이디어가뛰어남.",
+        "highlights": [
+          "기후변화",
+          "녹조문제",
+          "흡착포",
+          "알긴산나트륨",
+          "탐구활동"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "3학년동아리",
+        "content": "3학년 동아리 (우리동네기후생태연구소)(10시간) 교내매점의분리배출불량에관한설문조사실시, 학생들의 불편함및폐기물문제제기, '밸런스분리수거박스'라는해결캠페인을주도적으로기획, 실천함. 쓰레기통의칸을나누고, '밸런스게임'이라는요소를추가해학생들의분리수거에대한흥미를 높이고, 환경, 기후관련질문을배치하여분리수거인식개선과올바른지식전달을위해힘씀. 향후압축쓰레기통설치로공학적해결방법을제시하고, 국내폐기물실태와분리수거의필요성을 보고서로정리함. 작년의탐구를연장해'하천범람에따른침수문제의해결방안-친환경수문 아이디어터빈수문'을스스로탐구해냄. 기존의하천수위보다높은곳에배치된파이프에터빈을 장착하여강수시파이프내로폐기물이나불순물이들어오지않도록설계하고, 파이프를타고 이동한빗물을더많은물을저장할수있는저류지나유수지로이동시켜하천범람을예방하며 빗물을경제적으로활용하는방안을탐구하여제안함. 국내사례를면밀히조사하고친환경소재를 생태모방의방법으로연구하는등환경, 생태분야탐구역량과실천의지, 주도성, 리더십이모두 뛰어남. 장차생태시민, 연구자로서높은성장이매우기대됨.",
+        "highlights": [
+          "분리배출불량",
+          "밸런스분리수거박스",
+          "하천범람",
+          "친환경수문",
+          "탐구역량"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "수질문제 해결을 위한 다양한 접근 방법과 실험 경험",
+      "미생물과 인공지능을 활용한 실질적인 해결책 제시",
+      "환경 연구에 대한 구체적인 진로 설정과 관심",
+      "물리학 실험을 통해 진로와 연결된 학습 경험",
+      "동아리 활동을 통한 리더십과 기획력 발휘",
+      "친환경 소재를 활용한 창의적인 아이디어 발표"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_005",
+        "saeteuk_id": "saeteuk_004",
+        "match_score": 0.011111111111111112,
+        "match_reason": "내용 유사 (1%)"
+      },
+      {
+        "research_id": "research_009",
+        "saeteuk_id": "saeteuk_001",
+        "match_score": 0.004201680672268907,
+        "match_reason": "내용 유사 (0%)"
+      }
+    ],
+    "unlinked_researches": [
+      "research_010",
+      "research_006",
+      "research_008",
+      "research_002",
+      "research_007",
+      "research_003",
+      "research_004",
+      "research_001"
+    ],
+    "unlinked_saeteuks": [
+      "saeteuk_005",
+      "saeteuk_002",
+      "saeteuk_003"
+    ]
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 35644"
+  ]
+}

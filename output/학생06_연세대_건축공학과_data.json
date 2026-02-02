@@ -1,0 +1,580 @@
+{
+  "alias": "학생06_연세대_건축공학과",
+  "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 4,
+        "percentile": 49.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 3,
+        "percentile": 63.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 2,
+        "percentile": 81.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 3,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 5,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 4,
+        "percentile": 53.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 3,
+        "percentile": 73.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 2,
+        "percentile": 92.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 2,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 5,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 4,
+      "math": 3,
+      "english": 3,
+      "history": 2,
+      "tamgu1": "탐구1",
+      "tamgu1_grade": 2,
+      "tamgu2": "탐구2",
+      "tamgu2_grade": 4,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "연세대학교",
+        "department": "건축공학과",
+        "admission_type": "기회균형전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "건국대학교",
+        "department": "건축학부",
+        "admission_type": "KU자기추천전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "건축사회환경공학부",
+        "admission_type": "학교장추천전형",
+        "result": "불합격(최저불합)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "한양대학교",
+        "department": "한양인터칼리지학부",
+        "admission_type": "학교장추천전형",
+        "result": "불합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "성균관대학교",
+        "department": "건축학과",
+        "admission_type": "학교장추천전형",
+        "result": "불합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "중앙대학교",
+        "department": "건축학부",
+        "admission_type": "CAU융합형인재",
+        "result": "불합격",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "건국대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "강원도",
+    "school_type": "일반고",
+    "school_name": "OO고등학교",
+    "atmosphere": "공부하는 분위기보다는 대충 공부하는 분위기가 지배적",
+    "competition_level": "중간",
+    "special_programs": [
+      "동아리",
+      "합격생 멘토링 프로그램",
+      "진로 수업"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "2-1",
+        "subject": "물리학I",
+        "title": "구조의 보조기둥에 따른 무게 분산 실험, 내진 설계의 물리적 원리 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "3-1",
+        "subject": "동아리활동",
+        "title": "‘인공지능정보통합모델링(BIM)’ 적용 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "1-1~2-2",
+        "subject": "동아리활동",
+        "title": "아두이노를 기반으로 한 화장실 악취 제거 프로젝트",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "3-1",
+        "subject": "창의융합주제 탐구",
+        "title": "우주건축에서의 현재 진척 상황과 문제점, 미래 전망 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "3-1",
+        "subject": "독서",
+        "title": "건축물 붕괴를 사례로 한 건축계에서 필요한 변화에 관해 글쓰기",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "2-2",
+        "subject": "기하",
+        "title": "건축물에서의 기하적 구조와 각 구조의 원리 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "2-1",
+        "subject": "진로",
+        "title": "에너지 제로 하우스와 지속 가능한 지구를 위한 건축",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "2-2",
+        "subject": "수업량 유연화",
+        "title": "에너지 하비스팅을 기반으로 학교 건축물에 적용될 수 있는 친환경 에너지 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "2-1",
+        "subject": "융합과학탐구",
+        "title": "지역 내의 어류의 방사능 현황 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "2-2",
+        "subject": "지구과학I",
+        "title": "기후변화 및 지구온난화를 위한 그린 빌딩 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "융합과학탐구",
+        "content": "수업에적극적으로참여하고모둠원들의이야기를경청할줄알고갈등을조절하는능력이탁월한인성이훌륭한학생으로특히모둠활동에서프로젝트를리드하는겸손한리더십이돋보이는학생임. 아이디어가풍부하고창의력이우수하여연구프로젝트주제선정시도다양한아이디어를제시하고교사에게먼저와서연구주제에대해조언을적극적으로구하고모둠원들이결석을하여자신이해야할역할이많아져도묵묵히역할을수행하는모습을관찰할수있음. 자유탐구프로젝트로지역의방사능현황에대한주제로탐구를진행하였으며변인통제능력이우수하고원래계획된실험을마쳐도실험데이터의신뢰도를증가시키기위해더많은반복실험을진행하는열정을보여아주완성도높은보고서를작성함. 보고서작성시에도자료변환능력이우수하여실험결과를그래프와표로일목요연하게정리하는능력이우수하고결론도출이과학적이고논리적임. 아두이노와3D모델링활동에서도우수한역량을보이고어려워하는주변학생들을도와주는이타적인모습이인상적임. 관련분야로진출시장래가촉망됨.",
+        "highlights": [
+          "적극적인 참여",
+          "겸손한 리더십",
+          "창의력",
+          "변인 통제 능력",
+          "보고서 작성 능력",
+          "이타적인 모습"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "동아리",
+        "content": "동아리 생성형인공지능(20시간) 평소건축분야에대한관심이매우높아세계적인건축물들을찾아보고 탐구하는학생임. 동아리탐구발표를비롯한각종활동에서자기주도적참여를통해모범적인 리더십을발휘함. 생성형인공지능반활동을통해4차산업혁명시대에한발자국앞서나가고 싶다는뚜렷한목표를갖고진지한자세로활동한조별탐구에서'인공지능통합정보 모델링(BIM)' 이라는주제로조원과함께활동함. BIM의정의와건축및프로그램상의특징, 3D CAD와의공통점과차이점, BIM의국내활용사례, BIM의미래전망등을탐구하여발표함. 특히 BIM을통한실시간협업과데이터공유의중요성을강조하여긍정적미래전망을예측함. 탐구전 과정에서생성형인공지능프로그램을사용하여참고자료조사, 분석및결론도출, 발표자료 완성까지성실하게해냄. AI를기반으로한디지털출판프로그램을사용하여진로포트폴리오를 제작. 앞으로건축학을전공하여우리나라의건축문화에이바지하고자하는포부를잘드러낸 포트폴리오를완성함. 보여주고싶은역량: 다양한분야에대한능력, 미래기술에대한관심도",
+        "highlights": [
+          "건축분야",
+          "생성형인공지능",
+          "인공지능통합정보모델링(BIM)",
+          "3D CAD",
+          "미래기술"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "1학년2학년동아리1학년",
+        "content": "신화)(40시간) 1층화장실사용시심한악취로인해어려움을해결하고자악취제거문제를위한체이지메이커활동을제안함. 악취제거를할수있는친환경재료를조사한후구연산, 과탄산소다, 식초를제안함. 친환경재료를통해악취제거를위한최적의조성을찾는실험과정과방법을체계적으로제안함. 개발한악취제거용액을화장실에도포후변화하는악취변화를측정하는장치를아두이노를기반하여직접구상하고제작함. 개발된악취제거제를분사할장치를개발하고아두이노프로그램을직접프로그래밍함. 2학기교내축제에진행한규산염과무기물질간앙금반응과반투막현상을이용한'화학정원' 실험참가자에게실험원리와방법을친절하게설명하는모습을보임. 1, 2학기방학전과학실청소나실험준비때항상솔선수범하는모습으로다른동아리부원들에게모범이됨.\n(신화)(20시간) 동아리대표를맡아동아리부원모집과동아리운영과활동이원활하게진행될수있도록뛰어난리더쉽과책임감있는태도를보임. 1학년동아리부원선발시동아리활동에적합한부원이선발될수있도록체계적인선발기준을제안함. 과학이론과기술을바탕으로학교에서발생하는문제를해결하는것을동아리활동방향으로정하고1, 2학년대상으로한설문조사를진행함. 여러문제중화장실냄새로인해불쾌감을느끼는학생이많다는설문조사를바탕으로학교화장실에서발생하는악취를측정할수있는냄새측정기제작을모둠활동으로제안함. 냄새측정기개발과관련된아두이노부품과제작그리고코딩프로그램을직접조사후제작까지도맡아진행하는월등한추진력과실천력을보임. 처음제작된아두이노기기에서화장실악취의주된원인인요소와암모니아냄새를잘측정하지못하는점을파악한후적절한부품을대체해문제를해결하는뛰어난대처능력을보여줌. 제작한냄새측정기를학교화장실에설치해시간별악취냄새의변화를확인할수있는자료를수집하여정리하는작업을도맡아진행함",
+        "highlights": [
+          "악취제거",
+          "친환경재료",
+          "아두이노",
+          "리더쉽",
+          "냄새측정기"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "학교자율교육과정",
+        "content": "'창의융합주제탐구활동(224.07.16.07.17.)'에참여함. 평소에도과학적호기심이많은학생으로 궁금한사항은관련교과선생님께바로질문하고스스로탐구하고자하는끈기를가진학생임. '우주개발에대한심층탐구'라는주제로'물리, 보건, 생명과학, 화학교과목을융합하여활동함. 아직탐사되지않은우주개발에필요한요소를살펴보고조원들의다양한진로희망분야에서 적합한내용을도출함. 우주건축의정의와현재진행상황을조사하고우주건축의과제와영향에 대해탐구함. 우주건축의핵심과제는내구성있는재료와구조를개발하는것이며, 자원의 효율성을증진시키기위해3D 프린팅기술의활용이늘어날것이라고소개함. 공기와물을 순환하는시스템과방사선보호시스템구축을통해인류가우주건축물에서살아갈수있도록 개발해야한다고밝힘. 조원들과함께다양한자료를조사하고포스터및프레젠테이션을만들어 설명하였으며, 우주건축이라는어려운개념을문빌리지, 루나헤지테이션과같은사례를통해 이해하기쉽게설명함. 조장으로서조원들을독려하여좋은결과물을도출해나가는과정에서 리더십을발휘함. 보여주고싶은역량: 미래지향적인사고, 팀프로젝트에대한강점",
+        "highlights": [
+          "창의융합주제탐구활동",
+          "우주개발",
+          "팀프로젝트",
+          "리더십",
+          "3D 프린팅기술"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "수업량유연화",
+        "content": "유연화 통합된노력으로 펼치는 지속가능한 미래' 라는 융합주제로 물리, 생명과학, 지구과학을 융합하여 지속가능한 세상을 위해 필요한 것을 개인적, 국가적, 세계적 관점에서 찾고 개인이 할 수 있는 노력 중 에너지 하비스팅으로 구체화하여 분석함. 에너지 하비스팅의 물리학적 의의는 엔트로피, 지구과학적 의의는 지구온난화, 생명과학적 의의는 생물다양성으로 잡고 그의의에 대해 심화탐구하고 PPT 자료 만들기와 4절지에 필기하여 융합주제 탐구활동을 함. 이해하기 쉽게 에너지 하비스팅의 예시로 서버의 열로 수영장 물 데우기, 소리의 진동으로 발전하기, 압전 발전기가 있음을 조사한 것이 인상적임. 주제 선정, PPT 제작, 발표의 역할을 하였고 세계 시민으로서 지속가능한 세상에 기여하는 것이 개인적 노력으로도 가능하다는 것을 배우고 더욱 실천하는 동기가 생겼다고 활동 소감을 발표함. 보여주고 싶은 역량: 진로역량 합격선배의 생기부분석: 에너지 하비스팅을 통해 지구온난화 해결에 대한 생각을 제시하였습니다. 이 생기부의 특징은 친환경, 그린빌딩, 에너지 제로 하우스 등과 같은 환경건축가라는 진로의 기반이 되었다는 것입니다. → 이 생기부를 필두로 1학년 때는 그저 관심이 있다 정도에서 끝난 건축을 친환경적인 그린빌딩 건축에 목표를 갖고 있다는 식으로 스토리텔링을 진행하였기 때문에 중요한 역할을 하는 생기부입니다. 1. 활동을 하게 된 동기 지구온난화와 기후변화의 가장 큰 원인인 탄소배출의 큰 공급원이 건축물이라는 것을 보고 건축물의 친환경화가 필요하다고 생각하였습니다. 친환경적인 건축물을 만들기 위해 에너지를 생산하고, 재활용하고, 잃지 않아야 한다고 생각하였습니다. 따라서 이 탐구에서는 에너지를 재활용하는 에너지 하비스팅을 탐구하였습니다. 2. 세세한 활동 진행 과정 융합주제 탐구이기 때문에 융합할 교과목인 물리학과 지구, 생명과학을 선택해 각각의 의의를 설정하였습니다. 물리학에서는 엔트로피를, 지구과학에서는 지구온난화, 생명에서는 생물다양성을 의의로 설정하였습니다. 에너지 하비스팅이란 낭비되거나 버려지는 에너지를 수확하여 재활용한다는 뜻입니다. 엔트로피의 흐름에 따라 흘러가는 에너지를 재활용할 수 있는 방안을 탐구하였습니다. 이를 통해 지구온난화의 해결에 기여할 수 있고 생물의 다양성을 보존할 수 있다는 내용의 보고서를 작성하였습니다. 또한 이해를 쉽게 하기 위해 서버의 열로 수영장 물 데우기, 압전 발전기, 소리 발전기 등을 예시로 들며 이를 학교에 적용시킨다면 어디에 어떤 에너지를 재활용할 수 있을지를 구상해 자료를 만들어서 함께 발표하였습니다. 3. 활동을 통해 얻은 결과와 느낀점 소리 발전기, 압전 발전기 등의 에너지 하비스팅 기술을 통해 에너지 소비량을 줄일 수 있고, 지구온난화에 기여할 수 있다 이를 우리 학교에 대입해보면 소리 발전기는 소음이 많이 발생해야 발전 효율이 좋으므로 운동장과 복도 등에서 설치했을 때 효과를 기대할 수 있고, 압전 발전기는 운동장 트랙이나 계단 등에 설치하는 것이 좋을 것 같다는 결론을 얻었습니다. 4. 탐구 활동 요약 1. 동기: 지구온난화 해소를 위해 에너지 소비를 줄일 수 있는 방안을 탐구 보고자 하였다 2. 자료 조사: 에너지 하비스팅의 정의와 예시 활용 방안 등을 조사하였다. 3. 탐구 진행: 에너지 하비스팅의 정의와 각 예시를 보고 이를 학교에 적용한다면 어떤 곳에 적용하면 좋을지 생각해보고 발표함 5. 탐구 활동 개인 총평 만족스러운 점 지구온난화와 친환경 건축물에 관한 환경 건축가라는 목표에 대한 스토리텔링의 시작점이어서 에너지와 친환경에 초점을 맞춘 탐구였고 이를 다른 과목들의 탐구와 연관시켜 친환경 건축이라는 스토리텔링을 완성하였습니다 아쉬운 점 에너지 하비스팅은 영어 II 시간에 한번 탐구한 적이 있었는데 이를 업그레이드해서 더 깊이 있게 탐구하고 싶었으나 그다지 깊이감을 챙기지 못한 것이 아쉽습니다 또한 후속 탐구를 진행하지 못한 것이 아쉽습니다. 독특한 발전기들은 한번 구조만이라도 따라 만들어서 실험해보면 좋았을 것 같은데, 1회성 프로젝트라 후속 진행이 어려웠습니다.",
+        "highlights": [
+          "지속가능한 미래",
+          "에너지 하비스팅",
+          "지구온난화",
+          "친환경 건축",
+          "융합주제 탐구"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "탐구활동에 적극적으로 참여하고 모둠원들의 이야기를 경청할 줄 아는 능력",
+      "갈등을 조절하는 탁월한 능력",
+      "겸손한 리더십을 발휘하며 프로젝트를 리드하는 모습",
+      "아이디어가 풍부하고 창의력이 우수함",
+      "연구주제에 대해 교사에게 조언을 적극적으로 구함",
+      "자신의 역할을 묵묵히 수행하는 모습",
+      "변인 통제 능력이 우수하고 반복 실험을 통해 데이터의 신뢰도를 증가시키는 열정",
+      "실험 결과를 그래프와 표로 일목요연하게 정리하는 능력",
+      "과학적이고 논리적인 결론 도출",
+      "어려워하는 주변 학생들을 도와주는 이타적인 모습",
+      "탐구역량과 공동체역량을 잘 보여줌",
+      "스스로의 힘으로 탐구를 진행하여 완수함",
+      "팀 활동에서의 긍정적인 측면"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_009",
+        "saeteuk_id": "saeteuk_001",
+        "match_score": 0.4,
+        "match_reason": "같은 과목"
+      },
+      {
+        "research_id": "research_008",
+        "saeteuk_id": "saeteuk_005",
+        "match_score": 0.009287925696594427,
+        "match_reason": "내용 유사 (0%)"
+      }
+    ],
+    "unlinked_researches": [
+      "research_010",
+      "research_006",
+      "research_005",
+      "research_002",
+      "research_007",
+      "research_003",
+      "research_004",
+      "research_001"
+    ],
+    "unlinked_saeteuks": [
+      "saeteuk_002",
+      "saeteuk_003",
+      "saeteuk_004"
+    ]
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 34864"
+  ]
+}

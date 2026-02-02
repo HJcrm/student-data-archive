@@ -1,0 +1,598 @@
+{
+  "alias": "학생04_고려대_사회학과",
+  "source_file": "유니브클래스_2025_인문사회상경_생기부대백과 (1).pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 5,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 5,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "사회",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "평균",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 96.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 3,
+        "percentile": 84.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 1,
+        "percentile": 98.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 1,
+        "percentile": 99.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 1,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 85.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 4,
+        "percentile": 77.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 2,
+        "percentile": 90.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 2,
+        "percentile": 99.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 1,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 1,
+      "math": 2,
+      "english": 4,
+      "history": 3,
+      "tamgu1": "정치와법",
+      "tamgu1_grade": 2,
+      "tamgu2": "사회문화",
+      "tamgu2_grade": 2,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "서울대학교",
+        "department": "소비자학과",
+        "admission_type": "일반전형",
+        "result": "불합격(1차탈락)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "성균관대학교",
+        "department": "글로벌리더학부",
+        "admission_type": "학과모집전형(2025학년도기준‘탐구형‘전형)",
+        "result": "합격(노예비전화추합)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "사회학과",
+        "admission_type": "계열적합전형",
+        "result": "불합격(1차합격, 2차탈락)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "사회학과",
+        "admission_type": "학업우수전형",
+        "result": "불합격(1차합격, 2차탈락)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "서강대학교",
+        "department": "신문방송학부",
+        "admission_type": "일반전형",
+        "result": "합격(최초합격)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "서강대학교",
+        "department": "지식융합미디어학부",
+        "admission_type": "서강가치전형",
+        "result": "합격(최초합격)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "서울대학교",
+        "department": "언론정보학과",
+        "admission_type": "일반전형",
+        "result": "불합격(1차탈락)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "사회학과",
+        "admission_type": "계열적합전형",
+        "result": "합격(예비9번)",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "고려대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "파주시",
+    "school_type": "사립일반고",
+    "school_name": "갓반고",
+    "atmosphere": "상위권 경쟁 치열, 학생부종합전형 특화",
+    "competition_level": "높음",
+    "special_programs": [
+      "학술제",
+      "사회/과학과제연구",
+      "STEAM R&E 대회",
+      "자율동아리"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "2-2",
+        "subject": "진로",
+        "title": "학급내언론정보부부장으로활동하면서학급게시판활성화",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "2-1",
+        "subject": "자율",
+        "title": "위안부관련소모임‘한바른‘을만들어활동",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "2-2",
+        "subject": "확률과통계",
+        "title": "‘심리학’ 교과에서배운‘페르소나’개념과MBTI의상관관계를T-테스트를적용하여분석",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "2-1",
+        "subject": "세계사",
+        "title": "발표– ‘헬레니즘시대개인주의가부각된이유와오늘날의모습에서의유사성’",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "2-2",
+        "subject": "정치와법",
+        "title": "‘인간의존엄과가치’라는포괄적권리에주목하여‘혐오와차별전문시정기구‘ 를창안",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "2-1",
+        "subject": "사회과제연구",
+        "title": "다양한사회구성원의태도를통해언론의신뢰성확보와정보전달과정의방법고안",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "3-2",
+        "subject": "개인별세부입력",
+        "title": "칼세이건의‘창백한푸른별‘ 을읽고, 천문학과철학을결합한‘우주철학’의방면을탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "3-1",
+        "subject": "독서",
+        "title": "2학년‘사회과제연구‘ 의심화탐구로‘유인가‘ 중‘위협소구‘ 및‘매스커뮤니케이션이론‘ 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "3-1",
+        "subject": "진로와직업",
+        "title": "은둔형외톨이에관한사회복지제도의개선필요성탐구진행및교내학생복지로확장",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "3-1",
+        "subject": "자율",
+        "title": "영화‘플로리다프로젝트‘를통해미디어의‘가난포르노‘ 분석및획일적복지의단점탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "2학년진로",
+        "content": "학급친구들과함께일본군위안부문제에대한정확한정보를제공하고피해자들을지원하는모임을만들어활동함. 문제의핵심을잘파악하고평소미술디자인쪽에도재능이있어디자인부에지원하여활동함. 문헌정보부에서조사하고작성한내용을편집하여카드뉴스와홍보물을제작하는업무를맡음. 또한일본군위안부를상징하는제비꽃과추모의의미를담은노란색을사용하여직접디자인한배지와스티커를판매하고, 수익금을국제단체에기부함. 학생들의참여를높일수있는방법을고민하여SNS,홍보게시물, 방송, 대면홍보등다양한홍보활동을진행함. 이후홍보수단별효과를확인하기위해설문조사를진행하고대면홍보가가장효과적이었음을확인함. 자신의연구결과를다양한캠페인을진행하는다른동아리와공유하여효과적인활동이이루어질수있도록도움. 위의활동은올한해학교에서이루어진여러캠페인중가장성공적인활동이었음. 많은학생들이일본군위안부문제에관심을가지고구입한배지를착용하고다니기도함. 이후활동이지속적으로이루어질수있도록후배들을선발하고활동노하우및활동에관한자체평가내용을전수하여정기적인모임으로안착시킴. 보여주고싶은역량: 중요한역사적의제를통하여국민의공동체의식재고. 합격선배의생기부분석: 학급친구들과합심하여위안부관련동아리를‘주체적’으로만들어나갔다는점, 그저흔한카드뉴스와홍보물제작에서멈추는것이아니라, 추모의의미를담은배지와스티커를제작및판매하고이를국제단체에기부하는‘능동적‘인면모를보인점, 활동과정에서학생참여를높이기위한여러실험을진행하여마케팅분야에서의역량을보여준점이유의미하다고생각합니다. → 목적의식을가지고새로운장기소모임을기획하여활동하고, 그활동과정속다양한주체적이고공동체적인역량을보여줄수있다는것에서합격포인트!",
+        "highlights": [
+          "일본군위안부문제",
+          "디자인부",
+          "카드뉴스",
+          "홍보활동",
+          "후배양성",
+          "공동체의식"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "2학년진로",
+        "content": "학급언론정보부의부장으로활동하면서학급게시판을활성화하여학급친구들에게다양한정보를제공하고아젠타세팅을통해생각할거리를던져주어, 학급친구들의사회문제에대한관심을환기시키고사고력확장을도움. 매달찬반논쟁이있는사회적쟁점을선정하고관련정보를제공하는1차게시물을만들어부착한후, 해당게시물을익은학급친구들의의견을모아2차게시물을만드는방법으로학급게시판을공론의장으로활용함. 자신의생각을일방적으로전달하는게아니라, 사회문제에대해함께고민하고함께해결책을찾아보고자하는태도가돋보임. 활동과정에서학급게시판에대한관심도가떨어진다는점과내용이무거워흥미가생기지않는다는불만사항을확인하고, 게시물의형태를변경함. 여러출판물들의사례를살펴보고분석한후여기에서힌트를얻어, 게시물의문체를좀더가독성있게바꾸고 디자인적심미성을가미함. 또한학급의일상사를함께게재하여학급친구들이게시판을좀더친숙하게접하면서자연스럽게사회이슈에관한글도읽도록유도함. 온라인공동수업으로수강한심리학에서배운내용을적용하여학급친구들에게자신에대해성찰해볼수있는질문들을던지고, 이에대한답변을모아게시판에프로필나무를만든것이특히인상적이었는데, 이를통해학생들이자기자신뿐만아니라다른친구들에대해서도좀더관심을가지고이해하는계기가마련됨. 학급의언론을주도하면서공동체를긍정적인방향으로이끌어가는‘편집자’로서의자질이우수함. 보여주고싶은역량: 흔한소재인‘게시판‘을공론의장으로만드는자질. 이활동은학급친구들과더깊이소통하고, 함께성장하는학급문화를만들고자하는바람에서비롯되었습니다. 그수단으로선택한것이모든학급에존재하는‘학급게시판‘이었습니다. 학급게시판이단순한정보전달의수단이아니라, 친구들이서로의의견을자유롭게나누고, 사회적문제를함께고민하고논의하며사고의폭을넓히는공론의장이되기를원했습니다. 또한, 심리학수업에서배운내용을접목시켜친구들이자신에대해성찰할수있는기회를제공하고, 서로에대한관심과이해를통해학급공동체의끈끈함을높이고싶다는열정이큰동기가되었습니다. 제가소속된‘언론정보부’는5명의학급친구들로구성되어있었습니다. 운좋게그곳의부장이되어부서를이끌수있는기회가주어졌고, 저는이기회를놓치지않고저의역량을마음껏발휘하리라, 다짐했던것같습니다. 우선, 가장효과적으로우리의프로젝트를진행할공간이어디있을까, 하다가문득교실뒤에위치한게시판이눈에들어왔습니다. 그저학교에서나온공문이여기저기붙여져있는게시판은꽤나많은공간을차지하고있으면서도학생들의관심도는상대적으로떨어지는곳이었기에이곳을보다효과적으로활용하면좋을것같다는생각을하였습니다. 그래서게시판을중심으로본격적으로언론정보부활동을진행하게됩니다! 저는요즘매체트렌드에따라서로소통하는학급문화를만들어보고싶었기에‘일방적소통‘이아닌, 보다‘양뱡향적소통‘형태의게시물을고안하고자했습니다. 따라서, 선별한사회적의제에대한1차정보성게시물을부착한후, 학생들이그곳에포스티잇형식으로의견을내면, 이것을추합하여2차게시글을추가로부착하는형식의방법을활용했습니다. 하지만, 활동을하며학생들의참여도가생각했던것보다적어원활한게시물작성이어렵다는것을파악한후에는, 친구들의의견을수렴하고게시물자체의형식을대폭수정하여(친밀도를높이는방법) 보다친구들이한번이라도더게시물을들여다볼수있도록노력했습니다. ‘심리학‘에서배운이론을접목시켜‘프로필나무‘를새롭게만들어낸것또한게시판에대한학급의관심도를높임과동시에친구들의자아성찰을유도하는, ‘일타쌍피‘를노린일종의전략이었습니다. 언론계열에큰관심이있던학생이었기때문에활동을진행하는것자체가굉장히재미있었습니다. 가치중립적인정보를전달하기위하여다양한자료를찾아보고글을쓰는것, 학생들의의견을모아우리학급의목소리를만들어내는것혹은자신만의견해를담은칼럼을작성해보는것등실제언론인들이하는여러활동들을작게나마경험해볼수있었다는것에큰의의가있었다고생각합니다. 또한, 게시판에대한친구들의관심을높이기위해여러의견을수렴하고점차개선하여보다좋은소통창구를만들어나갔다는서사는본인에게주어진어려움들을적극적으로해결하고자노력하고또실질적으로해결해내는모습을보여줬다는점에서훌륭한‘스토리’가될수있었다고생각합니다. 만족스러운점앞서이야기하였듯, 어려움을주체적으로극복해나갔다는점, 관심있는다른학문과연계하여활동하였다는점이좋았다고생각합니다. 추가적으로, ‘리더로서의성장‘도겪을수있었다고생각합니다. 저는고등학교에들어와선학급임원을한번도해본적이없기때문에‘리더십’부분을어떻게드러내면좋을지고민하기도했었는데, 이번기회를통해팀원들을이끌어보는경험을가질수있게되어만족스러웠습니다. 무엇보다게시판을이용한아이디어에서정보글게시글만부착하는형태였으면매우식상했을것같은데, 매체트렌드에맞춘‘양방향소통’을시도한점과심리학적지식을활용하여‘프로필나무’라는아이디어를생각해낸것은학생들의자발적참여를유도하며서로논의하는등소통을목적으로한학급문화를활성화하려는의도가잘드러났을뿐만아니라다양한의제를알리는게시판이가진순기능을극대화시킬수있던활동이었던것같습니다. 아쉬운점5명의학생들이모두돌아가면서자신만의게시글을작성해보는기회가있어야하는것에비해, 1차→ 의견수렴→2차의형식은하나의결과적인게시물을완성하기까지의시간이걸리기때문에보다경험을많이해보진못했던것같아이점이조금아쉽습니다. 또한, 포스티잇방식으로의견을수렴하는방식을고수했던것에대해서도아쉬움이있습니다. 이방법도물론좋았지만, 해당방법이학생들에게다소번거롭거나익숙하지않을수있다는점에서참여율을낮추는요인으로작용했을가능성이있기에디지털방식(예: QR코드를이용한의견제출) 등을병행했더라면학생들의부담을줄이고참여도를높일수도있지않았을까하는생각이듭니다.",
+        "highlights": [
+          "학급언론정보부장",
+          "게시판활성화",
+          "사회문제관심환기",
+          "양방향소통",
+          "프로필나무"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "확률과통계",
+        "content": "성실한수업태도와전단원에걸쳐우수한문제해결역량이돋보이는학생임. 문제풀이발표에도적극적으로참여하여, 이항분포를정규분포로근사시키는고난도문제를논리적모순없이깔끔하게판서하며설명하기도함. 팀프로젝트에선‘보스베이비‘를패러디하여순열과조합으로투표, 유전자조작관련이슈들을경우의수와확률로분석해보는수학연극을선보임. 준비과정에서대본작성과문제제작및검토에참여하였고, 실제공연에서는티나역할을맡아열연을펼침. 특히, 연기톤을유지하며비복원추출로진행되는선거출구조사관련확률문제도정확하게풀어낸모습이돋보임. 한편, 페르소나와MBTI 두가지심리지표와관련된상관관계를확인하고자t-테스트를적용해보는개인프로젝트를진행함. 교재40명학생에게설문조사를실시하여데이터를수집한후, MBTI지표F와T, N과S에따라페르소나인식점수차이, 그림자인식점수차이로4가지귀무가설과대립가설을설정해t-테스트를적용함. 탐구결과, 4가지중1가지만유의확률이유의수준보다작아귀무가설을기각시키고대립가설을채택하여MBTI지표N과S에따라그림자인식점수에차이가있다는결론을도출함.",
+        "highlights": [
+          "성실한 수업 태도",
+          "문제 해결 역량",
+          "팀 프로젝트",
+          "t-테스트",
+          "MBTI",
+          "페르소나"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "사회과제연구",
+        "content": "연구 언론보도에많은관심을가지고여론형성에기여하는다양한사회구성원의태도에대해탐구함. 학급에서이루어진뉴스알림활동에적극참여하여자신의견해(다양한언론사, 다양한관점의비교 제시등)를밝힘. 뉴스를접한친구들이언론보도에대해보이는다양한태도를관찰한후뉴스에대한 신뢰성을높일수있는요인에는어떤것이있는지에대해탐구함. 고등학교2학년을대상으로면접을진행함. 기본질문(뉴스시청목적, 신뢰도, 문제점등)을바탕으로 면접대상자의심층적인답변을이끌어냄. 성인(10대~ 50대) 를대상으로한추가면접활동을통해 뉴스에대한태도에연령별차이가있는지를비교함. 10대뉴스수용자들의특징(숏폼이나SNS 등을 통한접근)을확인하고지상파중심의방송뉴스가갖는영향력에한계가있음을내용으로한발표를 진행함. 선행연구에나타난미디어의신뢰성하락이10대들에게는미디어에대한무관심으로변화될 수있다고지적함. 방송보도의내용측면과관련하여다양한역사적사례, 로봇미디어로이야기되는 언론의미래등에대한선행연구를종합하여보도신뢰성확보의중요성과정보전달과정의개혁의 필요성을종합한탐구결과물을작성함. 보여주고싶은역량: 다양한연령층에걸쳐심층면접을진행함. 현재관행에대한비판적분석능력. 합격선배의생기부분석: 단순한나열에그치지않고, 분제를분석하고탐구하며구체적인결과물을도출한점이 돋보인다고생각합니다. 언론보도의신뢰성과여론형성에미치는영향을탐구하는과정에서다양한사회구성원의 태도를직접심층면접을통해분석하는것은논리적사고와문제해결능력을보여줄수있습니다. 이것에서특히나, ‘다양한연령층‘을분석하고자했다는것은균형잡힌시각을유지하려는의도임을내세움과동시에, 미디어와 언론의미래를다룬로봇미디어등의주제까지확장하며, 현대사회에서중요하게다뤄지는주제를포괄적으로 이해하고있다는점을어필할수도있겠습니다. → 다양한연령층을대상으로심층면접을진행한적극적인면모! 다양한사고를포괄적으로사용하여 미디어와언론의방향성을재고한점이인상적! 일반고내신2.96등급고려대학교사회학과합격선배",
+        "highlights": [
+          "언론보도",
+          "여론형성",
+          "심층면접",
+          "뉴스수용자",
+          "신뢰성",
+          "미디어",
+          "로봇저널리즘"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "일반고 내신 2.96 등급으로 고려대학교 사회학과 합격",
+      "일본군 위안부 문제에 대한 인식과 연대 활동",
+      "역사적 사료 분석을 통한 체계적인 활동 진행",
+      "인스타그램을 활용한 카드뉴스 제작 및 게시",
+      "30만원의 후원금을 마련하고 지속 가능한 캠페인으로 발전",
+      "학생들이 자발적으로 기부 활동에 참여",
+      "주체적이고 능동적인 탐구 활동",
+      "고등학교 친구들과의 협력으로 장기 프로젝트 성공"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_003",
+        "saeteuk_id": "saeteuk_003",
+        "match_score": 0.4135135135135135,
+        "match_reason": "같은 과목, 내용 유사 (1%)"
+      },
+      {
+        "research_id": "research_006",
+        "saeteuk_id": "saeteuk_005",
+        "match_score": 0.4,
+        "match_reason": "같은 과목"
+      }
+    ],
+    "unlinked_researches": [
+      "research_001",
+      "research_008",
+      "research_010",
+      "research_009",
+      "research_005",
+      "research_002",
+      "research_007",
+      "research_004"
+    ],
+    "unlinked_saeteuks": [
+      "saeteuk_001",
+      "saeteuk_002"
+    ]
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 41286"
+  ]
+}

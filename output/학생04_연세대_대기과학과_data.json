@@ -1,0 +1,589 @@
+{
+  "alias": "학생04_연세대_대기과학과",
+  "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "평균",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 99.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 1,
+        "percentile": 96.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 1,
+        "percentile": 66.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 4,
+        "percentile": 97.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 1,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 88.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 3,
+        "percentile": 91.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 2,
+        "percentile": 65.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 4,
+        "percentile": 80.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 3,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 3,
+      "math": 2,
+      "english": 2,
+      "history": 1,
+      "tamgu1": "언어와매체",
+      "tamgu1_grade": 1,
+      "tamgu2": "미적분",
+      "tamgu2_grade": 2,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "연세대학교",
+        "department": "대기과학과",
+        "admission_type": "활동우수전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "서울시립대학교",
+        "department": "환경공학과",
+        "admission_type": "학생부종합전형Ⅰ",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "연세대학교",
+        "department": "대기과학과",
+        "admission_type": "논술전형",
+        "result": "불합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "지구환경과학과",
+        "admission_type": "학업우수전형",
+        "result": "불합격(최저탈락)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "지구환경과학과",
+        "admission_type": "논술전형",
+        "result": "불합격(최저탈락)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "서울대학교",
+        "department": "지구환경과학부",
+        "admission_type": "일반전형",
+        "result": "1차불합격",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "연세대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "서울시",
+    "school_type": "일반공립고등학교(공학)",
+    "school_name": "OO고등학교",
+    "atmosphere": "자유로운 학풍, 내신과 정시의 격차가 심함",
+    "competition_level": "높음",
+    "special_programs": [
+      "진로수업",
+      "독서멘토링",
+      "과학기사 동아리",
+      "또래진로심화탐구 프로젝트"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "3-1",
+        "subject": "독서",
+        "title": "'플로지스톤설은 과연 엉터리일까?'를 주제로 과학사와 패러다임에 대해 설명하는 인포그래픽 제작",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "3-1",
+        "subject": "미적분",
+        "title": "진로 관련 수학 탐구 주제로 '미적분을 이용해 정역학 방정식 이해하기' 선정하여 탐구 발표",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "3-1",
+        "subject": "미적분",
+        "title": "미적분 독서활동 '커피와 바다' 읽고 전향력에 대해 삼각함수와 미분을 이용해 전향력이 존재함을 증명하기",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "2-2",
+        "subject": "지구과학1",
+        "title": "컴퓨터 그리딩 시스템을 이용한 기후변화 예측 모델에 직접 참여해보기",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "2-2",
+        "subject": "자율",
+        "title": "수치예보모델에 대해서 왜 기상예측이 불완전할 수밖에 없는지 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "2-1",
+        "subject": "화학1",
+        "title": "염화불화탄소(CFC)가 오존층을 파괴하는 기작에 대해 조사",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "2-1",
+        "subject": "언어와매체",
+        "title": "매체에서 과학정보가 어떻게 다루어지고 있는지, 어떻게 다루어져야 할지 탐구",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "1-2",
+        "subject": "국어",
+        "title": "실제 태풍 사례를 중심으로 해양학과 기후변화에 대해 조사 발표",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "1-2",
+        "subject": "자율",
+        "title": "갯벌과 환경이라는 주제에서 소주제 경제적 가치, 환경적 가치, 생태적 가치로 나누어 탐구 발표",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "1-1",
+        "subject": "영어",
+        "title": "극지과학과 관련된 책을 읽고 원격탐사 기술에 관해 영어로 에세이 쓰기",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "-",
+        "content": "학교자율적교육과정(2022.12.20.-2022.12.28.)에서'지속가능한발전’을주제로한교과융합프로젝트에적극적으로참여함. 통합사회과목과통합과학과목의교과융합수업을통해RE100과탄소국경조정제도및탄소중립의개념을이해하고지속가능한발전과지속가능한무역을위해나아가야할방향에대해배우고본인의평소관심분야였던갯벌과연관시켜’우리나라갯벌의지속가능한이용'에대해탐구함. 갯벌을경제적, 생태계적측면으로나눠특징과문제점을살펴보고개선되어야할점에대해지속가능한발전과연결하여설명함. 그리고갯벌의탄소함유량에대한연구를조사하고블루카본으로서관심을받는갯벌이기후변화로인해탄소흡수원에서방출원이될수있음을설명함. 지속가능한갯벌활용방법에대해제안하고탄소흡수량을조사하는원격탐사에대해더알아보고싶다고발표함. 특히, 지속가능한갯벌활용방법을선순환구조의모식도를이용하여나타내고정책의중요성을설득력있게설명함이인상깊음.\n보여주고싶은역량: 갯벌과관련된환경이슈\n합격선배의생기부분석: ‘갯벌과환경’이라는주제는살펴보면관련내용이굉장히많지만, 이를그냥수집하여발표하기만하는것은방향성이명확하지않다고생각하여이를경제적측면, 생태계적측면으로나누어탐구함. 탐구한결과에따라각요소들이어떤영향을미치는지모식도에정리하여탐구를마무리함. → 탐구한내용을효과적으로, 인상적으로정리하는것도큰차이를가져온다고생각했습니다. 또한1학년영어시간에활용했던원격탐사라는주제를재사용해연결성을보이려고했던탐구활동입니다.",
+        "highlights": [
+          "지속가능한 발전",
+          "갯벌",
+          "탄소중립",
+          "원격탐사",
+          "환경이슈"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "지구과학I",
+        "content": "언제나수업활동에서차분하지만놀라운집중력을발휘하는학생으로, 모든교과수업자료를 자신만의방법으로정리하고보관하는성실함이돋보임. 탁월한자기조절능력을바탕으로지질 시대별고생물의특징을조사하고그리기, 일기기호를판별하여일기도를작성하고구름의종류와 위성사진구분하기, 기후변화문제에대한4컷만화그리기, 항성의물리량자료를바탕으로H-R도를작성하고분류하기등10회의모든수행평가에서완벽한성취를보임. 1학기중간고사에서 기대에부합하지않는결과를받았지만, 좌절하지않고학업에끈기있게정진하며다음 지필고사에서원점수25점이상의눈부신성취향상을이루어냈고, 2학기에도그성적을유지시킴. 특히대기과학과지구시스템에관심이많아관련단원을학습하는과정에서‘내일날씨 어떻습니까?(김해동)’，과학자들은왜깊은바다로갔을까(김동성)’를읽으며심화지식을 배워나갔고, 추가적인개별탐구활동을진행함. '컴퓨터그리딩시스템을이용한참여하는 기후변화예측모델'에대해조사하여급우들에게소개함. 앙상블예측, 컴퓨터그리딩등다소생소 할수있는내용이지만직접참여해보며얻은경험을바탕으로알기쉽게설명해냄. 보여주고싶은역량: 인터넷상기후변화프로젝트조사하고직접참여해보기",
+        "highlights": [
+          "집중력",
+          "자기조절능력",
+          "기후변화",
+          "탐구활동",
+          "그리드컴퓨팅"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "지구과학II",
+        "content": "나도선생님탐구활동에서지각평형설에대한수업을진행함. 수업진행의순서에대해고민하여원리부터알아보고예시를제시하는방향으로내용을재구성하여수업을진행한점이인상적임. 가독성훌륭한자료로이해하기쉽게설명함. 지형의형성과정을이미지자료와칠판에그림을그려자세히설명하려노력하여친구들의이해를도움. 편광현미경을활용한암석박편관찰하는활동에서화강암과현무암의박편을관찰하고스케치하며광물의특징을정리함. 박편스케치에서광물입자의경계까지고려한세심한관찰력이돋보임. 2학년자율형교육과정발표때준비했던수치예보모델의불확실성을어떻게검증하고처리하는지에대한호기심을가지고’수치예보모델과분석검증'을주제로탐구하여발표함. 수치예보모델의원리와요소를수업에서배운전향력과기압경도력등으로설명하고, 대기순환및수치모델과관련된개념에대해자세히설명함. 평균오차나평균제곱오차가AI，머신러닝등다른분야의모델링평가에서주로사용됨을새롭게알게되어다른분야와의연관성에대해추가조사해보고싶다는의지를밝힘. 2학년때의활동이이어진다고볼수있으며주제자체는같지만더확장된영역에대한탐구를함으로써더발전되었다는인상을준다고생각함. → 탐구주제를재사용하는것은얼핏보면생기부내용돌려막기처럼보일수있지만잘활용한다면이미나에게친숙한주제를바탕으로더깊게파고든다는인상을줄수있다는장점이있다고생각합니다. 2학년때자율형교육과정발표의주제는수치예보모델, 즉기상현상을예보하는데쓰이는모델에대한것이었습니다. 스스로평가해보아도이탐구는그다지마음에들지않았는데, 특히원리부분을설명하는데너무산으로간듯한느낌이마음에걸렸었습니다. 그렇지만수치예보모델이라는주제를이렇게한번만탐구대상으로활용하는것은너무아깝다는생각이들어3학년들어서주제는똑같이, 그러나주제에대한설명은다르게한다라는느낌의발표활동을계획하였습니다. 수치예보모델이라는대상을주제로잡고, 기본적인탐구의틀은비슷하게용어에대한설명, 기본적인원리로잡고시작하였습니다. 이제곁들일설명에대해찾아보던중기상청자료중보고서하나를접하게되었는데통계를설명하는표에나와있는ME와RMES라는모델성능평가지표라는것에대해서검색하여알게되었습니다. 따라서결론적인탐구제목은‘수치예보모델과분석검증’이되었고, 이모델성능평가지표들에대해설명한뒤실제이들이적용된기상청보고서를참고해이표를어떻게해석해야하는지에대해발표하였습니다. 또한이런모델평가지표들은분야를가리지않고여러가지다른모델들에도사용된다는것을알게되어, 기회가된다면다른분야와의연관성에대해서도조사하고싶다고후속탐구의사를밝힌뒤탐구를마무리하였습니다. 별로마음에들지않는활동일지라도내가새로하는활동에따라서더나은탐구를위한발판처럼쓰일수도있다는귀중한경험을하게된탐구였다고생각합니다. 한번만언급하기아까웠던주제인데다시한번잘다루어서탐구를하게될수있어만족스러웠습니다. 특히앞서언급한모델평가지표를계산하는방법이확률과통계과목에서의편차와표준편차등을계산하는방식과거의흡사해발표중갑작스럽게이를언급하게된것도과목간연관성에대해좋은부분이었다고생각합니다. 아무래도수치예보모델그자체에대해서는더크게발전한듯한설명이없어서아쉬웠던점이있었습니다. 또한발표방향이모델평가지표에관한것인지, 아니면수치예보모델에관한것인지중심설정이명확히되어있지않다는생각도들었습니다.",
+        "highlights": [
+          "지각평형설",
+          "수치예보모델",
+          "모델성능평가지표",
+          "탐구활동",
+          "기상청보고서"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "미적분",
+        "content": "수학적호기심과사고력이뛰어나며여러가지다양한방법으로접근해보려는시도가돋보이며교사가가르치는내용이나급우들이발표하는내용을빠짐없이이해하고수용하려는태도로수학학습분위기를좋게만드는학생임. 평소기상학과환경과학분야에관심이많아‘미적분을이용해정역학방정식이해하기’를진로관련수학탐구활동주제로정하고탐구하여발표함. 미적분의개념을사용해기상학에서의기본개념중하나인정역학평형과정역학방정식을유도하는과정을조사하고실제로배운내용을토대로증명해봄. 미적분독서활동으로'커피와바다(김성용)를읽고지구과학2시간에수치예보모델과관련된조사를하며알게된전향력에대해삼각함수와미분을이용해전향력이존재함을증명해보고이를발표함. 자신감넘치는태도로논리정연하게발표하는모습이인상적이었으며궁금한것이있으면끝까지파헤쳐서궁금증을해결하고자노력하는모습이돋보이는수학이자신의꿈을이루는중요한도구가됨을느끼고있는수학적태도가바람직한학생임. 보여주고싶은역량: 고등학교과정미적분을이해하고관심과목에적용할수있는능력",
+        "highlights": [
+          "수학적 호기심",
+          "기상학",
+          "미적분",
+          "탐구활동",
+          "발표",
+          "논리정연한 태도"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "사회문제탐구",
+        "content": "사회문제탐구과제에서고등학생들이선호하는과학기사요소에대해탐구함. 과학이슈전달에서과학기사생산자인미디어의생산방식에관심을두고조사한경험을바탕으로, 매체수용자들의선호요소가언론기사작성에얼마나영향을미치는지에대해면접법으로자료를수집함. 과학기사의대중화에영향을미친잡지의언어적특성에관한기존연구를검토하고탐구활동을진행함. 예시문을제시하여고등학생들의기사유형선호경향을분석한결과, 과학매체의텍스트중과학적내용의정확성이높고최신동향을다루는내용에대한선호도가높았으며, 텍스트의구조에대해서는쉽게읽히고정보내용이명확한기사에대한선호도가높은것으로정리함. 사회문제탐구방법과절차를충실히이해하고연구를진행하였으며, 매체의선호하는기사유형에대한인식을심화함. 연구결과를PPT로체계적으로정리하여설득력있게발표함. 사회문제사례연구에서는저출생고령화문제, 사회적소수자문제에대한원인과해결방안을알아보면서사회문제탐구능력을신장함. 보여주고싶은역량: 자연과학에관심있는사람으로서가져야할과학에대한사회적시각에대한성찰여부합격선배의생기부분석: 실제로설문조사를통해실행한탐구로서구체성이짙었고과거활동에대한연장선탐구로서탐구동기가적절했다고생각함. → 실제로면접법에대해공부를하고사회문제탐구선생님께과정에대한피드백을받고진행한탐구로서믿을만하게진행된탐구라고생각했습니다. 또한언급했듯이과거시행했던활동에대한연장탐구이기때문에탐구동기또한과학과매체에대한관심을크게보여주는것이라생각합니다. 1. 활동을하게된동기2학년때언어와매체시간에당시화제가되던상온초전도체를여러매체가다루는방식에대해의문을제기하는발표활동을한적이있는데, 3학년이되어그때의활동을돌아보니‘이러한방식으로다루면안된다’라는비판이주였지매체가과학을결국어느식으로다루어야하는지에대해서는언급하지않았다는사실을깨달았습니다. 따라서 과학적연구결과는어떤방식으로표현되었을때사람들에게제일곡해나오해없이본질대로전해질수있을지, 매체를통한어떤방식의과학정보전달이제일믿을만한지를사회문제탐구보고서의주제로삼게되었습니다. 2. 세세한활동진행과정처음에는사회문제탐구시간에배우는기본적인설문조사방식이나종류에대해잘이해하지못해선생님께확인받은여러초안은폐기되었습니다. 이후피드백을받아제가원하는조금더구체적인답변을얻기위해양적연구방식인질문지법보다는질적연구방식인면접법으로바꾸어여러가지질문을만들었고약5명에게면접을요청해결과를얻고, 정리하여보고서와PPT를제작하였습니다. 구체적인질문내용은사람들이보편적으로생각하는과학기사의자격요건은무엇인지, 그리고성격이다른두개의과학기사를제시후어느것이더과학적이라고생각하는지와그이유에대해서묻는것이었습니다. 3. 활동을통해얻은결과와느낀점직접타인들에게인터뷰를시도하거나설문조사를시행하는탐구활동으로서는첫번째였는데, 생각보다사람들에게어떤질문을해결과를수합하고, 그걸바탕으로결론을낸다는것이쉽지만은않다는것을깨닫게되었습니다. 그러나정말로형식상으로는연구다운연구를하였다는만족감도있었습니다. 4. 탐구활동요약2학년활동에서과학이매체에서다루어지는양상에대해발표> 그렇다면과학은어떻게다루어져야사람들에게올바르게전달될수있을까? > 면접법으로사람들에게구체적인의견물어보기> 결과수합해서보고서, PPT제작후발표 5. 탐구활동개인총평만족스러운점2학년활동과관련하여지은주제자체가만족스러웠습니다. 또한선생님과여러차례이야기해가며연구방법및질문을수정하던작업과함께사람들이과학기사의어떤점을중요시하는지를과학기사동아리에서3년내내활동했던사람으로서직접듣게되어평소스스로수행하는탐구활동과는달리흥미로운부분이꽤많았던활동이었다고생각합니다. 아쉬운점면접법이다보니사람들의의견을많이물어볼수없었고, 저마다의의견이약간씩다른데결론을낼때는전체적인뉘앙스만같다면같은의견이라고수합할수밖에없어서조금아쉬웠습니다. 또한처음에기획했던방향인‘과학이어떻게사람들에게올바르게전달될까?’라는주제와는결론이조금다른방향으로흐른것이마음에걸렸습니다.",
+        "highlights": [
+          "사회문제탐구",
+          "과학기사요소",
+          "면접법",
+          "연구방법",
+          "과학적연구결과"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "자율적 교육과정 프로그램을 통해 자유롭게 탐구활동을 진행함",
+      "갯벌을 주제로 환경적, 역사적, 경제적 측면을 탐구함",
+      "자료를 생태적 측면과 경제적 측면으로 나누어 분석함",
+      "모식도를 활용하여 친환경적 갯벌 관련 정책의 필요성을 나타냄",
+      "원격탐사라는 주제를 재사용하여 차후 탐구 의지를 드러냄",
+      "탐구활동의 자유도가 클수록 정제된 결과물을 도출할 수 있음을 깨달음",
+      "여러 자료를 잘 정리하여 보고서와 생기부에 효과적으로 반영함",
+      "중간 점검을 통해 탐구 방향성을 유지하는 습관을 기름"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_002",
+        "saeteuk_id": "saeteuk_004",
+        "match_score": 0.4166666666666667,
+        "match_reason": "같은 과목, 내용 유사 (1%)"
+      },
+      {
+        "research_id": "research_004",
+        "saeteuk_id": "saeteuk_002",
+        "match_score": 0.2604166666666667,
+        "match_reason": "유사 과목, 내용 유사 (1%)"
+      },
+      {
+        "research_id": "research_010",
+        "saeteuk_id": "saeteuk_001",
+        "match_score": 0.0125,
+        "match_reason": "내용 유사 (1%)"
+      }
+    ],
+    "unlinked_researches": [
+      "research_006",
+      "research_001",
+      "research_005",
+      "research_008",
+      "research_007",
+      "research_003",
+      "research_009"
+    ],
+    "unlinked_saeteuks": [
+      "saeteuk_005",
+      "saeteuk_003"
+    ]
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 35782"
+  ]
+}

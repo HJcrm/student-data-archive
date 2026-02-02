@@ -1,0 +1,660 @@
+{
+  "alias": "학생08_이화여대_간호학과",
+  "source_file": "의학계열 생기부 데이터.pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "평균",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "과학",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 4,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "과학",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "과학",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 78.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 5,
+        "percentile": 59.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 3,
+        "percentile": 80.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 1,
+        "percentile": 92.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 3,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 76.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 4,
+        "percentile": 66.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 2,
+        "percentile": 97.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 1,
+        "percentile": 99.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 1,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 1,
+      "math": 5,
+      "english": 2,
+      "history": 1,
+      "tamgu1": "언어와매체",
+      "tamgu1_grade": 3,
+      "tamgu2": "확률과통계",
+      "tamgu2_grade": 5,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "중앙대학교",
+        "department": "간호학과",
+        "admission_type": "CAU 융합형인재전형",
+        "result": "불합격(1차불합격)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "이화여자대학교",
+        "department": "간호학과",
+        "admission_type": "미래인재전형",
+        "result": "추가합격(예비1번)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "성신여자대학교",
+        "department": "간호학과",
+        "admission_type": "학교생활우수자전형",
+        "result": "추가합격(예비12번)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "중앙대학교",
+        "department": "간호학과",
+        "admission_type": "CAU 탐구형인재 전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "건국대학교",
+        "department": "간호학과",
+        "admission_type": "수시교과우수전형",
+        "result": "추가합격(예비23번)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "차의과학대학교",
+        "department": "간호학과",
+        "admission_type": "지역균형선발",
+        "result": "추가합격(예비9번)",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "중앙대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "고양시",
+    "school_type": "일반고",
+    "school_name": "OO고등학교",
+    "atmosphere": "내신 따러 오는 고등학교로 유명, 경쟁 치열",
+    "competition_level": "높음",
+    "special_programs": [
+      "독서마라톤",
+      "독서캠프",
+      "독서토론회",
+      "사제동행독서멘토링",
+      "학과체험의 날",
+      "직업인과의 대화",
+      "사회심화독서탐구활동",
+      "또래교사활동",
+      "모의면접",
+      "진로심화주제발표활동"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "3학년",
+        "subject": "자율",
+        "title": "디지털 리터러시를 활용한 경계선 지능 학습자의 학습 지원 방안",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "3학년",
+        "subject": "동아리",
+        "title": "HIV/AIDS 현황과 해결 방안에서의 사회 구조 개선: 교육과정 신건강 측면에서",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "3학년",
+        "subject": "진로",
+        "title": "저소득 노인의 건강 관리 실태에 대한 주거 환경 영향 요인의 재해석: 플로렌스 나이팅게일 평전을 읽고 나이팅게일의 간호 환경 이론 기반으로",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "3학년",
+        "subject": "융합학술",
+        "title": "2000명의 의대 증원과 공공 지역 간호사 제도 비교 및 법안 제정의 한계 역설",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "3학년",
+        "subject": "동아리",
+        "title": "효율적 이타주의 관점에서 바라본 국제 자선 사업",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "3학년",
+        "subject": "진로",
+        "title": "조직의 인간형에 대한 탐구: 제3 인간형을 읽고 연대적인 인간과 경제적인 인간을 중심으로",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "2학년",
+        "subject": "동아리",
+        "title": "간호법, 간호 환경을 바꾸다",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "2학년",
+        "subject": "자율",
+        "title": "간호사의 날 행사 총괄",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "1학년",
+        "subject": "자율",
+        "title": "내분비계를 교란시키는 미세 플라스틱",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "1학년",
+        "subject": "동아리",
+        "title": "브라질의 빈부 격차 원인과 해결 방안으로서 문화 사업",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "간호/의료 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "자율",
+        "content": "1학기 학급자치회장（2022. 03. 02.-2022. 08.16.）으로서 리더십을 발휘하여 학급의 다양한 문제들을 합리적으로 해결할 수 있도록 급우들을 이끌었으며 학급자치회의를 통해 학급 내 민주적 의사소통 과정이 원활히 이뤄질 수 있도록 노력함. 학생자치회 문화기획부 부원 （2022. 03. 02.-2023. 02. 28.）으로 건설적인 아이디어를 제시하며 이끌어 나가는 리더십을 보여줌. 사회탐구활동에 참여하여 '내분비계를 교란시키는 미세플라스틱’ 이라는 주제를 선정해 탐구 결과를 보고서로 작성하여 제출함. 탐구 과정에서 해결방안을 고민해보며 사고력이 심화되는 경험을 함. 우수작 발표회에서 가독성 있는 프레젠테이션을 활용하고 동료와 호흡을 맞춘 준비된 발표를 통해 청중의 큰 호응을 삼. 또래교사 활동에서 통합과학을 가르치는 또래 교사로 활동하며 학습한 내용을 자신만의 방식으로 정리하여 또래 학생의 눈높이에 맞춰 설명함. 이러한 과정은 자신의 학습과 또래 학생의 성적 향상에 도움을 줌. 독서캠프 독서토론회에 '나로 살아간다는 것'을 주제로 한 '긴긴밤(루리)'을 읽고 참여하여 다양한 관점과 의견의 공유를 통해 생각의 폭을 넓히는 기회가 됨. 독서마라톤 하프코스（2022.03.14.-2022.11. 29.）에 참여하여 120일간 2, 405쪽의 책을 꾸준히 읽음. 보여주고싶은역량: 통합과학에서배운내용이해와사회현상과연관지어서심화탐구할수있는역량",
+        "highlights": [
+          "리더십",
+          "민주적 의사소통",
+          "탐구활동",
+          "미세플라스틱",
+          "사고력 심화",
+          "프레젠테이션",
+          "또래교사",
+          "독서토론회",
+          "독서마라톤"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "자율",
+        "content": "1학기 융합 학술 프로젝트에 참여하여, 의료환경 개선에 대한 탐구를 위해 의대 증원과 공공지역 간호사제도 비교 및 법안 제정의 한계를 중심으로 깊이 있게 고찰하여 발표함. 지역공공간호사제와 의대 증원 정책을 살펴본 후 지역공공간호사제에 대해 간호협회가 열악한 근무환경과 노동강도에 대한 근본적 해결 없이 증원만 하려고 한다는 입장을 이직 고려 사유, 시사점, 결론의 항목으로 정리하여 제시함. 또한 의대 증원 정책에 대해 의사협회가 필수지역 의료 대안으로 기능할 수 없다는 점, 의학교육의 질 저하, 출산율 감소에 따른 의사 과잉 공급을 이유로 반대하고 있다는 입장을 정리함. 이후 두 정책을 서로 비교하며 현장의 목소리를 반영하여 근본적 문제를 해결할 필요가 있다는 공통점을 도출하고 실제성 있는 법안 제정이 필요하다는 결론을 내림. 사회 문제를 자신만의 관점으로 바라보면서 해결 방법을 도출하는 과정이 매우 논리적이고 타당했으며 내용을 핵심어 위주로 종합하여 범주화 하는 능력이 우수함. 해당 주제에 대해 다양한 렌즈로 바라보며 이를 통합하고 결론에 이르는 논리적인 과정이 매우 뛰었으며 나름의 통찰을 기반으로 독창적인 내용 구성을 통해 매우 깊이 있고 흥미로운 발표를 진행함. 보여주고싶은역량: 두가지의의료계이슈를비교·분석하여자신의의견을제시할수있는융합적사고역량. 2학년독서시간에지역공공간호사제도에반대하는논설문을작성하고, 3학년 심화국어시간에의대증원찬반입장정리및의견제시를하였습니다. 두이슈가저에게는겉핥기식의제도로, ‘의료계의근본적인원인을해결하기보다는인원만충당하여눈을가리려는제도’ 라는공통점이있다고 판단해비교·분석하였습니다. → 진로와관련이큰사회현상2가지를비교∙분석하여같은주제로탐구를진행한지원자들과의차별점이 되는포인트였습니다.",
+        "highlights": [
+          "의료환경 개선",
+          "의대 증원",
+          "공공지역 간호사제도",
+          "법안 제정",
+          "비교 분석",
+          "융합적 사고"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "자율",
+        "content": "학급자치회 부회장(2024.03.01-2024.08.31. )으로 1인 1역을 담당한 학생들이 결석하면 그 역할을 대신 자신의 일처럼 열심히 했던 심성이 착하고 학급 임원으로서 책임감이 있는 학생임. 100일간의 약속 독서마라톤(2024.03.11-2024.06.18. )에 참여하여 66일간 문학, 과학 분야의 도서를 읽음. 1학기 또래교사활동(2024.04.08-2024.06.21./10시간)에서 '생활과 윤리'를 가르치는 또래교사로 활동하면서 또래 학생의 눈높이에 맞춰 알려주려고 노력함. 사회적 약자에 관심을 가지고 있는 학생으로 경계선 지능 학습자들이 지적 장애가 있다고 판정 받은 학습자들에 비해 열악한 학습 환경에 있다는 뉴스를 접하고 이에 대해 탐구함. 경계선 지능 학습자들의 학습 개선 방안에 대해 알아보면서 디지털 리터러시를 활용한 경계선 지능 학습자의 학습 지원 개선 방안이라는 주제로 사회심화독서탐구활동(2024.04.24-2024.06.05. )에 참여함. '느린 학습자의 심리와 교육'을 찾아 읽은 후 경계선 지능 학습자들이 이해하는 능력이 없는 것이 아니라 이해의 속도가 느리다는 것을 알게 되면서 이들에게 디지털 리터러시를 활용하여 추가적인 학습 자료를 제공하면 학업 적응에 도움이 될 것이라는 결과를 도출하고 느린 학습자를 위한 교육프로그램의 필요성을 역설함.\n보여주고싶은역량: 간호에서아동발달과교육부분에관심을가지고사회현상을분석하고 해결방안을제시하는역량\n합격선배의생기부분석: 교육트렌드인디지털리터러시를활용한사회현상분석및해결방안을 제안해본탐구활동입니다. 다른간호사를희망하는학생들보다자연계열성적이 약했기때문에이활동을포함한여러인문활동이자연계열활동들을보완하고 다른지원자와의차별화하는전략이었습니다.\n→ 간호사를희망하는학생으로서사회적약자에특히관심을보인다는생기부의핵심키워드를만들고, 당시가장떠오르는경계선지능학습자들의복지가취약하다는내용을주제로하여면접관들의관심을 가지게하는활동이었습니다.",
+        "highlights": [
+          "학급자치회 부회장",
+          "사회적 약자",
+          "경계선 지능 학습자",
+          "디지털 리터러시",
+          "또래교사활동"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "동아리",
+        "content": "동아리 (국제이슈토론부)(18시간) 다양한 이슈를 탐색하면서 새롭게 알게 된 점을 관심 분야에 적용하고 융합적으로 탐구하는 능동적인 인재임. 현안과 정책에 대한 이해를 위해 '지역 의료 격차의 현황과 해결 방안'을 주제로 지역 의료 격차 요인과 현황을 분석하고 해결방안들에 대해 토론함. 토론 결과 발표에서 지역 간 의료격차 현황 통계 자료를 통해 청자들이 그 심각성을 인식하게 한 점이 돋보임. 관련 독서를 통해 국제 사회의 지원에도 불구하고 아프리카에서 유독 질병이 개선되지 않는다는 점에 주목하고, '아프리카 HIV/AIDS 현황과 해결 방안에서의 사회 구조 개선'을 주제로 탐구 발표함. 그 과정에서 각 질병의 정의, 아프리카에서 이 질병의 현황과 발생 이유, 현재 해외 원조 방식에 대해 자세히 소개함. 이후 존 롤스 의견을 근거로 들어 교육과 정신건강 치료를 통한 사회 구조 개선을 이 문제 해결 방안으로 제시함. 이 활동을 통해 문화를 고려해 환자들을 간호해야 함을 배웠고, 미래 국제 간호사로 HIV/AIDS 대응을 위한 정신 건강 개선에 대한 연구 의지를 밝힘. 이후 '효율적 이타주의자'를 읽고 얻은 통찰을 기반으로 '효율적 이타주의 관점에서 바라 본 국제 자선사업'이라는 타이틀의 신문 기사를 작성함. 보여주고싶은역량: 질병의해결방안을물리적인치료가아닌, 사회구조적, 정신적인치료를고안해보는생각의전환역량 합격선배의생기부분석: 생활과윤리교과목에서배운해외원조사상을토대로HIV/AIDS 대응방안으로서 교육과정신건강치료를고안해보았습니다. 현재의원조방식이물자원조방식으로, 존롤스의사회구조적인 원조는진행되고있지않아추후국제간호사로서연구를해보고싶다는의지를드러낼수있는활동이었습니다. → 간호학과의비전이글로벌건강이슈를이해하고대처능력을키우는것인데, 미래의국제간호사로서연구의지와능력을보여줄수있는탐구였습니다.",
+        "highlights": [
+          "지역 의료 격차",
+          "HIV/AIDS",
+          "사회 구조 개선",
+          "정신 건강 치료",
+          "효율적 이타주의"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "진로",
+        "content": "영어 프레젠테이션 활동(2024.05.24.)에 참여하여 노인 간호에 대한 에세이를 쓰면서 관심 갖게 된 노인 학대에 관해 '나이듬에 관하여'를 읽고 돌봄 제공자들에게 여유와 심리적 지원이 필요함을 영어로 주장함. 사제동행 독서 멘토링' (2024.05.07.-2024.06.14.) 활동에 참여하여 플로렌스 나이팅게일 평전(김창희)' 을 읽고 나이팅게일의 간호환경이론의 배경에 대해 탐구함. 나이팅게일이 제시한 5가지 건강한 주거환경을 영어독서활동을 통해 관심을 가지게 된 노인간호에 접목하고, 저소득 노인의 건강관리 실태에 대한 주거환경 영향 요인에 대해 보고서를 작성함. 자기 주도 진로활동 계획 세우기(2024.03.22.-2024.06.30.)에서 SMART 기법을 활용하여 응급키트 학급 배치, 키트 사용 설명서 작성 및 배포, 의약품의 차이에 대한 안내, 살균의 중요성 설명,환기 매일 실천하기 등을 계획하고 실제 활동을 함. 주제별 진로 탐구 활동(2024.05.27.)에서 '왜 지구촌 곳곳을 돕는가(소노 아야코)'를 읽고, 해외 윈조에 대한 의무론, 공리주의의 입장을 살펴보고 추가로 읽게 된 '물에 빠진 아이 구하기(피터 싱어)'를 통해 소득의 5퍼센트 기부행위와 무위의 결과 등을 이해함. 제 3인간형을 읽고 한국 사회 갈등 양상의 원인이 인간 유형과 관련 있다는 가설을 설정하고, 진로심화주제발표활동(2024.6.10.-2024.7.17.)에 참여함. 책에서 제시한 두 가지 개념의 인간 유형을 분석하고, 시민의 한국사를 읽은 후 해방 이후부터 현재까지 인간형에 영향을 준 근현대적 역사 사건을 정리하였으며, 교내 학생들을 대상으로 '사회적 인간 유형에 대한 인식'에 대해 설문 조사를 함. 이를 통해 사회적 갈등 이슈의 원인이 연대적 인간형 보다는 경제적 인간형을 추구하는 분위기 때문이라는 결과를 도출함. 보여주고싶은역량: 나이팅게일의5가지건강한주거환경을사회적약자의주거환경에적용하여 더나은대안을제시할수있는융합적사고역량",
+        "highlights": [
+          "노인 간호",
+          "플로렌스 나이팅게일",
+          "주거환경",
+          "사회적 약자",
+          "진로 탐구"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "일반고 내신 2.19 등급",
+      "미세플라스틱에 대한 탐구 활동",
+      "문헌과 연구 논문을 참고하여 미세플라스틱과 내분비계 정의",
+      "고등학교 학생 대상 설문조사 진행",
+      "발표에서 비언어적인 부분까지 연습하여 인상 남김",
+      "의료환경 개선에 대한 탐구 및 발표",
+      "사회 문제를 논리적이고 타당하게 바라보는 능력",
+      "다양한 렌즈로 주제를 바라보며 통합하고 결론 도출"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_001",
+        "saeteuk_id": "saeteuk_003",
+        "match_score": 0.4305343511450382,
+        "match_reason": "같은 과목, 내용 유사 (3%)"
+      },
+      {
+        "research_id": "research_003",
+        "saeteuk_id": "saeteuk_005",
+        "match_score": 0.42500000000000004,
+        "match_reason": "같은 과목, 내용 유사 (2%)"
+      },
+      {
+        "research_id": "research_002",
+        "saeteuk_id": "saeteuk_004",
+        "match_score": 0.4206896551724138,
+        "match_reason": "같은 과목, 내용 유사 (2%)"
+      },
+      {
+        "research_id": "research_009",
+        "saeteuk_id": "saeteuk_001",
+        "match_score": 0.40840336134453786,
+        "match_reason": "같은 과목, 내용 유사 (0%)"
+      },
+      {
+        "research_id": "research_008",
+        "saeteuk_id": "saeteuk_002",
+        "match_score": 0.4,
+        "match_reason": "같은 과목"
+      }
+    ],
+    "unlinked_researches": [
+      "research_005",
+      "research_004",
+      "research_007",
+      "research_006",
+      "research_010"
+    ],
+    "unlinked_saeteuks": []
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 34237"
+  ]
+}

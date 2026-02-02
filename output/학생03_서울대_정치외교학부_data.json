@@ -1,0 +1,510 @@
+{
+  "alias": "학생03_서울대_정치외교학부",
+  "source_file": "유니브클래스_2025_인문사회상경_생기부대백과 (1).pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "사회",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 98.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 1,
+        "percentile": 98.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 2,
+        "percentile": 85.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 3,
+        "percentile": 98.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 1,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 1,
+        "percentile": 99.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 2,
+        "percentile": 78.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 1,
+        "percentile": 95.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 3,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 1,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 1,
+      "math": 2,
+      "english": 2,
+      "history": 1,
+      "tamgu1": "정치와법",
+      "tamgu1_grade": 1,
+      "tamgu2": "사회문화",
+      "tamgu2_grade": 1,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "서울대학교",
+        "department": "정치외교학부",
+        "admission_type": "지역균형전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "연세대학교",
+        "department": "정치외교학과",
+        "admission_type": "추천형",
+        "result": "추가합격(예비11번)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "정치외교학과",
+        "admission_type": "학교추천형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "고려대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "고양시",
+    "school_type": "일반고",
+    "school_name": "OO고등학교",
+    "atmosphere": "정말 평범한 일반고의 전형, 공부에 흥미가 있는 학생이 적음",
+    "competition_level": "중간",
+    "special_programs": [
+      "독서마라톤",
+      "토론",
+      "연구발표",
+      "실험"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "3-1",
+        "subject": "중국문화",
+        "title": "중국의 정치관행 변화에 따른 앞으로의 전망",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "3-1",
+        "subject": "사회문제탐구",
+        "title": "미중 패권전쟁과 한국의 외교 방향성",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "3-1",
+        "subject": "학교자율과정",
+        "title": "탄소배출권 거래를 통한 자원외교 정책 수립",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "3-1",
+        "subject": "동아시아사",
+        "title": "동아시아 국가들의 영토 분쟁 및 해결 방안",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "3-1",
+        "subject": "독서",
+        "title": "환경 거버넌스와 국제 환경 논의로의 연관",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "3-1",
+        "subject": "진로",
+        "title": "국가 운영 형태와 선거 제도 간의 관계 비교 분석",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "2-2",
+        "subject": "세계지리",
+        "title": "GATT에서 WTO로의 무역체제 변화에 경제 블록이 끼친 영향",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "2-1",
+        "subject": "진로",
+        "title": "세계 패권의 역사와 전망",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "1-2",
+        "subject": "한국사",
+        "title": "독재의 유무를 중심으로 한국 대통령 선거제와 미국 대통령 선거제의 비교",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "1-1",
+        "subject": "통합과학",
+        "title": "우리나라와 다른 국가의 에너지 정책 비교",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "진로",
+        "content": "국제교류협력단으로베트남, 인도네시아, 대만학교(2023.05.10.-2023.05.17.)와영어로진행된 실시간온라인수업으로의견을교류함. 학업부족학생에대한배려부족을지적하며평가방식 개선을제안하고각국의사례로교육불평등문제를제시함. 탄소중립과원전비중확대를주제로 실시된과학탐구토론컨퍼런스(2023.05.24.-2023.05.25.)에참여해반대주장을필침. RE100에 많은기입이동참하므로원전확대는흐름에역행함을제시하고수소저장및운송기술을탄소중립 핵심기술로재안함. 상대팀자료신뢰도의문제등탄탄한사전준비와뛰어난의사소통 역량，팀워크를발휘하이배심원들의압도작인호평을이끌어냄. 인문교양연구발표(2023.06.07.)를통하여‘세계패권의역사와전망’을주제로발표함. 영국. 미국이세계패권을지배한배경. 패권유지를위한미국의전략을소개하고한국의외교방향성을 제안함. 발표전달력이매우뛰어나다는평가를받음. '국가란무엇인가(유시민)’을읽고국가의 의미와역할을통찰함. 한국사시간에작성한보고서의결론과책내용이일치하여흥미로웠다고 발표함. 강대국의패권전쟁이다른나라에끼칠영향에대한호기심으로강대국국제정치의비극(존J. 미어셰이머)을읽고한국은자국의강점을활용하여중립적으로나아가야한다는논리적인발표를 진행함. 확장하여비슷한주제의'세계질서(헨리키신저)’를읽고두저자의직업에따라해석이 다르다는점이흥미로웠고다양한관점에서현상을봐야한다는서평을통해심도있게비교하는 모습이돋보임. 관련하여신문기사'글로벌패권경쟁주의보확산'을읽고외교의중요성을 발표하여사회현상이해능력과분석적사고능력을엿볼수있음. 보여주고싶은역량: 세계패권에대한역사와전망을조사 합격선배의생기부분석: 세계패권에대한역사와전망에대해서단순히조사만하고끝나느것이아닌, 다른 독서활동으로심화시키면서탐구를깊이있게진행하였습니다. 또한탐구및독서활동에서저의견해를 드러내며여러요인을분석했습니다. → 전공과관련있는주제로탐구를진행하고, 이를더심화시켜독서활동과연관지으며나의생각을드러낸 점이합격포인트입니다!",
+        "highlights": [
+          "국제교류협력단",
+          "탄소중립",
+          "세계패권",
+          "미국의전략",
+          "외교방향성"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "세계지리",
+        "content": "교과부장으로책임감있게활동하여교사의수업활동에도움을줌. 떡볶이의세계화와지역화전략개발하기활동에서모둠원과함께태국진출을목표로현지쌀을활용한떡을재료로더운기후에도상하지않도록향신료를넣은특색있는떡볶이메뉴를고안함. 메뉴를구성하는과정에서참신한아이디어를제시하고, 합리적인가격책정을위해현지통화로환율계산을해보는등적극적인모습을보임. 공존과평화의세계에관한수업에서\"관세및무역에관한일반협정\"에서\"세계무역기구\"로의무역체제변화에경제블록이끼친영향에대한보고서를작성하고발표함. 논리적으로보고서를작성하고의미있는결과를도출하였으며, 참고문헌과출처제시가충실함. 탐구과정에서세계무역체제에대한이해가높아지는모습을보임. 공존과평화의세계단원을공부하던중이스라엘, 팔레스타인분쟁에관심을가지게되어갈등양상과해결방안에대한보고서를작성하고발표하였으며, 관련하여\"지리의힘(팀마샬)\"을찾아읽고책소개활동을진행함. 교사로하여금가르치는기쁨을느끼게하는총명한학생으로스스로공부하는자세가몸에배어있으며학업역량이매우뛰어남. 보여주고싶은역량: 경제블록과WTO를연결시켜분석합격선배의생기부분석: GATT에서WTO로의무역체제변화에경제블록이끼친영향을분석하면서고등학생이지만수준높은탐구를진행했습니다. 2학년생기부임에도불구하고심화된주제를선정하며분석한것이좋은평가를받을수있던탐구활동입니다. → 단순히경제블록을배웠지만, 배운내용을심화시켜무역체제와연결시켜이를분석했다는점이합격포인트입니다!",
+        "highlights": [
+          "책임감",
+          "떡볶이 메뉴 개발",
+          "보고서 작성",
+          "이스라엘-팔레스타인 분쟁",
+          "경제블록과 WTO 분석"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "사회문제탐구",
+        "content": "주제탐구보고서작성하기활동에서세계지리시간에탐구한내용과영어시간에발표한주제를융합하여\" 타종교에대한선입견과사회적갈등해결의관련성\"을주제로선택함. 조사를위한질문지를종교별로상세하게구성하여제작하고설문조사를진행함. 수집한자료를분석한결과타종교에대한선입견이사회적갈등해결을어렵게만든다는가설이수용됨을확인함. 탐구과정에서사회문화시간에배운질문지법을직접적용하고활용한것에흥미를느끼고정보를비판적으로수용할수있는시각을가진경험이었음을소감으로작성함. 이보고서를토대로발표자료를제작하고정확한발음과목소리로동료들과상호작용을하면서전달력있게발표함. 이주제를심화탐구하기위하여\"다르지않은타자(엄한진)\"를읽고중동에대한선입견을깨닫고국제적연대로문제를해결해야함을주장함. 시사뉴스분석하기활동에서미·중무역갈등에대한뉴스기사를분석하여미·중의패권전이투키디데스의함정과같음을통찰하고두루미외교라는독창적인해결방안를제안함. 미국과중국의두날개사이에서두루미의머리역할인한국이좌우날개의균형을잡아세계의외교를선도해야함을주장함. 보여주고싶은역량: 나만의외교개념제시 합격선배의생기부분석: 우리나라의외교방향성을‘두루미외교’라는나만의용어를만들어제시하며좋은평가를받을수있었습니다. → 나만의용어를만들어서흥미를끌었다는점이합격포인트입니다! 또한한국의외교방향성을제시하면서외교에대한관심을드러냈습니다. 1. 활동을하게된동기 2학년때세계패권에대해조사한활동의연장선으로진행한활동입니다. 미-중갈등속에서한국의외교방향성을제시해보고자하였습니다. 2. 세세한활동진행과정 미-중무역갈등의현상황을‘투키디데스의함정’이라는개념을활용하여설명했습니다. 또한현무역갈등상황에서한국의중립외교중요성과자주적인태도가중점이되어야한다는것을표현했습니다. 따라서‘두루미외교’라는개념을제가만들어서중립외교와자주적태도를가지는외교를표현했습니다. 3. 활동을통해얻은결과와느낀점 투키디데스의함정에의한영향으로전세계의경제가침체되고있고, 한국은대외무역의존도가높기때문에영향을더욱많이받고있습니다. 우리나라는미국과중국사이에서내가고안한해결방법인‘두루미외교’를통해서이상황을타개해야한다고생각합니다. 한국은전쟁과평화의최전선에있는국가이자, 자유주의국제질서의최대수혜자입니다. 따라서국제사회의규범과원칙이흔들릴때가장큰피해를볼수있는국가라는말도됩니다. 한국이전략적정책선택의폭을가지고원칙에충실한외교관행을축적해나간다면주변국도한국을독립적변수로존중할것입니다. 우리는그러한외교역량을보여주어야합니다. 저는미중무역갈등에서한국의경제침체를막기위해‘두루미외교’라는외교방식을고안해보았습니다. 예전부터두루미는한국을대표하는새중하나였으며, 당당함과고고함을잘드러내줍니다. 두루미처럼우리나라는우리나라의강점인반도체분야에서세계를이끌어나가야할것입니다. 또한두루미가날기위해서는두날개의균형을잘맞추는것이중요하다. 미국과중국이라는두날개사이에서두루미의머리역할인우리나라가좌우의양쪽날개의균형과동력으로한반도가비로서활기차게웅비할수있는외교를이끌어나가야할것입니다. 단순히국제정세에휩쓸리는‘앵무새’ 같은태도의외교가아닌두루미같은태도의외교가필요할것입니다. 4. 탐구활동요약 1. 동기: 2학년세계패권전쟁조사에대한연장선으로우리나라의외교방향성에대해서조사하고자함. 2. 자료조사: 여러논문및자료, 신문기사 3. 탐구활동진행: 미-중무역갈등을‘투키디데스의함정’이라는개념을활용하여설명및‘두루미외교’라는개념을만들어서한국의외교방향성설명 5. 탐구활동개인총평 만족스러운점 ‘투키디데스의함정’이라는개념을활용하여미-중갈등상황을설명한점이만족스럽습니다. 이러한개념을활용하여상황을설명했을때좋은평가를받을수있는것같습니다. 또한직접‘두루미외교’라는개념을만들어제시했다는점이만족스럽습니다. 아쉬운점 갈등상황을잘설명하여크게아쉬운점은없지만, 선행연구인세계패권전쟁부분과겹치는부분이조금있기에그부분이아쉽습니다.",
+        "highlights": [
+          "타종교에대한선입견",
+          "미·중무역갈등",
+          "두루미외교",
+          "투키디데스의함정",
+          "한국의외교방향성"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "동아시아사",
+        "content": "국가성장에필요한요소를찾는탐구활동에참여하여빈부격차를방지하는정책과우수한인재등용을키워드로글을작성함. 호족의성장, 빈부격차의심화, 특정계층에유리한인재선발제도의시행이한나라의멸망에큰영향을끼쳤다고판단하여이를과제해결의근거로제시함. 척화론과주화론논쟁에대해조선의국력을고려했을때청과의전쟁은매우위험하고백성들의안정적인삶을보장하는것이최우선이라판단하여주화론의입장을지지하는자신의견해를밝힘. 동아시아국가들이당면한문제들을탐구하는과정에서\"동아시아국가들의영토분쟁\"을주제로보고서를작성함. 구체적사례로센카쿠열도분쟁, 시사군도분쟁에대해조사하고, 동아시아지역에서제국주의의팽창, 중국의일대일로정책으로인한국가간충돌등을파악하여분쟁이발생한배경을분석함. 문제해결을위해카스피해영유권분쟁해결방법을동아시아에비슷하게적용하거나분쟁지역을공동으로관리하는국제기구를설립하는방안을제시함. 자료를분석하고역사적사실을유기적으로이해하는능력이뛰어난학생으로배경지식을활용하여해결방안을고안하려는폭넓은안목과통찰력을지니고있음. 보여주고싶은역량: 동아시아의영토분쟁과나만의해결책제시",
+        "highlights": [
+          "빈부격차",
+          "영토분쟁",
+          "해결책",
+          "국제기구",
+          "통찰력"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "학교자율과정",
+        "content": "학교자율과정(2024.07.15.-2024.07.19.) 융합프로젝트에참여하여세계지리, 정치와법교과를 융합하여\"탄소배출권거래를통한자원외교정책수립\"을주제로탐구활동을함. 탄소배출권을 자원외교에활용한다면에너지를지속적으로확보할수있을것이므로탄소배출권을활용한외교 정책을직접수립하고자한다는연구목적을밝힘. 이를위해먼저우리나라의탄소배출상황과 자원외교상황을체계적으로분석함. 그후정부는자원부국과탄소배출권을거래함으로써여러자원을제공받고, 탄소배출권이남는 기업과협력하여이를해외에판매하는정책을수립함. 정치및외교분야에대한폭넓은지식과 우수한탐구력을바탕으로주어진주제에대해깊이있는연구를수행하였으며세밀하고정확한 시선으로분석한결과를바탕으로구체적인정책제안을하는등탁월한분석력과뛰어난문제 해결능력을보임. 연구한내용을완벽하게이해하고그림, 도표등을활용하여유창하게발표하여 친구들의감탄을자아냄. 탐구활동후, 탄소배출권을통해자원을얻는다면환경오염을개선하는 데드는비용을절약하게되고기업들의수출경쟁력도좋아질것이라는내용의소감문을작성함. 보여주고싶은역량: 우리나라의외교정책을직접제시",
+        "highlights": [
+          "융합프로젝트",
+          "탄소배출권거래",
+          "자원외교정책",
+          "정치 및 외교 분야",
+          "탁월한 분석력",
+          "문제 해결 능력"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "정치외교학부와 관련된 탐구 활동",
+      "세계 패권을 이해하기 위한 심화 조사",
+      "미국과 중국의 패권 경쟁에 대한 분석",
+      "한국의 외교 방향성과 중립 외교에 대한 기초 지식 습득",
+      "관련 도서 독서를 통한 탐구 확장",
+      "교사의 수업 활동에 도움을 주는 책임감 있는 활동",
+      "세계 무역 체제 변화에 대한 논리적 보고서 작성",
+      "이스라엘-팔레스타인 분쟁에 대한 관심과 연구",
+      "GATT에서 WTO로의 무역 체제 변화 분석"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_007",
+        "saeteuk_id": "saeteuk_002",
+        "match_score": 0.4131578947368421,
+        "match_reason": "같은 과목, 내용 유사 (1%)"
+      },
+      {
+        "research_id": "research_002",
+        "saeteuk_id": "saeteuk_003",
+        "match_score": 0.4,
+        "match_reason": "같은 과목"
+      },
+      {
+        "research_id": "research_003",
+        "saeteuk_id": "saeteuk_005",
+        "match_score": 0.4,
+        "match_reason": "같은 과목"
+      },
+      {
+        "research_id": "research_004",
+        "saeteuk_id": "saeteuk_004",
+        "match_score": 0.4,
+        "match_reason": "같은 과목"
+      },
+      {
+        "research_id": "research_006",
+        "saeteuk_id": "saeteuk_001",
+        "match_score": 0.4,
+        "match_reason": "같은 과목"
+      }
+    ],
+    "unlinked_researches": [
+      "research_001",
+      "research_008",
+      "research_010",
+      "research_009",
+      "research_005"
+    ],
+    "unlinked_saeteuks": []
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 33904"
+  ]
+}

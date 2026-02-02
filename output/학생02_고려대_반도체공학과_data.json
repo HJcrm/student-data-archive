@@ -1,0 +1,606 @@
+{
+  "alias": "학생02_고려대_반도체공학과",
+  "source_file": "공학계열 생기부 데이터-페이지-2.pdf",
+  "grades": {
+    "nesin": {
+      "rows": [
+        {
+          "term": "1-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "사회",
+          "grade": 3,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-1",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "사회",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "과학",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "1-2",
+          "subject": "평균",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "영어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "2-2",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "국어",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "영어",
+          "grade": 1,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        },
+        {
+          "term": "3-1",
+          "subject": "수학",
+          "grade": 2,
+          "raw_score": null,
+          "average": null,
+          "std_dev": null,
+          "evidence": null
+        }
+      ],
+      "overall_average": null,
+      "subject_averages": {}
+    },
+    "mock_exams": [
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 3,
+        "percentile": 94.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 2,
+        "percentile": 90.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 1,
+        "percentile": 80.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 2,
+        "percentile": 92.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "6월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 3,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "국어",
+        "grade": 4,
+        "percentile": 94.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "수학",
+        "grade": 1,
+        "percentile": 90.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "영어",
+        "grade": 1,
+        "percentile": 80.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구1",
+        "grade": 1,
+        "percentile": 92.0,
+        "standard_score": null,
+        "evidence": null
+      },
+      {
+        "date": "9월",
+        "grade_level": null,
+        "subject": "탐구2",
+        "grade": 2,
+        "percentile": null,
+        "standard_score": null,
+        "evidence": null
+      }
+    ],
+    "suneung": {
+      "korean": 3,
+      "math": 2,
+      "english": 2,
+      "history": 1,
+      "tamgu1": "언어와매체",
+      "tamgu1_grade": 2,
+      "tamgu2": "물리학",
+      "tamgu2_grade": 1,
+      "second_language": null,
+      "second_language_grade": null,
+      "evidence": null
+    },
+    "grade_type": "내신형"
+  },
+  "susi_card": {
+    "applications": [
+      {
+        "university": "고려대학교",
+        "department": "반도체공학과",
+        "admission_type": "과학인재전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "성균관대학교",
+        "department": "반도체시스템공학과",
+        "admission_type": "과학인재전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "카이스트",
+        "department": "반도체시스템공학과",
+        "admission_type": "일반전형",
+        "result": "불합격(1차합격)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "서울대학교",
+        "department": "첨단융합학부",
+        "admission_type": "일반전형",
+        "result": "1단계불합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "포항공과대학교",
+        "department": "반도체공학인재전형II",
+        "admission_type": "불합격(1차합격)",
+        "result": "불합격(1차합격)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "반도체공학과",
+        "admission_type": "계열적합전형",
+        "result": "1단계불합격",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "연세대학교",
+        "department": "시스템반도체공학과",
+        "admission_type": "활동우수형",
+        "result": "불합격(1차합격)",
+        "notes": null,
+        "evidence": null
+      },
+      {
+        "university": "고려대학교",
+        "department": "반도체공학과",
+        "admission_type": "학업우수전형",
+        "result": "최초합격",
+        "notes": null,
+        "evidence": null
+      }
+    ],
+    "final_choice": "고려대학교",
+    "strategy_notes": null
+  },
+  "school": {
+    "region": "서울특별시 서초구",
+    "school_type": "일반고, 과학중점고",
+    "school_name": "OO고등학교",
+    "atmosphere": "상위권 경쟁 치열, 내신 따기 어려움",
+    "competition_level": "높음",
+    "special_programs": [
+      "사제동행독서토론",
+      "창의융합아카데미",
+      "글로벌리서치"
+    ],
+    "evidence": null
+  },
+  "roadmap": {
+    "yearly_strategies": {
+      "1학년": "기초 다지기, 진로 탐색",
+      "2학년": "심화 탐구, 전공 관련 활동",
+      "3학년": "심화 연구, 포트폴리오 완성"
+    },
+    "top_researches": [
+      {
+        "id": "research_001",
+        "term": "3-1",
+        "subject": "자율",
+        "title": "논리회로를 활용한 디코더 시뮬레이션",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_002",
+        "term": "3-1",
+        "subject": "동아리",
+        "title": "전기장에 따른 점전하의 이동경로를 수학적으로 나타내기(문제제작)",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_003",
+        "term": "2-2",
+        "subject": "동아리",
+        "title": "수직 다관절 로봇팔 제작",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_004",
+        "term": "3-1",
+        "subject": "진로",
+        "title": "폰노이만 구조와 차세대 반도체 관점 비교(도서 2권)",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_005",
+        "term": "2-2",
+        "subject": "수학2",
+        "title": "미적분을 이용한 회로 소자의 이해",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_006",
+        "term": "2-1",
+        "subject": "수학1",
+        "title": "복소지수함수와 오일러 공식을 활용한 위상자의 이해",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_007",
+        "term": "2-1",
+        "subject": "물리학1",
+        "title": "공진회로를 이용한 통신의 이해 및 무선통신의 진화 과정",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_008",
+        "term": "2-2",
+        "subject": "과학과제연구",
+        "title": "모스펫과 바이폴라 트랜지스터의 비교 우위 비교 실험",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_009",
+        "term": "1-2",
+        "subject": "수학",
+        "title": "집합과 명제를 활용한 논리회로의 이해",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      },
+      {
+        "id": "research_010",
+        "term": "1-1",
+        "subject": "통합과학",
+        "title": "반도체란? 소자의 종류와 제작 과정의 이해",
+        "description": null,
+        "keywords": [],
+        "evidence": null
+      }
+    ],
+    "overall_theme": "경영/경제 분야 심화 탐구",
+    "evidence": null
+  },
+  "saenggibu": {
+    "saeteuk_examples": [
+      {
+        "id": "saeteuk_001",
+        "term": null,
+        "subject": "진로(1학년)",
+        "content": "창체독서시간에배운개별독서카드와독서마인드맵작성법을토대로진로독서를실천함. 진로독서시간에'반도체제대로이해하기'를선정해읽고반도체발전과정과모스와모스펫의원리를시각자료와함께발표하며반도체의활용분야를넓히는기술자가되겠다는진로포부를밝힘. 사제동행독서및영상토론회를통해'빛의물리학'를읽고상대성이론은관측자의운동에따라시간의흐름, 공간적측정이달라짐을이해함. 특히쌍둥이역설과관련된토론이후상대성이론을기반으로한다양한현상인뮤온의운동과GPS 시스템등에대해심화탐구하고자하는의지를보임.진로수업시간을통해진로탐색역량을증진함. 직업·학과탐색발표에서반도체관련과를조사해진학을위한의지를밝혀학급진로발표왕으로선정됨. '나의브랜드파일'을작성하며자기이해역량을높이고진로탐색자료를정리해반도체전문가로서의진로로드맵을작성함. 실제적경험과전문가강연을매개로진로탐색역량을높임. 일본자매학교와의온라인비대면교류발표자로서1차교류(2022.06.02.)에참여해양국의미래현안에대해발표한뒤자유질의시간에도영어로적극의사소통함. 선배초청감동강연(2022. 6.8.)에참여해바이오분야현장전문가의경험을경청하고도전정신을배움. 발명·창업아이디어특강(2022.7.7.)에참가해특허정보, 창업방향성등에대해배움. 컴퓨터공학과실험실을탐방해유비쿼터스환경과관련된연구에관한설명을듣고, 보고서'나의첫실험실탐방'을작성해실험실탐방발표회(2022.8.26.)에참가함. '20 22 꿈넘꿈진로체험(2022.9.2.)'에서로봇분야직업정보파악, 멘토성장스토리청취, 로봇분야질의활동에참여함. 보여주고싶은역량: 진로탐색에대한의지, 자신의관심사표출.",
+        "highlights": [
+          "진로독서",
+          "반도체전문가",
+          "상대성이론",
+          "진로탐색역량",
+          "자기이해역량",
+          "온라인비대면교류",
+          "발명·창업아이디어특강"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_002",
+        "term": null,
+        "subject": "진로(2학년)",
+        "content": "글로벌리서치프로그램(2023.07.24.- 07.28.)에서'심장마비예측'을주제로조별연구를진행함. 심장질환관련데이터를활용해자료를시각화한후로지스틱회귀와머신러닝을활용해혈당량과 같은입력값에따른심장질환의발병가능성을예측함. 이를통해두방법의정확도차이를 비교하였으며데이터의부족으로모델의정확도가감소함을알아냄. 물리학하이챌린지(2023.11.10.)에참가하여밀도와부력, 무게중심개념을활용하여관찰을통해 이론을적용하고자신의생각을물리학적으로발표함. 마이켈슨-몰리실험으로에테르의존재를 확인하는과정을실제수치를적용하여계산함. 전반사원리를활용해빛이통통튀듯이진행하는 실험을설계함. 창의융합아카데미(2023. 10. 21.)에서계측기기를사용해여러회로소자에흐르는 전류의세기와전압의크기를측정하고실험결과를근거로옴의법칙을설명하는등디지털탐구 도구의조작능력이우수하며실험결과분석능력이탁월함. 과학적사고력과탐구능력이매우 우수하고팀원들과협업하고소통하는자세로실험에임함. 평소궁금했던전자의이동원리와 심화탐구를진행하면서의문점이완전히해소되지않았거나완벽하게이해하지못했던위상자및 파동함수, 오실로스코프와함수발생기의작동원리등을흥미롭게탐구하면서이해함. 아두이노 보드, 센서, 부저,모터등을사용하여피지컬컴퓨팅을구현하고시리얼통신을통해파이썬으로 아두이노를제어함. 진로주제발표로이드로우맥스, 엔시스같은프로그램을사용한후장단점을 설명하면서프로그래밍툴들을적절하게사용하여전자회로와반도체설계관련진로역량을 키워나가기위한포부를보임.",
+        "highlights": [
+          "심장마비예측",
+          "로지스틱회귀",
+          "머신러닝",
+          "물리학하이챌린지",
+          "디지털탐구 도구",
+          "피지컬컴퓨팅",
+          "프로그래밍툴"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_003",
+        "term": null,
+        "subject": "자율(3학년)",
+        "content": "학급정부회장선거에서1학기학급부회장으로당선되어학급을위해봉사함. 학생들모두가참여하여학급의일을결정해야할사항이많았는데, 많은학생들의의견에귀를기울이고합의를거쳐의사결정방식을정하는모습에서민주적인절차를존중하는리더십을엿볼수있었음. 매일교실청소를도맡아하는봉사정신을가지고있음. 교실의학습분위기를위해자신의쉬는시간까지줄여가면서정숙을유지하기위해노력하는희생정신을가지고있음. 반도체, 회로이론에꾸준히관심을가지고탐구를이어옴. 논리게이트회로분석, 논리회로를활용한디코더시물레이션실험을계획하고수행함. 실험의완성도를높이기위해'디지털논리회로설계및실험(김선규외)'를자세하게공부하였고，회로시뮬레이터를스스로학습함. 처음보는회로기호들이많았고, 시뮬레이터사용에어려움이있었지만포기하지않고도전하여계획한실험을모두수행하였음. 덕분에복잡한회로를능숙하게그릴수있게되었음. 또, 실험과정과결과를꼼꼼하게기록하였고, 실험의의미까지정리하여훌륭한보고서를작성함. 수학, 물리학하이챌린지에참가하여고차원적사고력을요하는문제에도전함.",
+        "highlights": [
+          "학급부회장",
+          "봉사정신",
+          "민주적인절차",
+          "회로시뮬레이터",
+          "보고서작성",
+          "고차원적사고력"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_004",
+        "term": null,
+        "subject": "동아리(3학년)",
+        "content": "동아리(3학년)(과제융합심화탐구반)(12시간) 창의적문제만들기활동에서전기장에놓인점전하의이동경로를수학적으로표현하는문제를출제함. 전기장이각각x축, y축방향으로시간에따라변하는상황을상정하였기때문에문제해결은물론출제자체가어려운문제였지만단계적인계획을세워서순차적으로문제를정교하게만들어나감. 기초이론과문제풀이과정을차근차근정리하였고, 그래프프로그램을이용해문제에오류가없는지확인함. 출제후에는전기장이변하는식을다양하게바꿔보면서답이어떻게바뀌는지확인함. 흥미로운그래프가많이나왔으며, 전체적인출제과정을체계적으로정리한점이훌륭함. 호기심을해결하기위해구체적인계획을세워실행한점, 물리학문제해결에수준높은수학실력을보여준점이인상적임. 2학년때트랜지스터에대한실험을계획한경험을바탕으로MOSFET과JFET의증폭과스위칭효과를비교하는실험을수행함. 실험실의여건상직접실험하는것이어렵다는것을알았을때포기하지않고시물레이션을이용할계획을세웠으며，시물레이션사용법을스스로익히고실험을수행함. 자신에게주어진여건을최대한활용하여탐구를이어나가는의지가인상적임.",
+        "highlights": [
+          "창의적 문제 만들기",
+          "전기장",
+          "수학적 표현",
+          "문제 해결",
+          "실험",
+          "시뮬레이션",
+          "탐구 의지"
+        ],
+        "evidence": null
+      },
+      {
+        "id": "saeteuk_005",
+        "term": null,
+        "subject": "진로(3학년)",
+        "content": "롤모델탐구발표회에참여하여폰노이만에관해소개함. 평소전기전자, 반도체분야에많은 관심을가지고있어서'미래에서온남자폰노이만(아난요바타차리야)'을읽고양자역학, 컴퓨터, 맨해튼프로젝트, 게임이론에서폰노이만이어떤역할을하였는지정리함. 앞으로그시대가 요구하는제품을미리파악하고그생산과정에기여하겠다는진로계획을세우고, 빠르게 발전하는인공지능을구현해낼수있는하드웨어개발에이바지하여사회에공헌하고싶다는 포부를밝힘. 이를위해전자공학과반도체분야의기초지식을쌓고관련뉴스를찾아보는노력을 실천하고있음. 폰노이만과같은천재성은없을지라도노력을게을리하지않고작은업적부터 천천히쌓아가겠다다짐함. 인공지능과반도체의연관성을알아보기위해'차세대반도체(권석준 외)', 'AI혁명의미래(정인성, 최홍섭)'을읽음. 현재반도체에서사용하는폰노이만구조의원리와 장단점을분석하였고인공지능의심층학습을위해반도체구조의혁신이필요함을설명함. 프로세싱-인매모리기술, 웨이퍼스케일컴퓨팅, 뉴로모픽반도체, 아늘로그형인공지능반도체등 전문적인내용을알기쉽게설명하는글을작성하였음. 두책의내용을자세하게리뷰하여 인공지능의발전과반도체혁신을자연스럽게이어서설명한점이인상적임. 이과정에서 부동소수점연산과같이익숙하지않은전문용어가나오면이를이해하기위해추가탐구를 진행하여리뷰의완성도를높인점이훌륭함. 사제동행독서토론을통해'미적분의쓸모(한화택)'를 읽고책에서간단하게다룬푸리에변환을추가조사하여이산푸리에변환및고속푸리에변환에 대해발표함. 보여주고싶은역량: 관심분야의최신트렌드파악, 두도서의관점비교및분석",
+        "highlights": [
+          "폰노이만",
+          "인공지능",
+          "반도체",
+          "독서활동",
+          "보고서작성"
+        ],
+        "evidence": null
+      }
+    ],
+    "acceptance_points": [
+      "명확한 진로 및 목표 설정",
+      "진로교실에서의 활동을 통해 진로 방향성을 확고히 함",
+      "자유 발표 기회를 통해 생기부에 진로 방향성을 드러냄",
+      "초기에 진로를 확정하여 학업에 집중할 수 있는 장점",
+      "글로벌리서치프로그램을 통한 AI 활용 능력 증명",
+      "조별 연구를 통해 심장질환 예측 모델 개발 경험",
+      "물리학 하이챌린지 참가로 이론 적용 및 발표 능력 향상",
+      "디지털 탐구 도구의 조작 능력 및 실험 결과 분석 능력 우수"
+    ],
+    "linked_researches": [
+      {
+        "research_id": "research_004",
+        "saeteuk_id": "saeteuk_005",
+        "match_score": 0.017543859649122806,
+        "match_reason": "내용 유사 (1%)"
+      },
+      {
+        "research_id": "research_001",
+        "saeteuk_id": "saeteuk_004",
+        "match_score": 0.017241379310344827,
+        "match_reason": "내용 유사 (1%)"
+      }
+    ],
+    "unlinked_researches": [
+      "research_010",
+      "research_006",
+      "research_005",
+      "research_008",
+      "research_002",
+      "research_007",
+      "research_003",
+      "research_009"
+    ],
+    "unlinked_saeteuks": [
+      "saeteuk_002",
+      "saeteuk_003",
+      "saeteuk_001"
+    ]
+  },
+  "parsing_notes": [
+    "LLM 파싱 (GPT-4o-mini)",
+    "총 토큰 사용: 34288"
+  ]
+}
