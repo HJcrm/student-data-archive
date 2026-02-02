@@ -151,6 +151,53 @@
             max-height: 300px;
             overflow-y: auto;
         }
+        .insight-box {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+        .competency-card {
+            background: linear-gradient(135deg, #FEF3C7, #FDE68A);
+            border-radius: 12px;
+            padding: 18px;
+            border-left: 4px solid #F59E0B;
+        }
+        .competency-card .card-label {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-weight: 700;
+            color: #B45309;
+            margin-bottom: 10px;
+            font-size: 0.9rem;
+        }
+        .competency-card .card-content {
+            color: #78350F;
+            font-size: 1rem;
+            font-weight: 600;
+            line-height: 1.6;
+        }
+        .analysis-card {
+            background: linear-gradient(135deg, #DBEAFE, #BFDBFE);
+            border-radius: 12px;
+            padding: 18px;
+            border-left: 4px solid #3B82F6;
+        }
+        .analysis-card .card-label {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-weight: 700;
+            color: #1E40AF;
+            margin-bottom: 10px;
+            font-size: 0.9rem;
+        }
+        .analysis-card .card-content {
+            color: #1E3A8A;
+            font-size: 0.95rem;
+            line-height: 1.7;
+        }
         @media (max-width: 768px) {
             header h1 { font-size: 1.5rem; }
             .stats { flex-direction: column; gap: 10px; }
@@ -311,6 +358,75 @@
             return filtered;
         }
 
+        // 세특 내용 파싱 (역량, 분석 분리)
+        function parseSaeteukContent(content) {
+            if (!content) return { main: '', competency: '', analysis: '' };
+
+            let main = content;
+            let competency = '';
+            let analysis = '';
+
+            // "보여주고싶은역량" 또는 "보여주고 싶은 역량" 패턴 찾기
+            const competencyPatterns = [
+                /보여주고\s*싶은\s*역량\s*[:：]\s*/i,
+                /보여주고싶은역량\s*[:：]\s*/i
+            ];
+
+            // "합격선배의생기부분석" 또는 "합격 선배의 생기부 분석" 패턴 찾기
+            const analysisPatterns = [
+                /합격\s*선배의\s*생기부\s*분석\s*[:：]\s*/i,
+                /합격선배의생기부분석\s*[:：]\s*/i
+            ];
+
+            // 역량 추출
+            for (const pattern of competencyPatterns) {
+                const match = content.match(pattern);
+                if (match) {
+                    const startIdx = match.index;
+                    const afterMatch = content.substring(startIdx + match[0].length);
+
+                    // 다음 섹션까지 또는 끝까지
+                    let endIdx = afterMatch.length;
+                    for (const ap of analysisPatterns) {
+                        const analysisMatch = afterMatch.match(ap);
+                        if (analysisMatch && analysisMatch.index < endIdx) {
+                            endIdx = analysisMatch.index;
+                        }
+                    }
+
+                    competency = afterMatch.substring(0, endIdx).trim();
+                    main = content.substring(0, startIdx).trim();
+                    break;
+                }
+            }
+
+            // 분석 추출
+            for (const pattern of analysisPatterns) {
+                const match = content.match(pattern);
+                if (match) {
+                    const startIdx = match.index;
+                    analysis = content.substring(startIdx + match[0].length).trim();
+
+                    // main에서 분석 부분 제거
+                    if (main.includes(content.substring(startIdx))) {
+                        main = main.substring(0, main.indexOf(content.substring(startIdx, startIdx + 20))).trim();
+                    }
+                    break;
+                }
+            }
+
+            // 역량에서 분석 부분이 포함되어 있다면 제거
+            for (const pattern of analysisPatterns) {
+                const match = competency.match(pattern);
+                if (match) {
+                    competency = competency.substring(0, match.index).trim();
+                    break;
+                }
+            }
+
+            return { main, competency, analysis };
+        }
+
         // 결과 HTML 생성
         function generateResultHTML(query, students) {
             if (students.length === 0) {
@@ -366,13 +482,36 @@
                 if (s.saeteuk && s.saeteuk.length > 0) {
                     html += `<h3>${s.final_university} 합격생</h3>`;
                     s.saeteuk.forEach(st => {
-                        const content = st.content || '';
-                        html += `
-                            <div class="saeteuk-card">
-                                <h4>${st.subject || '과목 미상'}</h4>
-                                <div class="saeteuk-content">${content}</div>
-                            </div>
-                        `;
+                        const parsed = parseSaeteukContent(st.content || '');
+
+                        html += `<div class="saeteuk-card">`;
+                        html += `<h4>${st.subject || '과목 미상'}</h4>`;
+
+                        // 역량과 분석이 있으면 상단에 눈에 띄게 표시
+                        if (parsed.competency || parsed.analysis) {
+                            html += `<div class="insight-box">`;
+                            if (parsed.competency) {
+                                html += `
+                                    <div class="competency-card">
+                                        <div class="card-label">💪 보여주고 싶은 역량</div>
+                                        <div class="card-content">${parsed.competency}</div>
+                                    </div>
+                                `;
+                            }
+                            if (parsed.analysis) {
+                                html += `
+                                    <div class="analysis-card">
+                                        <div class="card-label">🎓 합격 선배의 생기부 분석</div>
+                                        <div class="card-content">${parsed.analysis}</div>
+                                    </div>
+                                `;
+                            }
+                            html += `</div>`;
+                        }
+
+                        // 메인 세특 내용
+                        html += `<div class="saeteuk-content">${parsed.main}</div>`;
+                        html += `</div>`;
                     });
                 }
             });
