@@ -525,19 +525,20 @@
             return html;
         }
 
-        // 텍스트 처리 함수 (교정 또는 요약)
-        async function processText(text, mode = 'format') {
+        // 배치 텍스트 처리 함수 (API 호출 최소화)
+        async function processBatch(items) {
+            if (!items || items.length === 0) return {};
             try {
                 const response = await fetch('/api/format', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ text, mode })
+                    body: JSON.stringify({ items })
                 });
                 const data = await response.json();
-                return data.success ? data.result : text;
+                return data.success ? data.results : {};
             } catch (e) {
                 console.error('처리 오류:', e);
-                return text;
+                return {};
             }
         }
 
@@ -571,30 +572,70 @@
             try {
                 const results = searchStudents(query.nesin_range, query.school_type, query.major_field, query.top_k);
 
-                // 각 세특에 대해 파싱 및 AI 처리 적용
-                for (const student of results) {
+                // 먼저 모든 세특 파싱
+                const parsedMap = new Map();
+                results.forEach((student, sIdx) => {
                     if (student.saeteuk) {
-                        for (const st of student.saeteuk) {
+                        student.saeteuk.forEach((st, stIdx) => {
                             if (st.content) {
-                                // 먼저 파싱
                                 const parsed = parseSaeteukContent(st.content);
+                                const key = `${sIdx}_${stIdx}`;
+                                parsedMap.set(key, parsed);
+                                st.parsedKey = key;
+                            }
+                        });
+                    }
+                });
 
-                                // 텍스트 교정 적용
-                                if (enableFormatting && parsed.main) {
-                                    parsed.main = await processText(parsed.main, 'format');
-                                }
+                // AI 처리가 필요한 항목들 수집 (배치로 한 번에 처리)
+                if (enableFormatting || enableSummary) {
+                    const batchItems = [];
 
-                                // 분석 요약 적용
-                                if (enableSummary && parsed.analysis) {
-                                    parsed.analysis = await processText(parsed.analysis, 'summarize');
-                                }
-
-                                // 파싱된 결과 저장
-                                st.parsed = parsed;
+                    parsedMap.forEach((parsed, key) => {
+                        if (enableFormatting) {
+                            if (parsed.main) {
+                                batchItems.push({ key: `${key}_main`, text: parsed.main, mode: 'format' });
+                            }
+                            if (parsed.competency) {
+                                batchItems.push({ key: `${key}_comp`, text: parsed.competency, mode: 'format' });
+                            }
+                            if (parsed.analysis) {
+                                batchItems.push({ key: `${key}_anal_fmt`, text: parsed.analysis, mode: 'format' });
                             }
                         }
+                        if (enableSummary && parsed.analysis) {
+                            batchItems.push({ key: `${key}_anal_sum`, text: parsed.analysis, mode: 'summarize' });
+                        }
+                    });
+
+                    // 한 번의 API 호출로 처리
+                    if (batchItems.length > 0) {
+                        const batchResults = await processBatch(batchItems);
+
+                        // 결과 적용
+                        parsedMap.forEach((parsed, key) => {
+                            if (enableFormatting) {
+                                if (batchResults[`${key}_main`]) parsed.main = batchResults[`${key}_main`];
+                                if (batchResults[`${key}_comp`]) parsed.competency = batchResults[`${key}_comp`];
+                                if (batchResults[`${key}_anal_fmt`]) parsed.analysis = batchResults[`${key}_anal_fmt`];
+                            }
+                            if (enableSummary && batchResults[`${key}_anal_sum`]) {
+                                parsed.analysis = batchResults[`${key}_anal_sum`];
+                            }
+                        });
                     }
                 }
+
+                // 파싱 결과를 세특에 연결
+                results.forEach(student => {
+                    if (student.saeteuk) {
+                        student.saeteuk.forEach(st => {
+                            if (st.parsedKey) {
+                                st.parsed = parsedMap.get(st.parsedKey);
+                            }
+                        });
+                    }
+                });
 
                 const html = generateResultHTML(query, results);
                 document.getElementById('result').innerHTML = html;
