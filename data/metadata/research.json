@@ -1,0 +1,4048 @@
+[
+  {
+    "id": "research_001",
+    "student_id": "1e660251adb9",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "국어",
+    "title": "매체활용표현하기활동‘로봇세도입‘ 발표",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_032",
+    "rag_text": "탐구주제: 매체활용표현하기활동‘로봇세도입‘ 발표 | 과목: 국어 | 시기: 1-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "1e660251adb9",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "수학",
+    "title": "함수의종류및특성에따른활성화함수의분석",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_035",
+    "rag_text": "탐구주제: 함수의종류및특성에따른활성화함수의분석 | 과목: 수학 | 시기: 1-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "1e660251adb9",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "영어",
+    "title": "자유주제글쓰기‘영상특수효과와인공지능의접목‘",
+    "description": null,
+    "keywords": [
+      "인공지능"
+    ],
+    "linked_saeteuk_id": "saeteuk_033",
+    "rag_text": "탐구주제: 자유주제글쓰기‘영상특수효과와인공지능의접목‘ | 과목: 영어 | 시기: 1-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "1e660251adb9",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "진로",
+    "title": "이미지생성알고리즘차이분석",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 이미지생성알고리즘차이분석 | 과목: 진로 | 시기: 2-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "1e660251adb9",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "진로",
+    "title": "윤리적, 사회적이슈및정책적보완을중심으로한 인공지능기반비디오생성의원리와구조및적용을통한차세대매체시장분석",
+    "description": null,
+    "keywords": [
+      "인공지능",
+      "사회",
+      "정책"
+    ],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 윤리적, 사회적이슈및정책적보완을중심으로한 인공지능기반비디오생성의원리와구조및적용을통한차세대매체시장분석 | 과목: 진로 | 시기: 2-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "1e660251adb9",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "자율",
+    "title": "4차산업혁명시대의비인간화현상에대한고찰",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 4차산업혁명시대의비인간화현상에대한고찰 | 과목: 자율 | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "1e660251adb9",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "수학II",
+    "title": "인공신경망의오차역전파에대한수학적분석",
+    "description": null,
+    "keywords": [
+      "수학"
+    ],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 인공신경망의오차역전파에대한수학적분석 | 과목: 수학II | 시기: 2-2"
+  },
+  {
+    "id": "research_008",
+    "student_id": "1e660251adb9",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "알파폴드를활용한우울증치료전망에대한고찰",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 알파폴드를활용한우울증치료전망에대한고찰 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "1e660251adb9",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "교과융합",
+    "title": "AI가글로벌거버넌스와정책결정에미치는영향력및미래전망",
+    "description": null,
+    "keywords": [
+      "AI",
+      "정책",
+      "글로벌"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: AI가글로벌거버넌스와정책결정에미치는영향력및미래전망 | 과목: 교과융합 | 시기: 3-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "1e660251adb9",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "물리학II",
+    "title": "케플러법칙을활용한실시간태양계시뮬레이션제작",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": "saeteuk_050",
+    "rag_text": "탐구주제: 케플러법칙을활용한실시간태양계시뮬레이션제작 | 과목: 물리학II | 시기: 3-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "d210ee962a5d",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "세계지리",
+    "title": "러시아-우크라이나 전쟁이 세계 곡물시장에 미친 영향",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 러시아-우크라이나 전쟁이 세계 곡물시장에 미친 영향 | 과목: 세계지리 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "d210ee962a5d",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "영어독해와작문",
+    "title": "조직구성원의 조직몰입이 조직성과에 미치는 영향",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 조직구성원의 조직몰입이 조직성과에 미치는 영향 | 과목: 영어독해와작문 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "d210ee962a5d",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "영어독해와작문",
+    "title": "미국의 중국 반도체 규제가 중국뿐만 아니라 자국기업에 미치는 영향",
+    "description": null,
+    "keywords": [
+      "기업",
+      "반도체"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 미국의 중국 반도체 규제가 중국뿐만 아니라 자국기업에 미치는 영향 | 과목: 영어독해와작문 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "d210ee962a5d",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "수학과제탐구",
+    "title": "해외 조세 제도 비교를 통한 우리나라 조세 제도 개혁안",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 해외 조세 제도 비교를 통한 우리나라 조세 제도 개혁안 | 과목: 수학과제탐구 | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "d210ee962a5d",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "재무건전성을 판단하는 지표와 지표 활용을 통한 우리나라 기업의 재무건전성 악화 원인 분석",
+    "description": null,
+    "keywords": [
+      "기업"
+    ],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 재무건전성을 판단하는 지표와 지표 활용을 통한 우리나라 기업의 재무건전성 악화 원인 분석 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "d210ee962a5d",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "경제",
+    "title": "미국의 인플레이션 감축법 시행이 우리나라 산업에 미치는 영향",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 미국의 인플레이션 감축법 시행이 우리나라 산업에 미치는 영향 | 과목: 경제 | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "d210ee962a5d",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "진로",
+    "title": "기후위기에 대응하는 해외 기업과 정부의 정책 분석을 통한 우리나라 정부와 국가의 기후변화 대응 전략 추진 방향 제시",
+    "description": null,
+    "keywords": [
+      "기업",
+      "기후",
+      "정책"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 기후위기에 대응하는 해외 기업과 정부의 정책 분석을 통한 우리나라 정부와 국가의 기후변화 대응 전략 추진 방향 제시 | 과목: 진로 | 시기: 2-2"
+  },
+  {
+    "id": "research_008",
+    "student_id": "d210ee962a5d",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "독서",
+    "title": "정부의 시장 개입이 경제에 미치는 영향",
+    "description": null,
+    "keywords": [
+      "경제"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 정부의 시장 개입이 경제에 미치는 영향 | 과목: 독서 | 시기: 2-2"
+  },
+  {
+    "id": "research_009",
+    "student_id": "d210ee962a5d",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "한국사",
+    "title": "조선 후기 정부의 억상 정책이 느슨해진 틈을 이용하여 복시부기와 상업적 네트워크 이용을 통한 중계무역으로 부를 축적한 송상",
+    "description": null,
+    "keywords": [
+      "정책",
+      "무역"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 조선 후기 정부의 억상 정책이 느슨해진 틈을 이용하여 복시부기와 상업적 네트워크 이용을 통한 중계무역으로 부를 축적한 송상 | 과목: 한국사 | 시기: 1-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "d210ee962a5d",
+    "term": "1-2",
+    "grade": 1,
+    "semester": 2,
+    "subject": "통합과학",
+    "title": "원자력 발전소 대체를 위한 핵융합 에너지 발전 효율성을 높이기 위한 초전도체 개발 필요성",
+    "description": null,
+    "keywords": [
+      "에너지"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 원자력 발전소 대체를 위한 핵융합 에너지 발전 효율성을 높이기 위한 초전도체 개발 필요성 | 과목: 통합과학 | 시기: 1-2"
+  },
+  {
+    "id": "research_001",
+    "student_id": "f249549f6081",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "국어",
+    "title": "매체활용표현하기활동‘로봇세도입‘ 발표",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 매체활용표현하기활동‘로봇세도입‘ 발표 | 과목: 국어 | 시기: 1-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "f249549f6081",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "수학",
+    "title": "함수의종류및특성에따른활성화함수의분석",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 함수의종류및특성에따른활성화함수의분석 | 과목: 수학 | 시기: 1-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "f249549f6081",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "영어",
+    "title": "자유주제글쓰기‘영상특수효과와인공지능의접목‘",
+    "description": null,
+    "keywords": [
+      "인공지능"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 자유주제글쓰기‘영상특수효과와인공지능의접목‘ | 과목: 영어 | 시기: 1-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "f249549f6081",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "진로",
+    "title": "이미지생성알고리즘차이분석",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 이미지생성알고리즘차이분석 | 과목: 진로 | 시기: 2-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "f249549f6081",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "진로",
+    "title": "윤리적, 사회적이슈및정책적보완을중심으로한 인공지능기반비디오생성의원리와구조및적용을통한차세대매체시장분석",
+    "description": null,
+    "keywords": [
+      "인공지능",
+      "사회",
+      "정책"
+    ],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 윤리적, 사회적이슈및정책적보완을중심으로한 인공지능기반비디오생성의원리와구조및적용을통한차세대매체시장분석 | 과목: 진로 | 시기: 2-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "f249549f6081",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "자율",
+    "title": "4차산업혁명시대의비인간화현상에대한고찰",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 4차산업혁명시대의비인간화현상에대한고찰 | 과목: 자율 | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "f249549f6081",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "수학II",
+    "title": "인공신경망의오차역전파에대한수학적분석",
+    "description": null,
+    "keywords": [
+      "수학"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 인공신경망의오차역전파에대한수학적분석 | 과목: 수학II | 시기: 2-2"
+  },
+  {
+    "id": "research_008",
+    "student_id": "f249549f6081",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "알파폴드를활용한우울증치료전망에대한고찰",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 알파폴드를활용한우울증치료전망에대한고찰 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "f249549f6081",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "교과융합",
+    "title": "AI가글로벌거버넌스와정책결정에미치는영향력및미래전망",
+    "description": null,
+    "keywords": [
+      "AI",
+      "정책",
+      "글로벌"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: AI가글로벌거버넌스와정책결정에미치는영향력및미래전망 | 과목: 교과융합 | 시기: 3-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "f249549f6081",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "물리학II",
+    "title": "케플러법칙을활용한실시간태양계시뮬레이션제작",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 케플러법칙을활용한실시간태양계시뮬레이션제작 | 과목: 물리학II | 시기: 3-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "a9f2ae818bec",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "IB 생명과학 HL III",
+    "title": "미세먼지 환경에 노출된 세균의 제균을 위한 약품 규명",
+    "description": null,
+    "keywords": [
+      "환경"
+    ],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 미세먼지 환경에 노출된 세균의 제균을 위한 약품 규명 | 과목: IB 생명과학 HL III | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "a9f2ae818bec",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "전기가 세균 생장에 미치는 영향",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 전기가 세균 생장에 미치는 영향 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "a9f2ae818bec",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "세균의 세대별 돌연변이율 예측",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 세균의 세대별 돌연변이율 예측 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "a9f2ae818bec",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "IB 생명과학 HL III",
+    "title": "생물막 해제를 위한 항체 모델링",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 생물막 해제를 위한 항체 모델링 | 과목: IB 생명과학 HL III | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "a9f2ae818bec",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "IB 수학 분석과 접근 HL III",
+    "title": "행렬을 사용하여 복소수 계산하기",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 행렬을 사용하여 복소수 계산하기 | 과목: IB 수학 분석과 접근 HL III | 시기: 3-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "a9f2ae818bec",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "IB 생명과학 HL III",
+    "title": "유전자조작 생명체를 활용한 항암제 제안",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 유전자조작 생명체를 활용한 항암제 제안 | 과목: IB 생명과학 HL III | 시기: 2-2"
+  },
+  {
+    "id": "research_007",
+    "student_id": "a9f2ae818bec",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "수학과제 탐구",
+    "title": "하디-바인베르크 법칙의 확장",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 하디-바인베르크 법칙의 확장 | 과목: 수학과제 탐구 | 시기: 2-2"
+  },
+  {
+    "id": "research_008",
+    "student_id": "a9f2ae818bec",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "IB 수학 HL III",
+    "title": "인체 내 약물의 농도 변화 연구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 인체 내 약물의 농도 변화 연구 | 과목: IB 수학 HL III | 시기: 2-2"
+  },
+  {
+    "id": "research_009",
+    "student_id": "a9f2ae818bec",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "수학",
+    "title": "종이접기를 활용한 방정식의 근 찾기",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 종이접기를 활용한 방정식의 근 찾기 | 과목: 수학 | 시기: 2-2"
+  },
+  {
+    "id": "research_010",
+    "student_id": "a9f2ae818bec",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "국어",
+    "title": "구조적 특징이 의미 형성에 끼치는 영향",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 구조적 특징이 의미 형성에 끼치는 영향 | 과목: 국어 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "2f2df1e3199c",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "자율",
+    "title": "논리회로를 활용한 디코더 시뮬레이션",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 논리회로를 활용한 디코더 시뮬레이션 | 과목: 자율 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "2f2df1e3199c",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "전기장에 따른 점전하의 이동경로를 수학적으로 나타내기(문제제작)",
+    "description": null,
+    "keywords": [
+      "수학"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 전기장에 따른 점전하의 이동경로를 수학적으로 나타내기(문제제작) | 과목: 동아리 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "2f2df1e3199c",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "동아리",
+    "title": "수직 다관절 로봇팔 제작",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 수직 다관절 로봇팔 제작 | 과목: 동아리 | 시기: 2-2"
+  },
+  {
+    "id": "research_004",
+    "student_id": "2f2df1e3199c",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "폰노이만 구조와 차세대 반도체 관점 비교(도서 2권)",
+    "description": null,
+    "keywords": [
+      "반도체"
+    ],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 폰노이만 구조와 차세대 반도체 관점 비교(도서 2권) | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "2f2df1e3199c",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "수학2",
+    "title": "미적분을 이용한 회로 소자의 이해",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 미적분을 이용한 회로 소자의 이해 | 과목: 수학2 | 시기: 2-2"
+  },
+  {
+    "id": "research_006",
+    "student_id": "2f2df1e3199c",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "수학1",
+    "title": "복소지수함수와 오일러 공식을 활용한 위상자의 이해",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 복소지수함수와 오일러 공식을 활용한 위상자의 이해 | 과목: 수학1 | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "2f2df1e3199c",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "물리학1",
+    "title": "공진회로를 이용한 통신의 이해 및 무선통신의 진화 과정",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 공진회로를 이용한 통신의 이해 및 무선통신의 진화 과정 | 과목: 물리학1 | 시기: 2-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "2f2df1e3199c",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "과학과제연구",
+    "title": "모스펫과 바이폴라 트랜지스터의 비교 우위 비교 실험",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 모스펫과 바이폴라 트랜지스터의 비교 우위 비교 실험 | 과목: 과학과제연구 | 시기: 2-2"
+  },
+  {
+    "id": "research_009",
+    "student_id": "2f2df1e3199c",
+    "term": "1-2",
+    "grade": 1,
+    "semester": 2,
+    "subject": "수학",
+    "title": "집합과 명제를 활용한 논리회로의 이해",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 집합과 명제를 활용한 논리회로의 이해 | 과목: 수학 | 시기: 1-2"
+  },
+  {
+    "id": "research_010",
+    "student_id": "2f2df1e3199c",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "통합과학",
+    "title": "반도체란? 소자의 종류와 제작 과정의 이해",
+    "description": null,
+    "keywords": [
+      "반도체"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 반도체란? 소자의 종류와 제작 과정의 이해 | 과목: 통합과학 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "f4e8d9268a81",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "생명과학II",
+    "title": "오페론의 음성 피드백 미분 방정식을 파이썬으로 모델링 후 모의 실험",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 오페론의 음성 피드백 미분 방정식을 파이썬으로 모델링 후 모의 실험 | 과목: 생명과학II | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "f4e8d9268a81",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "물리학II",
+    "title": "선형 연립 방정식 계산이라는 CT의 원리 이해와 이를 파이썬으로 구현 후 환자 모의 진단",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 선형 연립 방정식 계산이라는 CT의 원리 이해와 이를 파이썬으로 구현 후 환자 모의 진단 | 과목: 물리학II | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "f4e8d9268a81",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "자율",
+    "title": "지역별 고독사 통계 분석(상관 분석, 회귀 분석)",
+    "description": null,
+    "keywords": [
+      "통계"
+    ],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 지역별 고독사 통계 분석(상관 분석, 회귀 분석) | 과목: 자율 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "f4e8d9268a81",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "생물정보학 툴을 이용한 미생물 동정 과제 한효소 전기영동 실험",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 생물정보학 툴을 이용한 미생물 동정 과제 한효소 전기영동 실험 | 과목: 동아리 | 시기: 2-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "f4e8d9268a81",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "생명과학I",
+    "title": "선천성 면역 항암제 개발 제안서",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 선천성 면역 항암제 개발 제안서 | 과목: 생명과학I | 시기: 2-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "f4e8d9268a81",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "개세특",
+    "title": "인간 이타적 행동의 진화론, 게임이론적 분석과 이를 협력적 학급 분위기 형성에 적용",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 인간 이타적 행동의 진화론, 게임이론적 분석과 이를 협력적 학급 분위기 형성에 적용 | 과목: 개세특 | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "f4e8d9268a81",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "진로",
+    "title": "후성유전학 교수님과의 면담/ 그 후 히스톤 아세틸화제의 항암제로서의 효과 조사",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 후성유전학 교수님과의 면담/ 그 후 히스톤 아세틸화제의 항암제로서의 효과 조사 | 과목: 진로 | 시기: 2-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "f4e8d9268a81",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "진로",
+    "title": "혈액종양내과 교수님과의 면담/ 그 후 2,3세대 항암제 추가 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 혈액종양내과 교수님과의 면담/ 그 후 2,3세대 항암제 추가 탐구 | 과목: 진로 | 시기: 1-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "f4e8d9268a81",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "개세특",
+    "title": "지역 내 재활용 섬유 기업과 협력하여 학급 내 PET병 재활용 및 캠페인 진행",
+    "description": null,
+    "keywords": [
+      "기업"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 지역 내 재활용 섬유 기업과 협력하여 학급 내 PET병 재활용 및 캠페인 진행 | 과목: 개세특 | 시기: 1-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "f4e8d9268a81",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "국어",
+    "title": "춘향전 이본 간 차이 연구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 춘향전 이본 간 차이 연구 | 과목: 국어 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "22d533a791b1",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "자율",
+    "title": "AI를 활용한 학급 인적자원 관리 시스템 개발 및 활용 방안을 탐구 & 챗봇 제작하기",
+    "description": null,
+    "keywords": [
+      "AI"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: AI를 활용한 학급 인적자원 관리 시스템 개발 및 활용 방안을 탐구 & 챗봇 제작하기 | 과목: 자율 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "22d533a791b1",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "조직 내 유연근무제 시행을 위한 배정 프로그램의 개발과 평가",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 조직 내 유연근무제 시행을 위한 배정 프로그램의 개발과 평가 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "22d533a791b1",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "현대세계의변화",
+    "title": "학급반장의 변혁적 리더십과 학급 내 학생들의 학교생활 만족도의 상관관계에 대한 연구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 학급반장의 변혁적 리더십과 학급 내 학생들의 학교생활 만족도의 상관관계에 대한 연구 | 과목: 현대세계의변화 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "22d533a791b1",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "확률과통계",
+    "title": "학급 리더십 역량에 대한 표본 분석 및 모집단 추정에 대한 연구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 학급 리더십 역량에 대한 표본 분석 및 모집단 추정에 대한 연구 | 과목: 확률과통계 | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "22d533a791b1",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "동아리",
+    "title": "보육원에 수익금 및 물품 전달을 위한 교내 바자회 사업 기획 & 진행",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 보육원에 수익금 및 물품 전달을 위한 교내 바자회 사업 기획 & 진행 | 과목: 동아리 | 시기: 2-2"
+  },
+  {
+    "id": "research_006",
+    "student_id": "22d533a791b1",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "진로",
+    "title": "하우스 목표-경로 리더십 이론을 활용한 심리 테스트 제작하기",
+    "description": null,
+    "keywords": [
+      "심리"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 하우스 목표-경로 리더십 이론을 활용한 심리 테스트 제작하기 | 과목: 진로 | 시기: 2-2"
+  },
+  {
+    "id": "research_007",
+    "student_id": "22d533a791b1",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "사회문화",
+    "title": "기업의 사회적 책임 유형이 기업 선호도에 미치는 영향에 대한 사회문화 현상 연구 진행",
+    "description": null,
+    "keywords": [
+      "기업",
+      "사회"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 기업의 사회적 책임 유형이 기업 선호도에 미치는 영향에 대한 사회문화 현상 연구 진행 | 과목: 사회문화 | 시기: 2-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "22d533a791b1",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "화법과작문",
+    "title": "켈리의 공변 모형과 귀인이론이 조직 행동에 미치는 영향에 대한 설문 조사",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 켈리의 공변 모형과 귀인이론이 조직 행동에 미치는 영향에 대한 설문 조사 | 과목: 화법과작문 | 시기: 3-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "22d533a791b1",
+    "term": "1-2",
+    "grade": 1,
+    "semester": 2,
+    "subject": "자율",
+    "title": "1인 브랜딩 프로젝트– 앱 개발 기획을 기반으로 한 모의 창업",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 1인 브랜딩 프로젝트– 앱 개발 기획을 기반으로 한 모의 창업 | 과목: 자율 | 시기: 1-2"
+  },
+  {
+    "id": "research_010",
+    "student_id": "22d533a791b1",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "도서 ‘그릿(엔젤라 더크워스)’을 활용한 교내 도서부 조직 설계 및 평가",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 도서 ‘그릿(엔젤라 더크워스)’을 활용한 교내 도서부 조직 설계 및 평가 | 과목: 동아리 | 시기: 3-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "27955c205b64",
+    "term": "3학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "화학II",
+    "title": "타이레놀합성실험과 TLC 분석",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 타이레놀합성실험과 TLC 분석 | 과목: 화학II | 시기: 3학년"
+  },
+  {
+    "id": "research_002",
+    "student_id": "27955c205b64",
+    "term": "3학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "진로",
+    "title": "유당분해기술과 대체유제품의 혁신적 발전",
+    "description": null,
+    "keywords": [
+      "기술"
+    ],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 유당분해기술과 대체유제품의 혁신적 발전 | 과목: 진로 | 시기: 3학년"
+  },
+  {
+    "id": "research_003",
+    "student_id": "27955c205b64",
+    "term": "3학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "생명과학II",
+    "title": "항암리포솜치료제 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 항암리포솜치료제 탐구 | 과목: 생명과학II | 시기: 3학년"
+  },
+  {
+    "id": "research_004",
+    "student_id": "27955c205b64",
+    "term": "3학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "화학II",
+    "title": "약물의 산해리상수에 따른 흡수방법의 차이 탐구",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 약물의 산해리상수에 따른 흡수방법의 차이 탐구 | 과목: 화학II | 시기: 3학년"
+  },
+  {
+    "id": "research_005",
+    "student_id": "27955c205b64",
+    "term": "2학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "진로",
+    "title": "세균배양과 항생제 감수성 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 세균배양과 항생제 감수성 탐구 | 과목: 진로 | 시기: 2학년"
+  },
+  {
+    "id": "research_006",
+    "student_id": "27955c205b64",
+    "term": "2학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "문학",
+    "title": "이상소설 ‘날개’ 속 주인공의 정신세계 분석",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 이상소설 ‘날개’ 속 주인공의 정신세계 분석 | 과목: 문학 | 시기: 2학년"
+  },
+  {
+    "id": "research_007",
+    "student_id": "27955c205b64",
+    "term": "1학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "국어",
+    "title": "낙태법 폐지를 주제로 한 반대신문식 토론",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 낙태법 폐지를 주제로 한 반대신문식 토론 | 과목: 국어 | 시기: 1학년"
+  },
+  {
+    "id": "research_008",
+    "student_id": "27955c205b64",
+    "term": "1학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "수학",
+    "title": "DNA의 전사 과정에서 찾아보는 함수",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: DNA의 전사 과정에서 찾아보는 함수 | 과목: 수학 | 시기: 1학년"
+  },
+  {
+    "id": "research_009",
+    "student_id": "27955c205b64",
+    "term": "1학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "영어",
+    "title": "미세먼지와 암과의 상관관계에 대한 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 미세먼지와 암과의 상관관계에 대한 탐구 | 과목: 영어 | 시기: 1학년"
+  },
+  {
+    "id": "research_010",
+    "student_id": "27955c205b64",
+    "term": "1학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "한국사",
+    "title": "을미개혁에서 실시된 종두법에 대한 탐구",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 을미개혁에서 실시된 종두법에 대한 탐구 | 과목: 한국사 | 시기: 1학년"
+  },
+  {
+    "id": "research_001",
+    "student_id": "db815b1b5080",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "미적분",
+    "title": "만유인력장 하에서의 최속강하곡선",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 만유인력장 하에서의 최속강하곡선 | 과목: 미적분 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "db815b1b5080",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "수학과제탐구",
+    "title": "지수의 행렬로의 확장을 통한 선형연립미분방정식 풀이",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 지수의 행렬로의 확장을 통한 선형연립미분방정식 풀이 | 과목: 수학과제탐구 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "db815b1b5080",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "수업량유연화",
+    "title": "이상기체 상태방정식의 이론적 증명 및 실험적 검증",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 이상기체 상태방정식의 이론적 증명 및 실험적 검증 | 과목: 수업량유연화 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "db815b1b5080",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "자성의 근원에 대하여 - 미시적 관점에서의 논의와 시뮬레이션을 통한 시각화",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 자성의 근원에 대하여 - 미시적 관점에서의 논의와 시뮬레이션을 통한 시각화 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "db815b1b5080",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "자율",
+    "title": "중심력장, 특히 만유인력장 하에서의 두 물체의 운동",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 중심력장, 특히 만유인력장 하에서의 두 물체의 운동 | 과목: 자율 | 시기: 2-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "db815b1b5080",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "자율",
+    "title": "공기저항을 고려한 균일한 중력장 하에서의 포물선 운동 분석 및 시뮬레이션",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 공기저항을 고려한 균일한 중력장 하에서의 포물선 운동 분석 및 시뮬레이션 | 과목: 자율 | 시기: 2-2"
+  },
+  {
+    "id": "research_007",
+    "student_id": "db815b1b5080",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "진로",
+    "title": "레일건과 코일건을 주제로 한 수학과학 축전 부스 운영 팀장",
+    "description": null,
+    "keywords": [
+      "수학",
+      "과학"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 레일건과 코일건을 주제로 한 수학과학 축전 부스 운영 팀장 | 과목: 진로 | 시기: 2-2"
+  },
+  {
+    "id": "research_008",
+    "student_id": "db815b1b5080",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "진로",
+    "title": "삼체문제에 대한 탐구 - 라그랑주점을 중점으로",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 삼체문제에 대한 탐구 - 라그랑주점을 중점으로 | 과목: 진로 | 시기: 2-2"
+  },
+  {
+    "id": "research_009",
+    "student_id": "db815b1b5080",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "용수철의 단진동 운동의 이론값과 실제값 비교 연구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 용수철의 단진동 운동의 이론값과 실제값 비교 연구 | 과목: 동아리 | 시기: 3-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "db815b1b5080",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "개곡면에서의 전자기 유도의 발생 유무와 정도",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 개곡면에서의 전자기 유도의 발생 유무와 정도 | 과목: 동아리 | 시기: 3-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "25f37ba836aa",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "중국문화",
+    "title": "중국의 정치관행 변화에 따른 앞으로의 전망",
+    "description": null,
+    "keywords": [
+      "정치"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 중국의 정치관행 변화에 따른 앞으로의 전망 | 과목: 중국문화 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "25f37ba836aa",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "사회문제탐구",
+    "title": "미중 패권전쟁과 한국의 외교 방향성",
+    "description": null,
+    "keywords": [
+      "외교"
+    ],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 미중 패권전쟁과 한국의 외교 방향성 | 과목: 사회문제탐구 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "25f37ba836aa",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "학교자율과정",
+    "title": "탄소배출권 거래를 통한 자원외교 정책 수립",
+    "description": null,
+    "keywords": [
+      "탄소",
+      "외교",
+      "정책"
+    ],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 탄소배출권 거래를 통한 자원외교 정책 수립 | 과목: 학교자율과정 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "25f37ba836aa",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아시아사",
+    "title": "동아시아 국가들의 영토 분쟁 및 해결 방안",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 동아시아 국가들의 영토 분쟁 및 해결 방안 | 과목: 동아시아사 | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "25f37ba836aa",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "독서",
+    "title": "환경 거버넌스와 국제 환경 논의로의 연관",
+    "description": null,
+    "keywords": [
+      "환경"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 환경 거버넌스와 국제 환경 논의로의 연관 | 과목: 독서 | 시기: 3-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "25f37ba836aa",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "국가 운영 형태와 선거 제도 간의 관계 비교 분석",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 국가 운영 형태와 선거 제도 간의 관계 비교 분석 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "25f37ba836aa",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "세계지리",
+    "title": "GATT에서 WTO로의 무역체제 변화에 경제 블록이 끼친 영향",
+    "description": null,
+    "keywords": [
+      "경제",
+      "무역"
+    ],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: GATT에서 WTO로의 무역체제 변화에 경제 블록이 끼친 영향 | 과목: 세계지리 | 시기: 2-2"
+  },
+  {
+    "id": "research_008",
+    "student_id": "25f37ba836aa",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "진로",
+    "title": "세계 패권의 역사와 전망",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 세계 패권의 역사와 전망 | 과목: 진로 | 시기: 2-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "25f37ba836aa",
+    "term": "1-2",
+    "grade": 1,
+    "semester": 2,
+    "subject": "한국사",
+    "title": "독재의 유무를 중심으로 한국 대통령 선거제와 미국 대통령 선거제의 비교",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 독재의 유무를 중심으로 한국 대통령 선거제와 미국 대통령 선거제의 비교 | 과목: 한국사 | 시기: 1-2"
+  },
+  {
+    "id": "research_010",
+    "student_id": "25f37ba836aa",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "통합과학",
+    "title": "우리나라와 다른 국가의 에너지 정책 비교",
+    "description": null,
+    "keywords": [
+      "에너지",
+      "정책"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 우리나라와 다른 국가의 에너지 정책 비교 | 과목: 통합과학 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "a37d8112d64b",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "진로",
+    "title": "학급내언론정보부부장으로활동하면서학급게시판활성화",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 학급내언론정보부부장으로활동하면서학급게시판활성화 | 과목: 진로 | 시기: 2-2"
+  },
+  {
+    "id": "research_002",
+    "student_id": "a37d8112d64b",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "자율",
+    "title": "위안부관련소모임‘한바른‘을만들어활동",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 위안부관련소모임‘한바른‘을만들어활동 | 과목: 자율 | 시기: 2-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "a37d8112d64b",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "확률과통계",
+    "title": "‘심리학’ 교과에서배운‘페르소나’개념과MBTI의상관관계를T-테스트를적용하여분석",
+    "description": null,
+    "keywords": [
+      "심리"
+    ],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: ‘심리학’ 교과에서배운‘페르소나’개념과MBTI의상관관계를T-테스트를적용하여분석 | 과목: 확률과통계 | 시기: 2-2"
+  },
+  {
+    "id": "research_004",
+    "student_id": "a37d8112d64b",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "세계사",
+    "title": "발표– ‘헬레니즘시대개인주의가부각된이유와오늘날의모습에서의유사성’",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 발표– ‘헬레니즘시대개인주의가부각된이유와오늘날의모습에서의유사성’ | 과목: 세계사 | 시기: 2-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "a37d8112d64b",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "정치와법",
+    "title": "‘인간의존엄과가치’라는포괄적권리에주목하여‘혐오와차별전문시정기구‘ 를창안",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: ‘인간의존엄과가치’라는포괄적권리에주목하여‘혐오와차별전문시정기구‘ 를창안 | 과목: 정치와법 | 시기: 2-2"
+  },
+  {
+    "id": "research_006",
+    "student_id": "a37d8112d64b",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "사회과제연구",
+    "title": "다양한사회구성원의태도를통해언론의신뢰성확보와정보전달과정의방법고안",
+    "description": null,
+    "keywords": [
+      "사회",
+      "법"
+    ],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 다양한사회구성원의태도를통해언론의신뢰성확보와정보전달과정의방법고안 | 과목: 사회과제연구 | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "a37d8112d64b",
+    "term": "3-2",
+    "grade": 3,
+    "semester": 2,
+    "subject": "개인별세부입력",
+    "title": "칼세이건의‘창백한푸른별‘ 을읽고, 천문학과철학을결합한‘우주철학’의방면을탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 칼세이건의‘창백한푸른별‘ 을읽고, 천문학과철학을결합한‘우주철학’의방면을탐구 | 과목: 개인별세부입력 | 시기: 3-2"
+  },
+  {
+    "id": "research_008",
+    "student_id": "a37d8112d64b",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "독서",
+    "title": "2학년‘사회과제연구‘ 의심화탐구로‘유인가‘ 중‘위협소구‘ 및‘매스커뮤니케이션이론‘ 탐구",
+    "description": null,
+    "keywords": [
+      "사회"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 2학년‘사회과제연구‘ 의심화탐구로‘유인가‘ 중‘위협소구‘ 및‘매스커뮤니케이션이론‘ 탐구 | 과목: 독서 | 시기: 3-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "a37d8112d64b",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로와직업",
+    "title": "은둔형외톨이에관한사회복지제도의개선필요성탐구진행및교내학생복지로확장",
+    "description": null,
+    "keywords": [
+      "사회",
+      "복지"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 은둔형외톨이에관한사회복지제도의개선필요성탐구진행및교내학생복지로확장 | 과목: 진로와직업 | 시기: 3-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "a37d8112d64b",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "자율",
+    "title": "영화‘플로리다프로젝트‘를통해미디어의‘가난포르노‘ 분석및획일적복지의단점탐구",
+    "description": null,
+    "keywords": [
+      "복지"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 영화‘플로리다프로젝트‘를통해미디어의‘가난포르노‘ 분석및획일적복지의단점탐구 | 과목: 자율 | 시기: 3-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "4278860980ab",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "창의융합",
+    "title": "비타민C 음료가 충치에 미치는 영향 탐구 실험",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 비타민C 음료가 충치에 미치는 영향 탐구 실험 | 과목: 창의융합 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "4278860980ab",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "언어와매체",
+    "title": "스피노자 철학 기반 코나투스 인지 치료 프로토콜 제작",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 스피노자 철학 기반 코나투스 인지 치료 프로토콜 제작 | 과목: 언어와매체 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "4278860980ab",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "생명과학2",
+    "title": "박테리오신 ‘니신’이 충치에 미치는 영향 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 박테리오신 ‘니신’이 충치에 미치는 영향 탐구 | 과목: 생명과학2 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "4278860980ab",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "진로",
+    "title": "로고테라피 기반 마약중독 회복 치료 로봇 ‘RAMI’ 제작",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 로고테라피 기반 마약중독 회복 치료 로봇 ‘RAMI’ 제작 | 과목: 진로 | 시기: 2-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "4278860980ab",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "펜톤 반응 활용한 치아 미백 약물 제작",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 펜톤 반응 활용한 치아 미백 약물 제작 | 과목: 동아리 | 시기: 2-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "4278860980ab",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "공학일반",
+    "title": "마약 단속 건수와 OTT 시장 활성화 간 상관관계 분석",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 마약 단속 건수와 OTT 시장 활성화 간 상관관계 분석 | 과목: 공학일반 | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "4278860980ab",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "통합과학",
+    "title": "아이오딘 역적정 활용한 카페인 농도 측정",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 아이오딘 역적정 활용한 카페인 농도 측정 | 과목: 통합과학 | 시기: 1-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "4278860980ab",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "수학",
+    "title": "드레이크 방정식 변형을 통한 국내 지역별 코로나 환자 보균자 지수 제작",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 드레이크 방정식 변형을 통한 국내 지역별 코로나 환자 보균자 지수 제작 | 과목: 수학 | 시기: 1-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "4278860980ab",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "정보",
+    "title": "아두이노 활용 스마트 저금통 제작",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 아두이노 활용 스마트 저금통 제작 | 과목: 정보 | 시기: 1-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "4278860980ab",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "한국사",
+    "title": "OO 제약의 기업사를 통해 탐구한 제약 기업의 사회적 책임",
+    "description": null,
+    "keywords": [
+      "기업",
+      "사회"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: OO 제약의 기업사를 통해 탐구한 제약 기업의 사회적 책임 | 과목: 한국사 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "36e9cb349283",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "독서",
+    "title": "'플로지스톤설은 과연 엉터리일까?'를 주제로 과학사와 패러다임에 대해 설명하는 인포그래픽 제작",
+    "description": null,
+    "keywords": [
+      "과학"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: '플로지스톤설은 과연 엉터리일까?'를 주제로 과학사와 패러다임에 대해 설명하는 인포그래픽 제작 | 과목: 독서 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "36e9cb349283",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "미적분",
+    "title": "진로 관련 수학 탐구 주제로 '미적분을 이용해 정역학 방정식 이해하기' 선정하여 탐구 발표",
+    "description": null,
+    "keywords": [
+      "수학"
+    ],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 진로 관련 수학 탐구 주제로 '미적분을 이용해 정역학 방정식 이해하기' 선정하여 탐구 발표 | 과목: 미적분 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "36e9cb349283",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "미적분",
+    "title": "미적분 독서활동 '커피와 바다' 읽고 전향력에 대해 삼각함수와 미분을 이용해 전향력이 존재함을 증명하기",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 미적분 독서활동 '커피와 바다' 읽고 전향력에 대해 삼각함수와 미분을 이용해 전향력이 존재함을 증명하기 | 과목: 미적분 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "36e9cb349283",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "지구과학1",
+    "title": "컴퓨터 그리딩 시스템을 이용한 기후변화 예측 모델에 직접 참여해보기",
+    "description": null,
+    "keywords": [
+      "기후"
+    ],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 컴퓨터 그리딩 시스템을 이용한 기후변화 예측 모델에 직접 참여해보기 | 과목: 지구과학1 | 시기: 2-2"
+  },
+  {
+    "id": "research_005",
+    "student_id": "36e9cb349283",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "자율",
+    "title": "수치예보모델에 대해서 왜 기상예측이 불완전할 수밖에 없는지 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 수치예보모델에 대해서 왜 기상예측이 불완전할 수밖에 없는지 탐구 | 과목: 자율 | 시기: 2-2"
+  },
+  {
+    "id": "research_006",
+    "student_id": "36e9cb349283",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "화학1",
+    "title": "염화불화탄소(CFC)가 오존층을 파괴하는 기작에 대해 조사",
+    "description": null,
+    "keywords": [
+      "탄소"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 염화불화탄소(CFC)가 오존층을 파괴하는 기작에 대해 조사 | 과목: 화학1 | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "36e9cb349283",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "언어와매체",
+    "title": "매체에서 과학정보가 어떻게 다루어지고 있는지, 어떻게 다루어져야 할지 탐구",
+    "description": null,
+    "keywords": [
+      "과학"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 매체에서 과학정보가 어떻게 다루어지고 있는지, 어떻게 다루어져야 할지 탐구 | 과목: 언어와매체 | 시기: 2-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "36e9cb349283",
+    "term": "1-2",
+    "grade": 1,
+    "semester": 2,
+    "subject": "국어",
+    "title": "실제 태풍 사례를 중심으로 해양학과 기후변화에 대해 조사 발표",
+    "description": null,
+    "keywords": [
+      "기후"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 실제 태풍 사례를 중심으로 해양학과 기후변화에 대해 조사 발표 | 과목: 국어 | 시기: 1-2"
+  },
+  {
+    "id": "research_009",
+    "student_id": "36e9cb349283",
+    "term": "1-2",
+    "grade": 1,
+    "semester": 2,
+    "subject": "자율",
+    "title": "갯벌과 환경이라는 주제에서 소주제 경제적 가치, 환경적 가치, 생태적 가치로 나누어 탐구 발표",
+    "description": null,
+    "keywords": [
+      "경제",
+      "환경"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 갯벌과 환경이라는 주제에서 소주제 경제적 가치, 환경적 가치, 생태적 가치로 나누어 탐구 발표 | 과목: 자율 | 시기: 1-2"
+  },
+  {
+    "id": "research_010",
+    "student_id": "36e9cb349283",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "영어",
+    "title": "극지과학과 관련된 책을 읽고 원격탐사 기술에 관해 영어로 에세이 쓰기",
+    "description": null,
+    "keywords": [
+      "과학",
+      "기술"
+    ],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 극지과학과 관련된 책을 읽고 원격탐사 기술에 관해 영어로 에세이 쓰기 | 과목: 영어 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "5f2ba82cf3ab",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "천연항생제의 항균효과 실험 결과 고찰 및 재실험 - 계피와 레몬의 항균효과를 중심으로",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 천연항생제의 항균효과 실험 결과 고찰 및 재실험 - 계피와 레몬의 항균효과를 중심으로 | 과목: 동아리 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "5f2ba82cf3ab",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "안드로겐 호르몬의 단백 동화 작용 및 스테로이드의 위험성",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 안드로겐 호르몬의 단백 동화 작용 및 스테로이드의 위험성 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "5f2ba82cf3ab",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "음악감상과비평",
+    "title": "음악치료를 통한 치매 증상 지연의 실질적 효과",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 음악치료를 통한 치매 증상 지연의 실질적 효과 | 과목: 음악감상과비평 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "5f2ba82cf3ab",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "확률과통계",
+    "title": "t분포와 t-test를 이용한 비타민 복용과 학습 효과의 연관성 파악",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: t분포와 t-test를 이용한 비타민 복용과 학습 효과의 연관성 파악 | 과목: 확률과통계 | 시기: 2-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "5f2ba82cf3ab",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "진로",
+    "title": "나일론 중합 과정 및 라디칼 중합을 이용한 세포 캡슐화 연구 고찰",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 나일론 중합 과정 및 라디칼 중합을 이용한 세포 캡슐화 연구 고찰 | 과목: 진로 | 시기: 2-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "5f2ba82cf3ab",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "화학1",
+    "title": "가수분해 사료의 알레르기 반응 완화 효과 - 가수분해 사료의 원리 및 문제점을 중심으로",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 가수분해 사료의 알레르기 반응 완화 효과 - 가수분해 사료의 원리 및 문제점을 중심으로 | 과목: 화학1 | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "5f2ba82cf3ab",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "생명과학1",
+    "title": "B세포의 분화 과정",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: B세포의 분화 과정 | 과목: 생명과학1 | 시기: 2-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "5f2ba82cf3ab",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "진로",
+    "title": "혈액 도핑과 EPO의 신체 내 작용 원리 및 부작용에 대한 고찰",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 혈액 도핑과 EPO의 신체 내 작용 원리 및 부작용에 대한 고찰 | 과목: 진로 | 시기: 2-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "5f2ba82cf3ab",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "진로",
+    "title": "항생제와 다제내성균 - 항생제 감수성 탐구 및 다제내성균 감염병 예방책 고안",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 항생제와 다제내성균 - 항생제 감수성 탐구 및 다제내성균 감염병 예방책 고안 | 과목: 진로 | 시기: 1-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "5f2ba82cf3ab",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "수학",
+    "title": "감염병 예측 수리 모델",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 감염병 예측 수리 모델 | 과목: 수학 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "ae45a1c0c510",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "과학과제연구",
+    "title": "캐플러제1,2 법칙증명이해및극방정식을이용한제2법칙증명시도",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 캐플러제1,2 법칙증명이해및극방정식을이용한제2법칙증명시도 | 과목: 과학과제연구 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "ae45a1c0c510",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "화학2",
+    "title": "구분구적법의아이디어를이용한원자모형을통해계산하는편극의확률",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 구분구적법의아이디어를이용한원자모형을통해계산하는편극의확률 | 과목: 화학2 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "ae45a1c0c510",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "확률과통계",
+    "title": "심슨지수탐구(수능특강독서오류발견), 가우스적분의계산방법탐구",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 심슨지수탐구(수능특강독서오류발견), 가우스적분의계산방법탐구 | 과목: 확률과통계 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "ae45a1c0c510",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "미적분",
+    "title": "푸리에변환을이용한악기소리의파형분석및지오지브라를통한확인시도",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 푸리에변환을이용한악기소리의파형분석및지오지브라를통한확인시도 | 과목: 미적분 | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "ae45a1c0c510",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "경제",
+    "title": "3개이상의변수를가진효용함수의무차별곡선의개형및의미탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 3개이상의변수를가진효용함수의무차별곡선의개형및의미탐구 | 과목: 경제 | 시기: 2-2"
+  },
+  {
+    "id": "research_006",
+    "student_id": "ae45a1c0c510",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "고급수학1",
+    "title": "행렬의대각화를통한이차곡선의종류판별식도출",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 행렬의대각화를통한이차곡선의종류판별식도출 | 과목: 고급수학1 | 시기: 2-2"
+  },
+  {
+    "id": "research_007",
+    "student_id": "ae45a1c0c510",
+    "term": "2",
+    "grade": 0,
+    "semester": 0,
+    "subject": "자율",
+    "title": "지오지브라를이용한피타고라스음계의수학적고찰",
+    "description": null,
+    "keywords": [
+      "수학"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 지오지브라를이용한피타고라스음계의수학적고찰 | 과목: 자율 | 시기: 2"
+  },
+  {
+    "id": "research_008",
+    "student_id": "ae45a1c0c510",
+    "term": "2",
+    "grade": 0,
+    "semester": 0,
+    "subject": "진로",
+    "title": "수학과교수와의인터뷰를통해탐구한수학의즐거움",
+    "description": null,
+    "keywords": [
+      "수학"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 수학과교수와의인터뷰를통해탐구한수학의즐거움 | 과목: 진로 | 시기: 2"
+  },
+  {
+    "id": "research_009",
+    "student_id": "ae45a1c0c510",
+    "term": "2",
+    "grade": 0,
+    "semester": 0,
+    "subject": "자율",
+    "title": "다익스트라알고리즘을이용한학교내동선간편화및추천프로그램고안",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 다익스트라알고리즘을이용한학교내동선간편화및추천프로그램고안 | 과목: 자율 | 시기: 2"
+  },
+  {
+    "id": "research_010",
+    "student_id": "ae45a1c0c510",
+    "term": "1 ~ 3",
+    "grade": 0,
+    "semester": 0,
+    "subject": "동아리, 자율",
+    "title": "각학년때가장관심있던주제를이용한통계포스터제작",
+    "description": null,
+    "keywords": [
+      "통계"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 각학년때가장관심있던주제를이용한통계포스터제작 | 과목: 동아리, 자율 | 시기: 1 ~ 3"
+  },
+  {
+    "id": "research_001",
+    "student_id": "0e205924dadb",
+    "term": "1-2",
+    "grade": 1,
+    "semester": 2,
+    "subject": "수학",
+    "title": "로렌츠곡선과 지니계수의 유리함수를 바탕으로 한 수학적 해석",
+    "description": null,
+    "keywords": [
+      "수학"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 로렌츠곡선과 지니계수의 유리함수를 바탕으로 한 수학적 해석 | 과목: 수학 | 시기: 1-2"
+  },
+  {
+    "id": "research_002",
+    "student_id": "0e205924dadb",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "학교 주변 도로 교통 현황 조사 및 문제 해결",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_006",
+    "rag_text": "탐구주제: 학교 주변 도로 교통 현황 조사 및 문제 해결 | 과목: 동아리 | 시기: 2-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "0e205924dadb",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "지구과학I",
+    "title": "후쿠시마 오염수 방류가 미칠 영향에 대한 분석",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_007",
+    "rag_text": "탐구주제: 후쿠시마 오염수 방류가 미칠 영향에 대한 분석 | 과목: 지구과학I | 시기: 2-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "0e205924dadb",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "윤리와사상",
+    "title": "소크라테스식 질문법을 통해 바라본 청년 세대의 인식",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 소크라테스식 질문법을 통해 바라본 청년 세대의 인식 | 과목: 윤리와사상 | 시기: 2-2"
+  },
+  {
+    "id": "research_005",
+    "student_id": "0e205924dadb",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "급식시간 질서 혼잡 문제 실태 조사 및 개선 방안",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 급식시간 질서 혼잡 문제 실태 조사 및 개선 방안 | 과목: 동아리 | 시기: 3-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "0e205924dadb",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "화법과작문",
+    "title": "‘급식실 카드 인식 입장 시스템 전교생 대상 시행’ 건의문",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: ‘급식실 카드 인식 입장 시스템 전교생 대상 시행’ 건의문 | 과목: 화법과작문 | 시기: 3-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "0e205924dadb",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "확률과통계",
+    "title": "통계를 통해 해석한 미국 대선 여론 조사 및 그 함의",
+    "description": null,
+    "keywords": [
+      "통계"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 통계를 통해 해석한 미국 대선 여론 조사 및 그 함의 | 과목: 확률과통계 | 시기: 3-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "0e205924dadb",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "사회문화",
+    "title": "우리 지역의 불균형 발전에 관한 심화 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_009",
+    "rag_text": "탐구주제: 우리 지역의 불균형 발전에 관한 심화 탐구 | 과목: 사회문화 | 시기: 3-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "0e205924dadb",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "중국문화",
+    "title": "지정학적 맥락에서 본 중국의 일대일로와 미 대선이 한국에 미칠 외교적 영향",
+    "description": null,
+    "keywords": [
+      "외교"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 지정학적 맥락에서 본 중국의 일대일로와 미 대선이 한국에 미칠 외교적 영향 | 과목: 중국문화 | 시기: 3-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "0e205924dadb",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "세계문제와미래사회",
+    "title": "하트랜드와 림랜드, 그리고 각 국가 간 지정학적 관계에 관한 비교 연구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 하트랜드와 림랜드, 그리고 각 국가 간 지정학적 관계에 관한 비교 연구 | 과목: 세계문제와미래사회 | 시기: 3-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "8b6bfccf2456",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "확률과통계",
+    "title": "경우의수를활용한리듬교육콘텐츠",
+    "description": null,
+    "keywords": [
+      "교육"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 경우의수를활용한리듬교육콘텐츠 | 과목: 확률과통계 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "8b6bfccf2456",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "생활과과학",
+    "title": "감염성질병의발달에따른대응방식",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 감염성질병의발달에따른대응방식 | 과목: 생활과과학 | 시기: 2-2"
+  },
+  {
+    "id": "research_003",
+    "student_id": "8b6bfccf2456",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "독서",
+    "title": "미래사회에도인간의번역이필요할까?",
+    "description": null,
+    "keywords": [
+      "사회"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 미래사회에도인간의번역이필요할까? | 과목: 독서 | 시기: 2-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "8b6bfccf2456",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "자율",
+    "title": "지루한경제교육, 그럼에도해야하는이유는?",
+    "description": null,
+    "keywords": [
+      "경제",
+      "교육"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 지루한경제교육, 그럼에도해야하는이유는? | 과목: 자율 | 시기: 1-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "8b6bfccf2456",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "청소년우울과학업스트레스의상관관계",
+    "description": null,
+    "keywords": [
+      "과학"
+    ],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 청소년우울과학업스트레스의상관관계 | 과목: 동아리 | 시기: 3-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "8b6bfccf2456",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "통합사회",
+    "title": "전태일이불꽃이되어야만했던이유",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 전태일이불꽃이되어야만했던이유 | 과목: 통합사회 | 시기: 1-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "8b6bfccf2456",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "자율",
+    "title": "학생맞춤형꿈을찾는교육방안",
+    "description": null,
+    "keywords": [
+      "교육"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 학생맞춤형꿈을찾는교육방안 | 과목: 자율 | 시기: 2-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "8b6bfccf2456",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "자율",
+    "title": "학교내에서이타심을기반으로한협력이필요한가?",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 학교내에서이타심을기반으로한협력이필요한가? | 과목: 자율 | 시기: 3-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "8b6bfccf2456",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "자율",
+    "title": "기술의발전으로마약의긍정적인성분만을뽑아사회에좋은영향을줄순없는가?",
+    "description": null,
+    "keywords": [
+      "사회",
+      "기술"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 기술의발전으로마약의긍정적인성분만을뽑아사회에좋은영향을줄순없는가? | 과목: 자율 | 시기: 2-2"
+  },
+  {
+    "id": "research_010",
+    "student_id": "8b6bfccf2456",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "동아리",
+    "title": "미래사회에수학문제를푸는능력이필요할까?",
+    "description": null,
+    "keywords": [
+      "사회",
+      "수학"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 미래사회에수학문제를푸는능력이필요할까? | 과목: 동아리 | 시기: 2-2"
+  },
+  {
+    "id": "research_001",
+    "student_id": "96186bc3e182",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "mRNA 백신의 면역원성과 반응성을 조절하기 위한 방법",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: mRNA 백신의 면역원성과 반응성을 조절하기 위한 방법 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "96186bc3e182",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "화학II",
+    "title": "화학전지에서 시트르산의 분해와 pH 변화 실험",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 화학전지에서 시트르산의 분해와 pH 변화 실험 | 과목: 화학II | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "96186bc3e182",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "자율",
+    "title": "다니엘 전지에서 수용액과 염다리의 농도에 따른 전압 실험",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 다니엘 전지에서 수용액과 염다리의 농도에 따른 전압 실험 | 과목: 자율 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "96186bc3e182",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "화학II",
+    "title": "르 샤틀리에 법칙을 이용한 아스피린 합성 실험 시 수득률을 높이기 위한 방법",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 르 샤틀리에 법칙을 이용한 아스피린 합성 실험 시 수득률을 높이기 위한 방법 | 과목: 화학II | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "96186bc3e182",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "사회문제탐구",
+    "title": "부의 대물림 문제와 소득 수준과 부의 양극화 사이 관계 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 부의 대물림 문제와 소득 수준과 부의 양극화 사이 관계 탐구 | 과목: 사회문제탐구 | 시기: 3-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "96186bc3e182",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "진로",
+    "title": "항암제의 종류와 역사",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 항암제의 종류와 역사 | 과목: 진로 | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "96186bc3e182",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "영어",
+    "title": "'공정하다는 착각(마이클 샌델)' 독후감",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: '공정하다는 착각(마이클 샌델)' 독후감 | 과목: 영어 | 시기: 2-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "96186bc3e182",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "약물 전달 시스템(알지네이트 비드)과 관련된 탐구 및 실험",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 약물 전달 시스템(알지네이트 비드)과 관련된 탐구 및 실험 | 과목: 동아리 | 시기: 2-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "96186bc3e182",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "아스피린 합성 실험 및 수득률 계산",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 아스피린 합성 실험 및 수득률 계산 | 과목: 동아리 | 시기: 1-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "96186bc3e182",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "통합과학",
+    "title": "약물 전달 시스템(풀러렌, 마이크로니들)과 관련된 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 약물 전달 시스템(풀러렌, 마이크로니들)과 관련된 탐구 | 과목: 통합과학 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "b76e4d9c7f14",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "물리학I",
+    "title": "구조의 보조기둥에 따른 무게 분산 실험, 내진 설계의 물리적 원리 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 구조의 보조기둥에 따른 무게 분산 실험, 내진 설계의 물리적 원리 탐구 | 과목: 물리학I | 시기: 2-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "b76e4d9c7f14",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아리활동",
+    "title": "‘인공지능정보통합모델링(BIM)’ 적용 탐구",
+    "description": null,
+    "keywords": [
+      "인공지능"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: ‘인공지능정보통합모델링(BIM)’ 적용 탐구 | 과목: 동아리활동 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "b76e4d9c7f14",
+    "term": "1-1~2-2",
+    "grade": 1,
+    "semester": 1,
+    "subject": "동아리활동",
+    "title": "아두이노를 기반으로 한 화장실 악취 제거 프로젝트",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 아두이노를 기반으로 한 화장실 악취 제거 프로젝트 | 과목: 동아리활동 | 시기: 1-1~2-2"
+  },
+  {
+    "id": "research_004",
+    "student_id": "b76e4d9c7f14",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "창의융합주제 탐구",
+    "title": "우주건축에서의 현재 진척 상황과 문제점, 미래 전망 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 우주건축에서의 현재 진척 상황과 문제점, 미래 전망 탐구 | 과목: 창의융합주제 탐구 | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "b76e4d9c7f14",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "독서",
+    "title": "건축물 붕괴를 사례로 한 건축계에서 필요한 변화에 관해 글쓰기",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 건축물 붕괴를 사례로 한 건축계에서 필요한 변화에 관해 글쓰기 | 과목: 독서 | 시기: 3-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "b76e4d9c7f14",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "기하",
+    "title": "건축물에서의 기하적 구조와 각 구조의 원리 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 건축물에서의 기하적 구조와 각 구조의 원리 탐구 | 과목: 기하 | 시기: 2-2"
+  },
+  {
+    "id": "research_007",
+    "student_id": "b76e4d9c7f14",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "진로",
+    "title": "에너지 제로 하우스와 지속 가능한 지구를 위한 건축",
+    "description": null,
+    "keywords": [
+      "에너지"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 에너지 제로 하우스와 지속 가능한 지구를 위한 건축 | 과목: 진로 | 시기: 2-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "b76e4d9c7f14",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "수업량 유연화",
+    "title": "에너지 하비스팅을 기반으로 학교 건축물에 적용될 수 있는 친환경 에너지 탐구",
+    "description": null,
+    "keywords": [
+      "환경",
+      "에너지"
+    ],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 에너지 하비스팅을 기반으로 학교 건축물에 적용될 수 있는 친환경 에너지 탐구 | 과목: 수업량 유연화 | 시기: 2-2"
+  },
+  {
+    "id": "research_009",
+    "student_id": "b76e4d9c7f14",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "융합과학탐구",
+    "title": "지역 내의 어류의 방사능 현황 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 지역 내의 어류의 방사능 현황 탐구 | 과목: 융합과학탐구 | 시기: 2-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "b76e4d9c7f14",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "지구과학I",
+    "title": "기후변화 및 지구온난화를 위한 그린 빌딩 탐구",
+    "description": null,
+    "keywords": [
+      "기후"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 기후변화 및 지구온난화를 위한 그린 빌딩 탐구 | 과목: 지구과학I | 시기: 2-2"
+  },
+  {
+    "id": "research_001",
+    "student_id": "7b0a663cc369",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "‘신안염전노예사건’ 중심의로대한민국사법실태에대한논의및대책마련하기",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: ‘신안염전노예사건’ 중심의로대한민국사법실태에대한논의및대책마련하기 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "7b0a663cc369",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "연구방법을통한‘청소년의사법신뢰도’ 파악및이에대한대책연구",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 연구방법을통한‘청소년의사법신뢰도’ 파악및이에대한대책연구 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "7b0a663cc369",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "사실적시명예훼손에대한고찰: 밀의자유론을중심으로",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 사실적시명예훼손에대한고찰: 밀의자유론을중심으로 | 과목: 동아리 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "7b0a663cc369",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "생활과윤리",
+    "title": "롤스의재산소유민주주의를중심으로한대한민국의공정담론에대해탐구하기",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 롤스의재산소유민주주의를중심으로한대한민국의공정담론에대해탐구하기 | 과목: 생활과윤리 | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "7b0a663cc369",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "융합프로젝트",
+    "title": "제2차한국전쟁시나리오작성및일탈이론을통한북핵문제탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 제2차한국전쟁시나리오작성및일탈이론을통한북핵문제탐구 | 과목: 융합프로젝트 | 시기: 3-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "7b0a663cc369",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "독서",
+    "title": "‘평화당연하지않은이야기’ 읽고공정무역캠페인진행",
+    "description": null,
+    "keywords": [
+      "무역"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: ‘평화당연하지않은이야기’ 읽고공정무역캠페인진행 | 과목: 독서 | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "7b0a663cc369",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "정치와법",
+    "title": "‘ 우리는왜서로를미워하는가’를통해보는미국과대한민국의정치양극화",
+    "description": null,
+    "keywords": [
+      "정치"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: ‘ 우리는왜서로를미워하는가’를통해보는미국과대한민국의정치양극화 | 과목: 정치와법 | 시기: 2-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "7b0a663cc369",
+    "term": "1-2",
+    "grade": 1,
+    "semester": 2,
+    "subject": "중국어",
+    "title": "중국의민족주의양상과우리나라의미치는영향및올바른대응방향",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 중국의민족주의양상과우리나라의미치는영향및올바른대응방향 | 과목: 중국어 | 시기: 1-2"
+  },
+  {
+    "id": "research_009",
+    "student_id": "7b0a663cc369",
+    "term": "1-2",
+    "grade": 1,
+    "semester": 2,
+    "subject": "진로",
+    "title": "군주론과목민심서를비교분석하고지도자의덕목에대해탐구하기",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 군주론과목민심서를비교분석하고지도자의덕목에대해탐구하기 | 과목: 진로 | 시기: 1-2"
+  },
+  {
+    "id": "research_010",
+    "student_id": "7b0a663cc369",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "‘베니스의상인’을읽고샤일록의정체성으로인한법적차별이존재하는지분석하기",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: ‘베니스의상인’을읽고샤일록의정체성으로인한법적차별이존재하는지분석하기 | 과목: 동아리 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "b555f4504bb8",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "분할뇌환자를 대상으로 한 실험의 일반인에의 적용",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 분할뇌환자를 대상으로 한 실험의 일반인에의 적용 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "b555f4504bb8",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "융합프로젝트",
+    "title": "다문화가정의 언어문제 해결을 위한 게임코딩",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 다문화가정의 언어문제 해결을 위한 게임코딩 | 과목: 융합프로젝트 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "b555f4504bb8",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "생명과학II",
+    "title": "조현병환자의 와해된 언어증상의 언어심리학적 재분석",
+    "description": null,
+    "keywords": [
+      "심리"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 조현병환자의 와해된 언어증상의 언어심리학적 재분석 | 과목: 생명과학II | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "b555f4504bb8",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "화학II",
+    "title": "온도와 분자에너지 그래프와 비타민 약효 그래프의 유사성",
+    "description": null,
+    "keywords": [
+      "에너지"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 온도와 분자에너지 그래프와 비타민 약효 그래프의 유사성 | 과목: 화학II | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "b555f4504bb8",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "미적분",
+    "title": "미적분을 통해 바라본 통상적인 비타민의 약효 그래프의 한계",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 미적분을 통해 바라본 통상적인 비타민의 약효 그래프의 한계 | 과목: 미적분 | 시기: 3-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "b555f4504bb8",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "수학II",
+    "title": "비타민을 통한 조현병 증상 완화와 비타민의 약효 그래프의 수학적 분석",
+    "description": null,
+    "keywords": [
+      "수학"
+    ],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 비타민을 통한 조현병 증상 완화와 비타민의 약효 그래프의 수학적 분석 | 과목: 수학II | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "b555f4504bb8",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "생명과학I",
+    "title": "메이키메이키를 이용한 작곡을 통해 알아본 생체전기와 그 활용",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 메이키메이키를 이용한 작곡을 통해 알아본 생체전기와 그 활용 | 과목: 생명과학I | 시기: 2-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "b555f4504bb8",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "수학",
+    "title": "뇌파 분석을 통해 바라본 청소년 우울증",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 뇌파 분석을 통해 바라본 청소년 우울증 | 과목: 수학 | 시기: 1-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "b555f4504bb8",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "영어",
+    "title": "병원의 빈티지 메이크업이 치매 환자들에게 미치는 영향",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 병원의 빈티지 메이크업이 치매 환자들에게 미치는 영향 | 과목: 영어 | 시기: 1-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "b555f4504bb8",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "통합사회",
+    "title": "정신질병으로 인한 부정적 외부효과와 해결방안",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 정신질병으로 인한 부정적 외부효과와 해결방안 | 과목: 통합사회 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "2572a7a82ca4",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "사회문제탐구",
+    "title": "뇌병변장애인의 의사소통 능력이 사회 진출에 미치는 영향",
+    "description": null,
+    "keywords": [
+      "사회"
+    ],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 뇌병변장애인의 의사소통 능력이 사회 진출에 미치는 영향 | 과목: 사회문제탐구 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "2572a7a82ca4",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "자율",
+    "title": "뇌모델링 학습 알고리즘",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 뇌모델링 학습 알고리즘 | 과목: 자율 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "2572a7a82ca4",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "미적분",
+    "title": "푸리에 적분과 푸리에 변환 유도 및 뇌파 분석에서의 활용",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 푸리에 적분과 푸리에 변환 유도 및 뇌파 분석에서의 활용 | 과목: 미적분 | 시기: 2-2"
+  },
+  {
+    "id": "research_004",
+    "student_id": "2572a7a82ca4",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "수학2",
+    "title": "삼각함수의 적분과 푸리에 급수",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 삼각함수의 적분과 푸리에 급수 | 과목: 수학2 | 시기: 2-2"
+  },
+  {
+    "id": "research_005",
+    "student_id": "2572a7a82ca4",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "언어와 매체",
+    "title": "생성형 인공지능 언어 창작물의 현황과 전망",
+    "description": null,
+    "keywords": [
+      "인공지능"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 생성형 인공지능 언어 창작물의 현황과 전망 | 과목: 언어와 매체 | 시기: 2-2"
+  },
+  {
+    "id": "research_006",
+    "student_id": "2572a7a82ca4",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "물리학1",
+    "title": "전자기 유도 원리를 활용한 뇌파와 뇌자도 원리",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 전자기 유도 원리를 활용한 뇌파와 뇌자도 원리 | 과목: 물리학1 | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "2572a7a82ca4",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "영어1",
+    "title": "분석 심리학 속 뇌과학적 근거",
+    "description": null,
+    "keywords": [
+      "과학",
+      "심리"
+    ],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 분석 심리학 속 뇌과학적 근거 | 과목: 영어1 | 시기: 2-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "2572a7a82ca4",
+    "term": "1-2",
+    "grade": 1,
+    "semester": 2,
+    "subject": "문학",
+    "title": "'낯설게 하기'의 인지과학적 효과",
+    "description": null,
+    "keywords": [
+      "과학"
+    ],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: '낯설게 하기'의 인지과학적 효과 | 과목: 문학 | 시기: 1-2"
+  },
+  {
+    "id": "research_009",
+    "student_id": "2572a7a82ca4",
+    "term": "1-2",
+    "grade": 1,
+    "semester": 2,
+    "subject": "진로",
+    "title": "음성장애인을 위한 음성합성 BCI",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 음성장애인을 위한 음성합성 BCI | 과목: 진로 | 시기: 1-2"
+  },
+  {
+    "id": "research_010",
+    "student_id": "2572a7a82ca4",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "진로",
+    "title": "유전통계학의 원리와 전유전체 연관 분석 속 표본 집단의 특징",
+    "description": null,
+    "keywords": [
+      "통계"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 유전통계학의 원리와 전유전체 연관 분석 속 표본 집단의 특징 | 과목: 진로 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "afa60de28438",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "개인세부능력",
+    "title": "친환경 수소 연료 전지",
+    "description": null,
+    "keywords": [
+      "환경"
+    ],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 친환경 수소 연료 전지 | 과목: 개인세부능력 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "afa60de28438",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "민주시민",
+    "title": "플라스틱 분해로 바라보는 친환경 기초",
+    "description": null,
+    "keywords": [
+      "환경"
+    ],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 플라스틱 분해로 바라보는 친환경 기초 | 과목: 민주시민 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "afa60de28438",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "물리학 2",
+    "title": "X선 회절법과 XRD 그래프 분석, 흑연의 XRD 그래프 분석",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: X선 회절법과 XRD 그래프 분석, 흑연의 XRD 그래프 분석 | 과목: 물리학 2 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "afa60de28438",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "RE100과 버려진 탄소 섬유 활용한 해상 태양광 부력체",
+    "description": null,
+    "keywords": [
+      "탄소"
+    ],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: RE100과 버려진 탄소 섬유 활용한 해상 태양광 부력체 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "afa60de28438",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "생명과학 1",
+    "title": "생물 다양성 보전, 생분해성 플라스틱으로",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 생물 다양성 보전, 생분해성 플라스틱으로 | 과목: 생명과학 1 | 시기: 2-2"
+  },
+  {
+    "id": "research_006",
+    "student_id": "afa60de28438",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "미적분",
+    "title": "생분해성 플라스틱의 분해",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 생분해성 플라스틱의 분해 | 과목: 미적분 | 시기: 3-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "afa60de28438",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "기후 관련 문제가 신소재 산업에 미치는 영향",
+    "description": null,
+    "keywords": [
+      "기후"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 기후 관련 문제가 신소재 산업에 미치는 영향 | 과목: 동아리 | 시기: 3-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "afa60de28438",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "영어 2",
+    "title": "로마 콘크리트의 자가 치유 잠재력을 통한 친환경적 대안",
+    "description": null,
+    "keywords": [
+      "환경"
+    ],
+    "linked_saeteuk_id": "saeteuk_006",
+    "rag_text": "탐구주제: 로마 콘크리트의 자가 치유 잠재력을 통한 친환경적 대안 | 과목: 영어 2 | 시기: 2-2"
+  },
+  {
+    "id": "research_009",
+    "student_id": "afa60de28438",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "진로",
+    "title": "탄소 소재 신소재 - 풀러렌, 그래핀, 탄소 나노 튜브",
+    "description": null,
+    "keywords": [
+      "탄소"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 탄소 소재 신소재 - 풀러렌, 그래핀, 탄소 나노 튜브 | 과목: 진로 | 시기: 2-2"
+  },
+  {
+    "id": "research_010",
+    "student_id": "afa60de28438",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "화학 2",
+    "title": "그래핀과 탄소 나노 튜브의 개발 현황과 상용화",
+    "description": null,
+    "keywords": [
+      "탄소"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 그래핀과 탄소 나노 튜브의 개발 현황과 상용화 | 과목: 화학 2 | 시기: 3-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "080746ec0c3e",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "화법과작문",
+    "title": "소설 ‘완득이’와 연관지어 중국인에 대한 한국인의 부정적인 인식과 자극적인 매체 보도",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 소설 ‘완득이’와 연관지어 중국인에 대한 한국인의 부정적인 인식과 자극적인 매체 보도 | 과목: 화법과작문 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "080746ec0c3e",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "언어와매체",
+    "title": "중국과 대만의 상호의존성 - 대만의 중국 무역 의존도와 중국의 대만 침공 가능성을 중심으로",
+    "description": null,
+    "keywords": [
+      "무역"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 중국과 대만의 상호의존성 - 대만의 중국 무역 의존도와 중국의 대만 침공 가능성을 중심으로 | 과목: 언어와매체 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "080746ec0c3e",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "사회문화",
+    "title": "머튼의 아노미 이론과 중국의 ‘탕핑족 문화’",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 머튼의 아노미 이론과 중국의 ‘탕핑족 문화’ | 과목: 사회문화 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "080746ec0c3e",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "창체",
+    "title": "지역 수질 복원 센터에 방문 후 한국과 중국의 환경 제도 비교",
+    "description": null,
+    "keywords": [
+      "환경"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 지역 수질 복원 센터에 방문 후 한국과 중국의 환경 제도 비교 | 과목: 창체 | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "080746ec0c3e",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "중국어회화",
+    "title": "중국의 산아제한 정책의 시대별 구분과 문제점, 그에 대한 해결책",
+    "description": null,
+    "keywords": [
+      "정책"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 중국의 산아제한 정책의 시대별 구분과 문제점, 그에 대한 해결책 | 과목: 중국어회화 | 시기: 3-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "080746ec0c3e",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "자율",
+    "title": "중국 타이완 문제 - 경제, 정치, 안보적 측면을 중심으로",
+    "description": null,
+    "keywords": [
+      "경제",
+      "정치"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 중국 타이완 문제 - 경제, 정치, 안보적 측면을 중심으로 | 과목: 자율 | 시기: 2-2"
+  },
+  {
+    "id": "research_007",
+    "student_id": "080746ec0c3e",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "독서",
+    "title": "중국의 일대일로 사업에 대한 비판과 구조적 문제",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 중국의 일대일로 사업에 대한 비판과 구조적 문제 | 과목: 독서 | 시기: 2-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "080746ec0c3e",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "수학2",
+    "title": "삼차함수와 도함수를 이용한 우크라이나 대통령의 지지율 그래프",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 삼차함수와 도함수를 이용한 우크라이나 대통령의 지지율 그래프 | 과목: 수학2 | 시기: 2-2"
+  },
+  {
+    "id": "research_009",
+    "student_id": "080746ec0c3e",
+    "term": "1-2",
+    "grade": 1,
+    "semester": 2,
+    "subject": "중국어1",
+    "title": "중국어의 간화자 변천 과정과 문자 개혁",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 중국어의 간화자 변천 과정과 문자 개혁 | 과목: 중국어1 | 시기: 1-2"
+  },
+  {
+    "id": "research_010",
+    "student_id": "080746ec0c3e",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "확률과통계",
+    "title": "선거제도의 역설 - 모집단과 표본을 이용한 여론조사의 한계점을 중심으로",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 선거제도의 역설 - 모집단과 표본을 이용한 여론조사의 한계점을 중심으로 | 과목: 확률과통계 | 시기: 2-2"
+  },
+  {
+    "id": "research_001",
+    "student_id": "7aa573ae5726",
+    "term": "3학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "자율",
+    "title": "디지털 리터러시를 활용한 경계선 지능 학습자의 학습 지원 방안",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 디지털 리터러시를 활용한 경계선 지능 학습자의 학습 지원 방안 | 과목: 자율 | 시기: 3학년"
+  },
+  {
+    "id": "research_002",
+    "student_id": "7aa573ae5726",
+    "term": "3학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "동아리",
+    "title": "HIV/AIDS 현황과 해결 방안에서의 사회 구조 개선: 교육과정 신건강 측면에서",
+    "description": null,
+    "keywords": [
+      "AI",
+      "사회",
+      "건강",
+      "교육"
+    ],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: HIV/AIDS 현황과 해결 방안에서의 사회 구조 개선: 교육과정 신건강 측면에서 | 과목: 동아리 | 시기: 3학년"
+  },
+  {
+    "id": "research_003",
+    "student_id": "7aa573ae5726",
+    "term": "3학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "진로",
+    "title": "저소득 노인의 건강 관리 실태에 대한 주거 환경 영향 요인의 재해석: 플로렌스 나이팅게일 평전을 읽고 나이팅게일의 간호 환경 이론 기반으로",
+    "description": null,
+    "keywords": [
+      "환경",
+      "건강"
+    ],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 저소득 노인의 건강 관리 실태에 대한 주거 환경 영향 요인의 재해석: 플로렌스 나이팅게일 평전을 읽고 나이팅게일의 간호 환경 이론 기반으로 | 과목: 진로 | 시기: 3학년"
+  },
+  {
+    "id": "research_004",
+    "student_id": "7aa573ae5726",
+    "term": "3학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "융합학술",
+    "title": "2000명의 의대 증원과 공공 지역 간호사 제도 비교 및 법안 제정의 한계 역설",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 2000명의 의대 증원과 공공 지역 간호사 제도 비교 및 법안 제정의 한계 역설 | 과목: 융합학술 | 시기: 3학년"
+  },
+  {
+    "id": "research_005",
+    "student_id": "7aa573ae5726",
+    "term": "3학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "동아리",
+    "title": "효율적 이타주의 관점에서 바라본 국제 자선 사업",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 효율적 이타주의 관점에서 바라본 국제 자선 사업 | 과목: 동아리 | 시기: 3학년"
+  },
+  {
+    "id": "research_006",
+    "student_id": "7aa573ae5726",
+    "term": "3학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "진로",
+    "title": "조직의 인간형에 대한 탐구: 제3 인간형을 읽고 연대적인 인간과 경제적인 인간을 중심으로",
+    "description": null,
+    "keywords": [
+      "경제"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 조직의 인간형에 대한 탐구: 제3 인간형을 읽고 연대적인 인간과 경제적인 인간을 중심으로 | 과목: 진로 | 시기: 3학년"
+  },
+  {
+    "id": "research_007",
+    "student_id": "7aa573ae5726",
+    "term": "2학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "동아리",
+    "title": "간호법, 간호 환경을 바꾸다",
+    "description": null,
+    "keywords": [
+      "환경",
+      "법"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 간호법, 간호 환경을 바꾸다 | 과목: 동아리 | 시기: 2학년"
+  },
+  {
+    "id": "research_008",
+    "student_id": "7aa573ae5726",
+    "term": "2학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "자율",
+    "title": "간호사의 날 행사 총괄",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 간호사의 날 행사 총괄 | 과목: 자율 | 시기: 2학년"
+  },
+  {
+    "id": "research_009",
+    "student_id": "7aa573ae5726",
+    "term": "1학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "자율",
+    "title": "내분비계를 교란시키는 미세 플라스틱",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 내분비계를 교란시키는 미세 플라스틱 | 과목: 자율 | 시기: 1학년"
+  },
+  {
+    "id": "research_010",
+    "student_id": "7aa573ae5726",
+    "term": "1학년",
+    "grade": 0,
+    "semester": 0,
+    "subject": "동아리",
+    "title": "브라질의 빈부 격차 원인과 해결 방안으로서 문화 사업",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 브라질의 빈부 격차 원인과 해결 방안으로서 문화 사업 | 과목: 동아리 | 시기: 1학년"
+  },
+  {
+    "id": "research_001",
+    "student_id": "2e6498cc752c",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "하천범람에 따른 침수 문제의 해결 방안 - 친환경 수문 아이디어 터빈 수문 탐구",
+    "description": null,
+    "keywords": [
+      "환경"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 하천범람에 따른 침수 문제의 해결 방안 - 친환경 수문 아이디어 터빈 수문 탐구 | 과목: 동아리 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "2e6498cc752c",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "교내 매점 분리수거 문제 해결에 대한 밸런스 분리수거 박스 캠페인 주도적 기획 및 진행",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 교내 매점 분리수거 문제 해결에 대한 밸런스 분리수거 박스 캠페인 주도적 기획 및 진행 | 과목: 동아리 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "2e6498cc752c",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "자율",
+    "title": "기름 오염 사고 해결 아이디어 생분해성 유흡응공 제시 및 탐구",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 기름 오염 사고 해결 아이디어 생분해성 유흡응공 제시 및 탐구 | 과목: 자율 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "2e6498cc752c",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "화학실험",
+    "title": "두 하천수의 수질 오염 정도를 비교하는 실험",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 두 하천수의 수질 오염 정도를 비교하는 실험 | 과목: 화학실험 | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "2e6498cc752c",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "지구과학1",
+    "title": "아멘토플라본을 이용한 녹조 제거 친환경 흡착포 개발 연구 실험",
+    "description": null,
+    "keywords": [
+      "환경"
+    ],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 아멘토플라본을 이용한 녹조 제거 친환경 흡착포 개발 연구 실험 | 과목: 지구과학1 | 시기: 2-2"
+  },
+  {
+    "id": "research_006",
+    "student_id": "2e6498cc752c",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "진로",
+    "title": "아멘토플라본을 이용한 녹조 제거 친환경 흡착포 개발 연구의 문제 고찰 및 대체물질 제시 탐구",
+    "description": null,
+    "keywords": [
+      "환경"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 아멘토플라본을 이용한 녹조 제거 친환경 흡착포 개발 연구의 문제 고찰 및 대체물질 제시 탐구 | 과목: 진로 | 시기: 2-2"
+  },
+  {
+    "id": "research_007",
+    "student_id": "2e6498cc752c",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "진로",
+    "title": "조류의 대량 생산을 위한 빠른 증식 조건 탐색 실험",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 조류의 대량 생산을 위한 빠른 증식 조건 탐색 실험 | 과목: 진로 | 시기: 2-2"
+  },
+  {
+    "id": "research_008",
+    "student_id": "2e6498cc752c",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "동아리",
+    "title": "친환경 소재 셀룰로오스를 이용한 생태 모방 망과 와이퍼를 활용한 신개념 하수구 아이디어 발표",
+    "description": null,
+    "keywords": [
+      "환경"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 친환경 소재 셀룰로오스를 이용한 생태 모방 망과 와이퍼를 활용한 신개념 하수구 아이디어 발표 | 과목: 동아리 | 시기: 2-2"
+  },
+  {
+    "id": "research_009",
+    "student_id": "2e6498cc752c",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "자율",
+    "title": "수질 정화 미생물 최적화를 통한 수질 개선 방안 탐구 실험",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 수질 정화 미생물 최적화를 통한 수질 개선 방안 탐구 실험 | 과목: 자율 | 시기: 2-2"
+  },
+  {
+    "id": "research_010",
+    "student_id": "2e6498cc752c",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "수학",
+    "title": "‘풍력 발전기의 날개는 왜 3개일까?’ 수학 탐구 보고서 작성 및 발표",
+    "description": null,
+    "keywords": [
+      "수학"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: ‘풍력 발전기의 날개는 왜 3개일까?’ 수학 탐구 보고서 작성 및 발표 | 과목: 수학 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "48f74de18feb",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "히스톤 단백질과 유전자 발현(후성유전학적 개념)",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 히스톤 단백질과 유전자 발현(후성유전학적 개념) | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "48f74de18feb",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "자율",
+    "title": "지속가능 미래포럼: 건강하고 행복한 삶 보장– 비만과 사상의학",
+    "description": null,
+    "keywords": [
+      "건강"
+    ],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: 지속가능 미래포럼: 건강하고 행복한 삶 보장– 비만과 사상의학 | 과목: 자율 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "48f74de18feb",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "미적분",
+    "title": "수학주제탐구: 테일러급수를 이용한 항함수 표현",
+    "description": null,
+    "keywords": [
+      "수학"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 수학주제탐구: 테일러급수를 이용한 항함수 표현 | 과목: 미적분 | 시기: 3-1"
+  },
+  {
+    "id": "research_004",
+    "student_id": "48f74de18feb",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "미적분",
+    "title": "테일러급수를 이용한 침을 놓는 상황의 수학적 모델링",
+    "description": null,
+    "keywords": [
+      "수학"
+    ],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 테일러급수를 이용한 침을 놓는 상황의 수학적 모델링 | 과목: 미적분 | 시기: 3-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "48f74de18feb",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "수업량 유연화",
+    "title": "한약재 속 독성 성분 매커니즘 및 포제 방법 탐구: 아코니틴의 포제",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 한약재 속 독성 성분 매커니즘 및 포제 방법 탐구: 아코니틴의 포제 | 과목: 수업량 유연화 | 시기: 3-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "48f74de18feb",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "화학",
+    "title": "에텐은 왜 반발력을 최소화하지 못하는 평면의 결합 구조를 가지는가?",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 에텐은 왜 반발력을 최소화하지 못하는 평면의 결합 구조를 가지는가? | 과목: 화학 | 시기: 2-1"
+  },
+  {
+    "id": "research_007",
+    "student_id": "48f74de18feb",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "융합과학탐구",
+    "title": "나비효과: 카페인과 디카페인 섭취 후의 심전도 그래프 변화",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 나비효과: 카페인과 디카페인 섭취 후의 심전도 그래프 변화 | 과목: 융합과학탐구 | 시기: 2-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "48f74de18feb",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "자율",
+    "title": "면역학을 한의학적으로 바라본 견해",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 면역학을 한의학적으로 바라본 견해 | 과목: 자율 | 시기: 2-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "48f74de18feb",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "통합과학",
+    "title": "미토콘드리아의 기체 교환에서 산소는 모두 산화될까?",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 미토콘드리아의 기체 교환에서 산소는 모두 산화될까? | 과목: 통합과학 | 시기: 1-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "48f74de18feb",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "국어",
+    "title": "독서 후, 내 생포자에 대한 호기심: 흑사병의 현시대 영향이 없는 이유",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 독서 후, 내 생포자에 대한 호기심: 흑사병의 현시대 영향이 없는 이유 | 과목: 국어 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "557b5c3e79b6",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "고급 생명과학",
+    "title": "AlphaFold3로 단백질 구조 예측하기",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: AlphaFold3로 단백질 구조 예측하기 | 과목: 고급 생명과학 | 시기: 3-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "557b5c3e79b6",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "고급 생명과학",
+    "title": "MSA를 통한 TF2D와 시그마인자의 서열 분석",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: MSA를 통한 TF2D와 시그마인자의 서열 분석 | 과목: 고급 생명과학 | 시기: 3-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "557b5c3e79b6",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "자율 교육과정",
+    "title": "물질의 항생 효과를 증진하는 방법: 마늘과 생강의 추출법에 따른 항생 효과와 상승 효과",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 물질의 항생 효과를 증진하는 방법: 마늘과 생강의 추출법에 따른 항생 효과와 상승 효과 | 과목: 자율 교육과정 | 시기: 2-2"
+  },
+  {
+    "id": "research_004",
+    "student_id": "557b5c3e79b6",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "생명과학 II",
+    "title": "정량적 관점에서의 디곡신의 약리적 효능과 독성 효과",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 정량적 관점에서의 디곡신의 약리적 효능과 독성 효과 | 과목: 생명과학 II | 시기: 2-1"
+  },
+  {
+    "id": "research_005",
+    "student_id": "557b5c3e79b6",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "영어 II",
+    "title": "학교 환경 개선 제안물 작성 – 실험 후 폐수 배출의 어려움을 톱밥으로 개선",
+    "description": null,
+    "keywords": [
+      "환경"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 학교 환경 개선 제안물 작성 – 실험 후 폐수 배출의 어려움을 톱밥으로 개선 | 과목: 영어 II | 시기: 2-1"
+  },
+  {
+    "id": "research_006",
+    "student_id": "557b5c3e79b6",
+    "term": "1-2",
+    "grade": 1,
+    "semester": 2,
+    "subject": "과학교양",
+    "title": "천연 항생제 프로폴리스의 항생 효과",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 천연 항생제 프로폴리스의 항생 효과 | 과목: 과학교양 | 시기: 1-2"
+  },
+  {
+    "id": "research_007",
+    "student_id": "557b5c3e79b6",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "국어",
+    "title": "‘종탑 아래에서’를 읽고 - 정신적 외상으로 실명이 가능한가",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: ‘종탑 아래에서’를 읽고 - 정신적 외상으로 실명이 가능한가 | 과목: 국어 | 시기: 1-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "557b5c3e79b6",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "수학",
+    "title": "타원의 방정식과 원의 방정식",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 타원의 방정식과 원의 방정식 | 과목: 수학 | 시기: 1-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "557b5c3e79b6",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "통합과학",
+    "title": "인체에서의 물리",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 인체에서의 물리 | 과목: 통합과학 | 시기: 1-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "557b5c3e79b6",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "과학탐구실험",
+    "title": "염산과 탄산칼슘의 중화반응 실험",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 염산과 탄산칼슘의 중화반응 실험 | 과목: 과학탐구실험 | 시기: 1-1"
+  },
+  {
+    "id": "research_001",
+    "student_id": "4a159c7ceab3",
+    "term": "1-1",
+    "grade": 1,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "‘팅커캐드’ 프로그램을 활용하여 수학개념이 들어간 3D 우산꽂이 제작",
+    "description": null,
+    "keywords": [
+      "수학"
+    ],
+    "linked_saeteuk_id": "saeteuk_001",
+    "rag_text": "탐구주제: ‘팅커캐드’ 프로그램을 활용하여 수학개념이 들어간 3D 우산꽂이 제작 | 과목: 동아리 | 시기: 1-1"
+  },
+  {
+    "id": "research_002",
+    "student_id": "4a159c7ceab3",
+    "term": "2-1",
+    "grade": 2,
+    "semester": 1,
+    "subject": "수학I",
+    "title": "흑연결정에 대한 인장탄성률을 나타낸 그래프의 기저면의 각도와 탄성률",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 흑연결정에 대한 인장탄성률을 나타낸 그래프의 기저면의 각도와 탄성률 | 과목: 수학I | 시기: 2-1"
+  },
+  {
+    "id": "research_003",
+    "student_id": "4a159c7ceab3",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "동아리",
+    "title": "생명윤리에 대한 딜레마 체험 및 고찰",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": "saeteuk_002",
+    "rag_text": "탐구주제: 생명윤리에 대한 딜레마 체험 및 고찰 | 과목: 동아리 | 시기: 2-2"
+  },
+  {
+    "id": "research_004",
+    "student_id": "4a159c7ceab3",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "자율적교육과정",
+    "title": "에어로졸을 활용한 태양복사에너지 차단 실험 설계 및 진행",
+    "description": null,
+    "keywords": [
+      "에너지"
+    ],
+    "linked_saeteuk_id": "saeteuk_005",
+    "rag_text": "탐구주제: 에어로졸을 활용한 태양복사에너지 차단 실험 설계 및 진행 | 과목: 자율적교육과정 | 시기: 2-2"
+  },
+  {
+    "id": "research_005",
+    "student_id": "4a159c7ceab3",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "진로",
+    "title": "그래핀과 메타물질을 결합한 빛속도 제어소자의 전자기 유도 투과현상",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 그래핀과 메타물질을 결합한 빛속도 제어소자의 전자기 유도 투과현상 | 과목: 진로 | 시기: 2-2"
+  },
+  {
+    "id": "research_006",
+    "student_id": "4a159c7ceab3",
+    "term": "2-2",
+    "grade": 2,
+    "semester": 2,
+    "subject": "물리학I",
+    "title": "폐플라스틱을 이용하여 필라멘트를 만들 수 있는 기계 설계 및 제작",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 폐플라스틱을 이용하여 필라멘트를 만들 수 있는 기계 설계 및 제작 | 과목: 물리학I | 시기: 2-2"
+  },
+  {
+    "id": "research_007",
+    "student_id": "4a159c7ceab3",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "진로",
+    "title": "가시광선 영역에서 유기물을 분해하여 정화형 활동을 하는 TiO2 광촉매를 코팅하는 Sol-gel법과 ALD법",
+    "description": null,
+    "keywords": [
+      "법"
+    ],
+    "linked_saeteuk_id": "saeteuk_003",
+    "rag_text": "탐구주제: 가시광선 영역에서 유기물을 분해하여 정화형 활동을 하는 TiO2 광촉매를 코팅하는 Sol-gel법과 ALD법 | 과목: 진로 | 시기: 3-1"
+  },
+  {
+    "id": "research_008",
+    "student_id": "4a159c7ceab3",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "사회문제탐구",
+    "title": "자동차 급발진 사고의 원인과 해결방안",
+    "description": null,
+    "keywords": [],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 자동차 급발진 사고의 원인과 해결방안 | 과목: 사회문제탐구 | 시기: 3-1"
+  },
+  {
+    "id": "research_009",
+    "student_id": "4a159c7ceab3",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "물리학II",
+    "title": "메타물질로 만든 메타줌렌즈 기술의 원리와 활용",
+    "description": null,
+    "keywords": [
+      "기술"
+    ],
+    "linked_saeteuk_id": "saeteuk_004",
+    "rag_text": "탐구주제: 메타물질로 만든 메타줌렌즈 기술의 원리와 활용 | 과목: 물리학II | 시기: 3-1"
+  },
+  {
+    "id": "research_010",
+    "student_id": "4a159c7ceab3",
+    "term": "3-1",
+    "grade": 3,
+    "semester": 1,
+    "subject": "동아리",
+    "title": "황폐기물을 이용한 친환경 자가치유 소재의 원리와 효과",
+    "description": null,
+    "keywords": [
+      "환경"
+    ],
+    "linked_saeteuk_id": null,
+    "rag_text": "탐구주제: 황폐기물을 이용한 친환경 자가치유 소재의 원리와 효과 | 과목: 동아리 | 시기: 3-1"
+  }
+]

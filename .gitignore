@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Temp files
+*.tmp
+*.log
+nul
+
+# Vercel
+.vercel/
+
+# Large files (optional - uncomment if needed)
+# data/vectordb/
+
+# API keys
+batch_parse*.py
