@@ -271,7 +271,7 @@
 
             // 각 학생의 탐구활동과 세특 추가
             filtered.forEach(student => {
-                student.research = researchData.filter(r => r.student_id === student.id).slice(0, 5);
+                student.research = researchData.filter(r => r.student_id === student.id);
                 student.saeteuk = saeteukData.filter(s => s.student_id === student.id).slice(0, 3);
             });
 
