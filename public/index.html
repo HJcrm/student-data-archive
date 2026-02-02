@@ -275,6 +275,10 @@
                         <input type="checkbox" id="enable_formatting">
                         <span>AI 텍스트 교정 (띄어쓰기 자동 보정)</span>
                     </label>
+                    <label class="checkbox-label" style="margin-top: 10px;">
+                        <input type="checkbox" id="enable_summary" checked>
+                        <span>AI 분석 요약 (합격 선배 분석 정리)</span>
+                    </label>
                 </div>
                 <button type="submit" class="btn" id="searchBtn">🔍 로드맵 생성</button>
             </form>
@@ -482,7 +486,8 @@
                 if (s.saeteuk && s.saeteuk.length > 0) {
                     html += `<h3>${s.final_university} 합격생</h3>`;
                     s.saeteuk.forEach(st => {
-                        const parsed = parseSaeteukContent(st.content || '');
+                        // 이미 파싱된 데이터가 있으면 사용, 없으면 새로 파싱
+                        const parsed = st.parsed || parseSaeteukContent(st.content || '');
 
                         html += `<div class="saeteuk-card">`;
                         html += `<h4>${st.subject || '과목 미상'}</h4>`;
@@ -520,18 +525,18 @@
             return html;
         }
 
-        // 텍스트 교정 함수
-        async function formatText(text) {
+        // 텍스트 처리 함수 (교정 또는 요약)
+        async function processText(text, mode = 'format') {
             try {
                 const response = await fetch('/api/format', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ text })
+                    body: JSON.stringify({ text, mode })
                 });
                 const data = await response.json();
-                return data.success ? data.formatted : text;
+                return data.success ? data.result : text;
             } catch (e) {
-                console.error('포맷 오류:', e);
+                console.error('처리 오류:', e);
                 return text;
             }
         }
@@ -547,15 +552,17 @@
                 top_k: parseInt(document.getElementById('top_k').value)
             };
             const enableFormatting = document.getElementById('enable_formatting').checked;
+            const enableSummary = document.getElementById('enable_summary').checked;
 
             if (!query.nesin_range || !query.major_field) {
                 alert('내신 등급대와 희망 계열을 선택해주세요.');
                 return;
             }
 
-            const loadingText = enableFormatting
-                ? '합격자 데이터를 분석하고 텍스트를 교정하고 있습니다...'
-                : '합격자 데이터를 분석하고 있습니다...';
+            let loadingText = '합격자 데이터를 분석하고 있습니다...';
+            if (enableFormatting || enableSummary) {
+                loadingText = 'AI가 텍스트를 처리하고 있습니다...';
+            }
             document.getElementById('loading').querySelector('p').textContent = loadingText;
             document.getElementById('loading').style.display = 'block';
             document.getElementById('result').style.display = 'none';
@@ -564,14 +571,26 @@
             try {
                 const results = searchStudents(query.nesin_range, query.school_type, query.major_field, query.top_k);
 
-                // 텍스트 교정 적용
-                if (enableFormatting) {
-                    for (const student of results) {
-                        if (student.saeteuk) {
-                            for (const st of student.saeteuk) {
-                                if (st.content) {
-                                    st.content = await formatText(st.content);
+                // 각 세특에 대해 파싱 및 AI 처리 적용
+                for (const student of results) {
+                    if (student.saeteuk) {
+                        for (const st of student.saeteuk) {
+                            if (st.content) {
+                                // 먼저 파싱
+                                const parsed = parseSaeteukContent(st.content);
+
+                                // 텍스트 교정 적용
+                                if (enableFormatting && parsed.main) {
+                                    parsed.main = await processText(parsed.main, 'format');
                                 }
+
+                                // 분석 요약 적용
+                                if (enableSummary && parsed.analysis) {
+                                    parsed.analysis = await processText(parsed.analysis, 'summarize');
+                                }
+
+                                // 파싱된 결과 저장
+                                st.parsed = parsed;
                             }
                         }
                     }
