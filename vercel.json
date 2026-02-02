@@ -2,11 +2,19 @@
   "version": 2,
   "builds": [
     {
+      "src": "api/format.py",
+      "use": "@vercel/python"
+    },
+    {
       "src": "public/**",
       "use": "@vercel/static"
     }
   ],
   "routes": [
+    {
+      "src": "/api/format",
+      "dest": "/api/format.py"
+    },
     {
       "src": "/(.*)",
       "dest": "/public/$1"
