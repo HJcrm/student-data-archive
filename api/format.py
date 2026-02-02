@@ -2,13 +2,14 @@ from http.server import BaseHTTPRequestHandler
 import json
 import os
 
-def call_openai(prompt, temperature=0, max_tokens=1000):
+def call_openai(prompt, temperature=0, max_tokens=500):
     """OpenAI API 호출"""
     try:
         import urllib.request
 
         api_key = os.environ.get('OPENAI_API_KEY')
         if not api_key:
+            print("No OPENAI_API_KEY found")
             return None
 
         data = json.dumps({
@@ -27,60 +28,28 @@ def call_openai(prompt, temperature=0, max_tokens=1000):
             }
         )
 
-        with urllib.request.urlopen(req, timeout=60) as response:
+        with urllib.request.urlopen(req, timeout=30) as response:
             result = json.loads(response.read().decode('utf-8'))
             return result['choices'][0]['message']['content']
     except Exception as e:
         print(f"OpenAI error: {e}")
         return None
 
-def process_batch(items):
-    """여러 텍스트를 한 번에 처리 (토큰 최소화)"""
-    if not items:
-        return {}
+def format_text(text):
+    """띄어쓰기 교정"""
+    if not text or len(text.strip()) < 10:
+        return text
+    prompt = f"띄어쓰기만 교정하세요. 내용 변경 금지:\n{text}"
+    result = call_openai(prompt, temperature=0, max_tokens=len(text) + 200)
+    return result if result else text
 
-    # 프롬프트 구성
-    prompt_parts = ["다음 텍스트들을 처리해주세요. 각 항목별로 지시사항을 따르세요.\n"]
-
-    for i, item in enumerate(items):
-        text = item.get('text', '')
-        mode = item.get('mode', 'format')
-        key = item.get('key', str(i))
-
-        if mode == 'format':
-            prompt_parts.append(f"[{key}] 띄어쓰기만 교정:\n{text}\n")
-        elif mode == 'summarize':
-            prompt_parts.append(f"[{key}] 핵심만 2-3줄로 요약 (• 기호 사용):\n{text}\n")
-
-    prompt_parts.append("\n각 항목을 [키] 형식으로 구분하여 결과만 출력하세요.")
-
-    full_prompt = "\n".join(prompt_parts)
-    result = call_openai(full_prompt, temperature=0, max_tokens=2000)
-
-    if not result:
-        return {item.get('key', str(i)): item.get('text', '') for i, item in enumerate(items)}
-
-    # 결과 파싱
-    parsed = {}
-    current_key = None
-    current_content = []
-
-    for line in result.split('\n'):
-        # [키] 패턴 찾기
-        if line.strip().startswith('[') and ']' in line:
-            if current_key:
-                parsed[current_key] = '\n'.join(current_content).strip()
-            bracket_end = line.index(']')
-            current_key = line[1:bracket_end]
-            remaining = line[bracket_end+1:].strip()
-            current_content = [remaining] if remaining else []
-        elif current_key:
-            current_content.append(line)
-
-    if current_key:
-        parsed[current_key] = '\n'.join(current_content).strip()
-
-    return parsed
+def summarize_text(text):
+    """텍스트 요약"""
+    if not text or len(text.strip()) < 20:
+        return text
+    prompt = f"핵심만 2-3줄로 요약하세요. 각 줄 앞에 • 붙이세요:\n{text}"
+    result = call_openai(prompt, temperature=0.2, max_tokens=300)
+    return result if result else text
 
 class handler(BaseHTTPRequestHandler):
     def do_POST(self):
@@ -89,9 +58,21 @@ class handler(BaseHTTPRequestHandler):
             post_data = self.rfile.read(content_length)
             data = json.loads(post_data.decode('utf-8'))
 
-            # 배치 모드 지원
+            # 배치 모드
             if 'items' in data:
-                results = process_batch(data['items'])
+                items = data['items']
+                results = {}
+
+                for item in items:
+                    key = item.get('key', '')
+                    text = item.get('text', '')
+                    mode = item.get('mode', 'format')
+
+                    if mode == 'summarize':
+                        results[key] = summarize_text(text)
+                    else:
+                        results[key] = format_text(text)
+
                 self.send_response(200)
                 self.send_header('Content-Type', 'application/json')
                 self.send_header('Access-Control-Allow-Origin', '*')
@@ -101,13 +82,14 @@ class handler(BaseHTTPRequestHandler):
                     'results': results
                 }).encode('utf-8'))
             else:
-                # 단일 처리 (하위 호환)
+                # 단일 처리
                 text = data.get('text', '')
                 mode = data.get('mode', 'format')
 
-                items = [{'key': '0', 'text': text, 'mode': mode}]
-                results = process_batch(items)
-                result = results.get('0', text)
+                if mode == 'summarize':
+                    result = summarize_text(text)
+                else:
+                    result = format_text(text)
 
                 self.send_response(200)
                 self.send_header('Content-Type', 'application/json')
@@ -117,6 +99,7 @@ class handler(BaseHTTPRequestHandler):
                     'success': True,
                     'result': result
                 }).encode('utf-8'))
+
         except Exception as e:
             self.send_response(500)
             self.send_header('Content-Type', 'application/json')
